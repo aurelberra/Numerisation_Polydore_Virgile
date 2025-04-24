@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De inventoribus</title>
+        <author>all.txt</author>
+        <editor role="editor">?</editor>
+        <respStmt>
+          <resp/>
+          <name>Hector Bonini</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>?<date>?</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Nanterre</publisher>
+        <authority>Master HCHN</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Ms"/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="silent" status="high">
+          <p>OCR + manual correction</p>
+        </correction>
+      </editorialDecl>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-04-24" who="Aurélien Berra">Create initial TEI file</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="lat">
+    <body>
+      <head>POLYDORI VERGILII VRBINATIS DE INVENTORIBVS RERVM LIBER QVINTVS.</head>
+      <pb n="81" facs="poly_81.jpg" xml:id="poly_81"/>
+      <p>Unde nostris consuetudo sit festis diebus exornare templa aulaeis va<lb/> riisque arborum
+        frondibus, floribusve, ac in illis offerre cereas ima-<lb/> gines, &amp; cereos, item
+        accendere lychnos pensiles, quos lampades<lb/> vocant, tabellasque ponere, quibus miracula à
+        diuis facta reprae-<lb/> sentantur, item exhibere festis diebus conuiuia populis, cum
+        quis<lb/> praesertim sacerdos primam celebrat missam.<lb/></p>
+      <div n="1" org="uniform" sample="complete" type="chapter">
+        <head>Caput I.</head>
+        <p>Superiore volumine quo denique pacto Christiana reli-<lb/> gio propagata fuerit inter
+          mortales, &amp; de initio sacerdo<lb/> tij apud Hebraeos &amp; Romanos, ac nouissime apud
+          nos,<lb/> &amp; illud in quot officiorum gradus abiuerit, abunde edo<lb/> cuimus. Nunc
+          autem peregrinos ritus ab ethnicis acce-<lb/> ntos atque reliqua persequemur, quae nostri
+          iam suscepti sunt mune-<lb/> ris. Cum igitur multa ab Hebraeis &amp; non pauca ab Romanis
+          caeterisque<lb/> ethnicis ad nos instituta manauerint, poscit locus, vt obiter ea
+          perin-<lb/> de memoremus, quae ab his acceperimus, atque minime conuenit si-<lb/> lentio
+          praeterire, quae ab illis simus mutuati, cum praesertim illa ipsa<lb/> meliora fecerimus,
+          meliorive vsui adhibuerimus. Sunt itaque multi ri<lb/> tus propè germani, ex quibus, &amp;
+          hic est. Porrò apud nos, festis diebus<lb/> templa &amp; domus nuptiales aulaeis
+          exornantur, lauro, hedera aliisque<lb/> festis frondibus vestiuntur fores, ac vestibula
+          coronantur, spargunturque<lb/> floribus. Quae hercle omnia ipsi gentiles antea seruabant,
+          dicete Ver-<lb/> gilio: Nos delubra deûm miseri quibus vltimus esset Ille dies, festa
+          ve-<lb/> lamus fronde per vrbem. Et alibi: Et varijs florentia limina sertis. Item<lb/>
+          Iuuenalis testatur: Postibus &amp; densos per limina necte corymbos. Lau<lb/> ros quoque
+          adhiberi solitas causa gaudiorum, &amp; festiuitatis, indicat cum<lb/> ait, Pone domi
+          lauros, dux in capitolia magnum Certatumque bouem.<lb/> Tradit idem Tertullianus. Quid
+          quod Martinus primus Romanus<lb/> pontifex haec eadem quae in canonicis decretis Cau.
+          XXVI. q. VII. scri-<lb/> pta leges, &amp; testatur, &amp; vetat, inquiens, Non licet
+          iniquas obseruatio-<lb/> nes agere calendarum, &amp; otijs vacare, neque lauro aut
+          viriditate arborum<lb/> cingere domos. Omnis enim haec obseruatio Paganorum est. Con-<lb/>
+          similiter ritus offerendi cereas imagines, ab ipsis gentilibus est profe-<lb/> ctus. Cum
+          enim Pelasgi, teste Dionysio Halic. quem etiam alibi super<lb/> hac recitauimus, sedibus
+          pulsi. Dodonam peruenissent, ibi accepto respon-<lb/> so, quo admoniti sunt, vt Siculorum
+          continentem terram quaererent:<lb/> In Latium demum post multos errores, venientes in lacu
+          Cantuliensi<lb/> enatam deprehenderunt insulam. Hoc igitur quasi omine suscepto, has<lb/>
+          sibi praedictas esse sedes didicerunt, pulsisque inde Siciliensibus inco-<lb/> lis,
+          regionem ipsi tenuerunt, decima praedae secundum responsum, Apol-Oscilla<lb/> DE INVENT.
+          RERVM<lb/> lini consecrata, erectisque Diti sacello, &amp; Saturno ara, illum humanis<lb/>
+          capitibus, hunc virorum victimis placare se existimabant, propter au-<lb/> culum in quo
+          erat, Et capita inferno, &amp; patri transmittite lumen Sa-<lb/> turni festum (vt quidam
+          volunt) Saturnalia nominantes. Posthaec, fe-<lb/> runt, Herculem cum Geryonis pecore, per
+          Italiam redeuntem, suasis-<lb/> se illorum posteris, vt faustis sacrificijs, infausta
+          mutarent, offerentes<lb/> Diti non hominum capita, sed oscilla ad humanam effigiem
+          formata<lb/> quasi parua ora, vt pars pro toto foret, &amp; Saturni aras no mactatis
+          vi-<lb/> ris, sed accensis cereis excolentes, quia φῶτα non solum virum, sed etiam<lb/>
+          lumen significat. Inde ergo inualuit consuetudo, vt Saturnalibus, &amp;<lb/> cerei
+          missitarentur, &amp; sigilla, id est, oscilla, arte fictili fingerentur, ac ve-<lb/> nalia
+          exponerentur, quae homines pro se, ac suis piaculis Diti &amp; Satur-<lb/> no
+          sacrificarent. Haec quodam modo nostra vaticinabantur sacra. Nam<lb/> sic &amp; nos eadem
+          ex cera sigillaria, hoc est, imagunculas templis offeri-<lb/> mus, &amp; oscilla. Quoties
+          enim pars aliqua corporis laesa fuerit, vtputa<lb/> manus, pes, mamilla, statim vouemus
+          deo, &amp; eius sanctis, quibus mox<lb/> recuperata sanitate, illam manum, illum pedem,
+          illam mamillam ex<lb/> cera formatam offerimus. Quae consuetudo sic tenuit hactenus,
+          vt<lb/> istiusmodi sigillaria ab hominibus, ad reliqua animalia transierint.<lb/> Porrò
+          sic pro boue, sic pro equo, sic pro oue, oscilla templis ponimus.<lb/> In qua re quispiam
+          verecunde scrupulosus fortassis dicet se planè ne-<lb/> scire, an nos Priscorum religionem
+          potius vel superstitionem aemule-<lb/> mur. Hinc etiam consentaneum est fluxisse, quod nos
+          quoque cereos<lb/> offerimus, illisque accensis Coelicolas colimus, sicuti ad Saturni
+          aras<lb/> est factitatum. Quod praesertim in festo purificationis virginis obser-<lb/>
+          uatur, vt quasi ipsi cerei sint, apud nos loco agni anniculi, columba-<lb/> rum, &amp;
+          turturum. Quae munera Moses constituit, à puerperis lustri-<lb/> co die ad templum
+          deferri. At vsus pensilium lychnorum, siue (vt<lb/> Seruio placet) lychnorum, hoc est
+          lampadum, quas vocant, à lucernis ve-<lb/> nisse videtur, quas Moses in tabernaculo
+          accensas seruari instituerat.<lb/> Quod verò tabellas in templis affigimus, quibus
+          miracula inscri-<lb/> pta sunt, vt ea ad posteros testatiora sint, hoc ex Graecis est,
+          apud<lb/> quos teste Strabone libro Geog. VIII mos fuit, in templo eius dei qui<lb/>
+          auxiliatus esset, &amp; praesertim AEsculapij, quod in ciuitate Epidauro,<lb/> insigne
+          extabat, tabellas appendere, in quibus morbi sanati erant inscri<lb/> pti. Sic à Romanis
+          mutuo sumptum est, vt &amp; sacerdotes, &amp; laici,<lb/> diebus festis conuiuia non
+          ternis aut senis ferculis, sed vicenis (si fieri<lb/> possit) suis praebeant amicis. Quin
+          etiam iam ita vsu venit, vt non censea-<lb/> tur esse celebritas, nisi sit opiparo
+          comitata conuiuio. Est &amp; illud ab<lb/> eisdem Ethnicis, quòd sacerdotes nostri cum
+          primam celebrant missam,<lb/> sacerdotes &amp; amicos conuiuio accipiunt, eundemque diem
+          non minus<lb/> religiose quàm natalem colunt, ceu bene auspicantes sacerdotalem in-LIBER
+          QVINTVS.<lb/>          
+          <pb n="82" facs="poly_82.jpg" xml:id="poly_82"/>
+          82<lb/> troitum. Et id quidem non immerito, quoniam ex illo vita tantum,
+          ex<lb/> hoc verò, vita sancta producitur. Ita apud Gentiles, idem dies quo quis<lb/>
+          sacris initiabatur, natalis sacrorum appellabatur, religiosoque ientacu<lb/> lo
+          celebrabatur. Vtrumque Apuleius lib. Asini XI testificatur inquiens:<lb/> Ex hinc hinc
+          festissimum celebraui natalem sacrorum, &amp; suaues epulae, &amp;<lb/> faceta conuiuia,
+          dies etiam tertius pari ceremoniarum ritu celebratus,<lb/> &amp; ientaculum
+          religiosum.<lb/> Unde apud nostros, moris sit, spargere pecuniam in populum, dare epu<lb/>
+          lum, dare calendis lanuarijs strenam, ducere per vicos choreas,<lb/> cantorumque choros,
+          aedere spectacula, exire calend. Maij in agros,<lb/> inde reportare ramos arborum virides,
+          &amp; eos ante fores ponere,<lb/> currere cal. Martijs per agros, cum faculis accensis,
+          &amp; per domini-<lb/> ca natalitia, seruum quempiam facere dominum, ac ante initium
+          qua<lb/> dragesimae induere personas, &amp; sic personatos homines agere scur<lb/> ras,
+          &amp; lymphaticis similes passim lasciuire, atque sese fartim ad vo<lb/> mitum
+          saturare.<lb/></p>
+      </div>
+      <div n="2" org="uniform" sample="complete" type="chapter">
+        <head>Caput II.</head>
+        <p>Superiore volumine quo denique pacto Christiana reli-<lb/> gio propagata fuerit inter
+          mortales, &amp; de initio sacerdo<lb/> tij apud Hebraeos &amp; Romanos, ac nouissime apud
+          nos,<lb/> &amp; illud in quot officiorum gradus abiuerit, abunde edo<lb/> cuimus. Nunc
+          autem peregrinos ritus ab ethnicis acce-<lb/> ntos atque reliqua persequemur, quae nostri
+          iam suscepti sunt mune-<lb/> ris. Cum igitur multa ab Hebraeis &amp; non pauca ab Romanis
+          caeterisque<lb/> ethnicis ad nos instituta manauerint, poscit locus, vt obiter ea
+          perin-<lb/> de memoremus, quae ab his acceperimus, atque minime conuenit si-<lb/> lentio
+          praeterire, quae ab illis simus mutuati, cum praesertim illa ipsa<lb/> meliora fecerimus,
+          meliorive vsui adhibuerimus. Sunt itaque multi ri<lb/> tus propè germani, ex quibus, &amp;
+          hic est. Porrò apud nos, festis diebus<lb/> templa &amp; domus nuptiales aulaeis
+          exornantur, lauro, hedera aliisque<lb/> festis frondibus vestiuntur fores, ac vestibula
+          coronantur, spargunturque<lb/> floribus. Quae hercle omnia ipsi gentiles antea seruabant,
+          dicete Ver-<lb/> gilio: Nos delubra deûm miseri quibus vltimus esset Ille dies, festa
+          ve-<lb/> lamus fronde per vrbem. Et alibi: Et varijs florentia limina sertis. Item<lb/>
+          Iuuenalis testatur: Postibus &amp; densos per limina necte corymbos. Lau<lb/> ros quoque
+          adhiberi solitas causa gaudiorum, &amp; festiuitatis, indicat cum<lb/> ait, Pone domi
+          lauros, dux in capitolia magnum Certatumque bouem.<lb/> Tradit idem Tertullianus. Quid
+          quod Martinus primus Romanus<lb/> pontifex haec eadem quae in canonicis decretis Cau.
+          XXVI. q. VII. scri-<lb/> pta leges, &amp; testatur, &amp; vetat, inquiens, Non licet
+          iniquas obseruatio-<lb/> nes agere calendarum, &amp; otijs vacare, neque lauro aut
+          viriditate arborum<lb/> cingere domos. Omnis enim haec obseruatio Paganorum est. Con-<lb/>
+          similiter ritus offerendi cereas imagines, ab ipsis gentilibus est profe-<lb/> ctus. Cum
+          enim Pelasgi, teste Dionysio Halic. quem etiam alibi super<lb/> hac recitauimus, sedibus
+          pulsi. Dodonam peruenissent, ibi accepto respon-<lb/> so, quo admoniti sunt, vt Siculorum
+          continentem terram quaererent:<lb/> In Latium demum post multos errores, venientes in lacu
+          Cantuliensi<lb/> enatam deprehenderunt insulam. Hoc igitur quasi omine suscepto, has<lb/>
+          sibi praedictas esse sedes didicerunt, pulsisque inde Siciliensibus inco-<lb/> lis,
+          regionem ipsi tenuerunt, decima praedae secundum responsum, Apol-Oscilla<lb/> DE INVENT.
+          RERVM<lb/> lini consecrata, erectisque Diti sacello, &amp; Saturno ara, illum humanis<lb/>
+          capitibus, hunc virorum victimis placare se existimabant, propter au-<lb/> culum in quo
+          erat, Et capita inferno, &amp; patri transmittite lumen Sa-<lb/> turni festum (vt quidam
+          volunt) Saturnalia nominantes. Posthaec, fe-<lb/> runt, Herculem cum Geryonis pecore, per
+          Italiam redeuntem, suasis-<lb/> se illorum posteris, vt faustis sacrificijs, infausta
+          mutarent, offerentes<lb/> Diti non hominum capita, sed oscilla ad humanam effigiem
+          formata<lb/> quasi parua ora, vt pars pro toto foret, &amp; Saturni aras no mactatis
+          vi-<lb/> ris, sed accensis cereis excolentes, quia φῶτα non solum virum, sed etiam<lb/>
+          lumen significat. Inde ergo inualuit consuetudo, vt Saturnalibus, &amp;<lb/> cerei
+          missitarentur, &amp; sigilla, id est, oscilla, arte fictili fingerentur, ac ve-<lb/> nalia
+          exponerentur, quae homines pro se, ac suis piaculis Diti &amp; Satur-<lb/> no
+          sacrificarent. Haec quodam modo nostra vaticinabantur sacra. Nam<lb/> sic &amp; nos eadem
+          ex cera sigillaria, hoc est, imagunculas templis offeri-<lb/> mus, &amp; oscilla. Quoties
+          enim pars aliqua corporis laesa fuerit, vtputa<lb/> manus, pes, mamilla, statim vouemus
+          deo, &amp; eius sanctis, quibus mox<lb/> recuperata sanitate, illam manum, illum pedem,
+          illam mamillam ex<lb/> cera formatam offerimus. Quae consuetudo sic tenuit hactenus,
+          vt<lb/> istiusmodi sigillaria ab hominibus, ad reliqua animalia transierint.<lb/> Porrò
+          sic pro boue, sic pro equo, sic pro oue, oscilla templis ponimus.<lb/> In qua re quispiam
+          verecunde scrupulosus fortassis dicet se planè ne-<lb/> scire, an nos Priscorum religionem
+          potius vel superstitionem aemule-<lb/> mur. Hinc etiam consentaneum est fluxisse, quod nos
+          quoque cereos<lb/> offerimus, illisque accensis Coelicolas colimus, sicuti ad Saturni
+          aras<lb/> est factitatum. Quod praesertim in festo purificationis virginis obser-<lb/>
+          uatur, vt quasi ipsi cerei sint, apud nos loco agni anniculi, columba-<lb/> rum, &amp;
+          turturum. Quae munera Moses constituit, à puerperis lustri-<lb/> co die ad templum
+          deferri. At vsus pensilium lychnorum, siue (vt<lb/> Seruio placet) lychnorum, hoc est
+          lampadum, quas vocant, à lucernis ve-<lb/> nisse videtur, quas Moses in tabernaculo
+          accensas seruari instituerat.<lb/> Quod verò tabellas in templis affigimus, quibus
+          miracula inscri-<lb/> pta sunt, vt ea ad posteros testatiora sint, hoc ex Graecis est,
+          apud<lb/> quos teste Strabone libro Geog. VIII mos fuit, in templo eius dei qui<lb/>
+          auxiliatus esset, &amp; praesertim AEsculapij, quod in ciuitate Epidauro,<lb/> insigne
+          extabat, tabellas appendere, in quibus morbi sanati erant inscri<lb/> pti. Sic à Romanis
+          mutuo sumptum est, vt &amp; sacerdotes, &amp; laici,<lb/> diebus festis conuiuia non
+          ternis aut senis ferculis, sed vicenis (si fieri<lb/> possit) suis praebeant amicis. Quin
+          etiam iam ita vsu venit, vt non censea-<lb/> tur esse celebritas, nisi sit opiparo
+          comitata conuiuio. Est &amp; illud ab<lb/> eisdem Ethnicis, quòd sacerdotes nostri cum
+          primam celebrant missam,<lb/> sacerdotes &amp; amicos conuiuio accipiunt, eundemque diem
+          non minus<lb/> religiose quàm natalem colunt, ceu bene auspicantes sacerdotalem in-LIBER
+          QVINTVS.<lb/> 82<lb/> troitum. Et id quidem non immerito, quoniam ex illo vita tantum,
+          ex<lb/> hoc verò, vita sancta producitur. Ita apud Gentiles, idem dies quo quis<lb/>
+          sacris initiabatur, natalis sacrorum appellabatur, religiosoque ientacu<lb/> lo
+          celebrabatur. Vtrumque Apuleius lib. Asini XI testificatur inquiens:<lb/> Ex hinc hinc
+          festissimum celebraui natalem sacrorum, &amp; suaues epulae, &amp;<lb/> faceta conuiuia,
+          dies etiam tertius pari ceremoniarum ritu celebratus,<lb/> &amp; ientaculum
+          religiosum.<lb/> Unde apud nostros, moris sit, spargere pecuniam in populum, dare epu<lb/>
+          lum, dare calendis lanuarijs strenam, ducere per vicos choreas,<lb/> cantorumque choros,
+          aedere spectacula, exire calend. Maij in agros,<lb/> inde reportare ramos arborum virides,
+          &amp; eos ante fores ponere,<lb/> currere cal. Martijs per agros, cum faculis accensis,
+          &amp; per domini-<lb/> ca natalitia, seruum quempiam facere dominum, ac ante initium
+          qua<lb/> dragesimae induere personas, &amp; sic personatos homines agere scur<lb/> ras,
+          &amp; lymphaticis similes passim lasciuire, atque sese fartim ad vo<lb/> mitum
+          saturare.<lb/></p>
+      </div>
+    </body>
+  </text>
+</TEI>
