@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.25.0:model_id=39995:lm=none:date=04_04_2025_06:08</Creator>
+        <Created>2025-04-02T18:51:47.530+02:00</Created>
+        <LastChange>2025-04-14T13:48:28.957+02:00</LastChange>
+        <TranskribusMetadata docId="7752951" pageId="94469603" pageNr="9" tsid="238884582" status="NEW" userId="371030" imgUrl="https://files.transkribus.eu/Get?id=AFTWDFGGWQEJHSZXVOQVZHXL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UEQKDCLPGXIDSGARMEAZCQON" imageId="79006642"/>
+    </Metadata>
+    <Page imageFilename="94469603.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1744631308957" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="131,149 131,3042 1832,3043 1860,124"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="728,212 864,207 918,229 948,205 1268,215 1263,86 1236,106 1133,74 1088,74 1059,99 1031,76 975,99 898,81 723,94"/>
+                <Baseline points="740,182 766,182 793,182 820,182 846,181 873,179 900,181 926,182 953,184 980,185 1007,185 1033,185 1060,185 1087,187 1113,188 1140,188 1167,191 1193,194 1220,196 1247,197 1274,197"/>
+                <TextEquiv>
+                    <Unicode>LIBER SEXTVS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1666,225 1732,220 1754,232 1779,225 1779,143 1762,143 1735,165 1710,148 1703,155 1693,151 1683,160 1666,160"/>
+                <Baseline points="1680,208 1706,207 1732,206 1758,207 1785,208"/>
+                <TextEquiv>
+                    <Unicode>94</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="165,363 614,294 1853,308 1853,212 1078,244 656,212 165,289"/>
+                <Baseline points="179,340 263,324 347,309 431,298 515,292 599,283 683,280 767,280 851,282 935,281 1019,283 1103,286 1187,289 1271,289 1355,294 1439,295 1523,295 1607,295 1691,295 1775,295 1859,301"/>
+                <TextEquiv>
+                    <Unicode>terpretantur. Quo facto ad suas confictas quaestiunculas trahuntur. Ibi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="160,422 671,358 1841,380 1841,316 1774,306 1160,323 888,284 163,365"/>
+                <Baseline points="176,403 259,386 343,371 426,360 510,355 594,349 677,346 761,346 844,349 928,349 1012,352 1095,355 1179,355 1262,358 1346,361 1430,361 1513,364 1597,364 1680,364 1764,364 1848,364"/>
+                <TextEquiv>
+                    <Unicode>digladiantur, velut furoribus acti sese macerant: detorquentes quò vo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="160,479 582,424 1848,447 1848,385 1784,368 738,358 160,422"/>
+                <Baseline points="173,465 256,446 340,431 424,425 508,420 592,414 676,412 760,413 844,416 928,417 1012,420 1095,420 1179,423 1263,426 1347,429 1431,432 1515,432 1599,432 1683,433 1767,432 1851,435"/>
+                <TextEquiv>
+                    <Unicode>lunt sacram scripturam, conuitia dicunt, omniaque clamoribus miscent.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="160,548 634,484 1754,533 1848,526 1846,449 577,422 158,489"/>
+                <Baseline points="173,528 256,508 340,496 424,483 508,480 592,480 676,478 760,480 844,482 928,483 1012,484 1095,486 1179,489 1263,495 1347,498 1431,498 1515,498 1599,501 1683,504 1767,507 1851,504"/>
+                <TextEquiv>
+                    <Unicode>Mox euanescente furore ad humiliora veniunt, de ratione annonae, de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="163,597 590,553 1846,585 1811,513 634,484 163,543"/>
+                <Baseline points="176,585 259,569 343,558 427,551 511,546 594,543 678,545 762,548 846,551 929,552 1013,552 1097,553 1181,558 1264,561 1348,563 1432,564 1516,567 1599,570 1683,570 1767,573 1851,573"/>
+                <TextEquiv>
+                    <Unicode>institoribus tractant. Item nunc iocos spargunt, nunc captant, circula</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="163,666 501,617 1838,649 1838,582 1113,560 545,555 163,607"/>
+                <Baseline points="176,647 259,631 342,620 425,614 509,612 592,612 675,612 759,614 842,615 925,618 1009,619 1092,620 1175,623 1258,626 1342,629 1425,629 1508,632 1592,635 1675,636 1758,635 1842,638"/>
+                <TextEquiv>
+                    <Unicode>tores plane agunt, &amp; ob illud ipsum ab insipida ac bruta plebe collau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="155,735 491,683 1833,723 1833,646 814,619 153,664"/>
+                <Baseline points="167,710 250,695 334,685 417,679 501,677 585,674 668,674 752,676 835,679 919,683 1003,684 1086,687 1170,689 1253,692 1337,692 1421,694 1504,698 1588,701 1671,701 1755,701 1839,698"/>
+                <TextEquiv>
+                    <Unicode>dantur. Atque hic concionandi modus &amp; frequentius vsurpatur, &amp; vul-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="160,797 474,748 1831,787 1801,713 1379,696 476,686 158,733"/>
+                <Baseline points="173,776 256,757 339,747 422,743 505,738 588,740 671,740 755,743 838,743 921,748 1004,750 1087,751 1170,755 1253,758 1337,761 1420,763 1503,764 1586,767 1669,767 1752,767 1836,770"/>
+                <TextEquiv>
+                    <Unicode>go summus habetur. Sed vtinam non peiora crebro disseminent. Vt enim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="153,854 619,814 1836,871 1833,782 471,748 151,799"/>
+                <Baseline points="164,838 247,822 331,811 415,807 499,803 583,803 667,804 751,806 835,812 919,815 1003,817 1086,821 1170,824 1254,827 1338,830 1422,832 1506,832 1590,832 1674,837 1758,838 1842,841"/>
+                <TextEquiv>
+                    <Unicode>nullum hominum genus est salutarius ecclesiae, si vera canant: contrâ sic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="151,930 568,873 1814,930 1831,866 373,814 148,871"/>
+                <Baseline points="161,898 244,886 328,878 412,869 496,868 579,868 663,872 747,874 831,877 914,883 998,886 1082,886 1166,890 1249,892 1333,895 1417,898 1501,901 1584,901 1668,901 1752,903 1836,904"/>
+                <TextEquiv>
+                    <Unicode>non est pestilentius aliud, si ad gratiam conciones ad populum habeant.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="155,985 471,943 1821,997 1819,913 1456,933 575,869 153,925"/>
+                <Baseline points="167,961 250,947 333,938 416,934 499,933 582,932 665,934 748,940 831,943 914,948 997,951 1080,953 1163,958 1246,961 1329,964 1412,964 1495,965 1578,967 1661,968 1744,970 1827,979"/>
+                <TextEquiv>
+                    <Unicode>Quippe vbi semel sanctitatis nomen sunt adepti, tum maxime nocent,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="153,1049 323,1009 1828,1049 1826,994 1749,980 449,943 151,982"/>
+                <Baseline points="164,1024 247,1010 330,1002 414,997 497,997 581,998 664,1001 748,1006 831,1006 915,1011 998,1014 1081,1018 1165,1021 1248,1024 1332,1027 1415,1027 1499,1030 1582,1031 1666,1030 1749,1033 1833,1038"/>
+                <TextEquiv>
+                    <Unicode>quia eis maxime creditur. Facessant proinde qui docere nihil volunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="155,1105 390,1063 1791,1118 1826,1049 434,1009 153,1046"/>
+                <Baseline points="170,1083 253,1069 336,1063 419,1062 502,1062 585,1063 668,1065 752,1068 835,1071 918,1074 1001,1077 1084,1080 1167,1083 1250,1086 1334,1089 1417,1092 1500,1091 1583,1094 1666,1096 1749,1098 1833,1104"/>
+                <TextEquiv>
+                    <Unicode>quo melius viuatur. At nonnulli quorum interest hoc fungi officio nil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="151,1160 323,1130 1823,1179 1821,1113 1720,1105 368,1071 151,1108"/>
+                <Baseline points="164,1146 247,1132 330,1129 413,1126 497,1126 580,1128 663,1131 747,1131 830,1134 913,1139 997,1143 1080,1147 1163,1149 1246,1152 1330,1155 1413,1158 1496,1158 1580,1160 1663,1161 1746,1167 1830,1170"/>
+                <TextEquiv>
+                    <Unicode>omnino docent, adeò vt iuxta prouerbium, canes muti non iniuria appel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="141,1216 1819,1251 1816,1179 1673,1167 141,1162"/>
+                <Baseline points="155,1206 238,1198 321,1193 405,1191 488,1191 572,1192 655,1194 739,1197 822,1200 906,1203 989,1208 1072,1213 1156,1215 1239,1218 1323,1221 1406,1221 1490,1224 1573,1224 1657,1227 1740,1230 1824,1233"/>
+                <TextEquiv>
+                    <Unicode>lari possint, Ita aut vanitate aut silentio CHRISTVM obsolescere inter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="151,1295 511,1261 1811,1323 1819,1251 412,1194 148,1221"/>
+                <Baseline points="161,1268 244,1262 327,1257 410,1254 493,1254 576,1257 659,1259 743,1262 826,1265 909,1268 992,1273 1075,1275 1158,1281 1241,1283 1325,1286 1408,1289 1491,1291 1574,1291 1657,1292 1740,1295 1824,1295"/>
+                <TextEquiv>
+                    <Unicode>pium populum sinunt. Sed ad rem vnde hoc diuerticulum excessimus, re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="143,1350 481,1325 1782,1387 1821,1320 528,1263 141,1298"/>
+                <Baseline points="155,1331 238,1322 322,1319 405,1317 489,1317 573,1320 656,1326 740,1328 823,1334 907,1334 991,1337 1074,1342 1158,1346 1241,1350 1325,1352 1409,1355 1492,1358 1576,1361 1659,1363 1743,1364 1827,1361"/>
+                <TextEquiv>
+                    <Unicode>uertamur. Praeter haec, vt deo chariores fiamus, omnique macula carea-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="148,1411 459,1389 1826,1456 1821,1379 1742,1372 479,1325 146,1362"/>
+                <Baseline points="158,1394 241,1388 325,1385 408,1382 492,1382 576,1386 659,1389 743,1391 826,1397 910,1400 994,1405 1077,1408 1161,1412 1244,1416 1328,1418 1412,1421 1495,1424 1579,1427 1662,1430 1746,1430 1830,1433"/>
+                <TextEquiv>
+                    <Unicode>mus: misericordiam dei semper imploremus, nihilque aliud precemur, ni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="143,1468 605,1453 1619,1520 1801,1510 1821,1453 461,1389 141,1414"/>
+                <Baseline points="155,1456 238,1450 322,1447 405,1447 489,1448 573,1453 656,1454 740,1456 823,1462 907,1467 991,1468 1074,1471 1158,1475 1241,1478 1325,1480 1409,1486 1492,1486 1576,1489 1659,1494 1743,1494 1827,1492"/>
+                <TextEquiv>
+                    <Unicode>si nostris ac fidelium omnium peccatis veniam, licet nulla sint, quamuis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="141,1527 1629,1579 1819,1569 1819,1505 795,1493 597,1453 138,1480"/>
+                <Baseline points="152,1516 235,1510 319,1510 402,1510 486,1511 570,1514 653,1517 737,1522 820,1525 904,1527 988,1531 1071,1536 1155,1540 1238,1543 1322,1546 1406,1549 1489,1549 1573,1551 1656,1555 1740,1555 1824,1552"/>
+                <TextEquiv>
+                    <Unicode>aliud quicquam desideremus. Non enim est opus deo scienti quid ve-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="146,1589 1774,1646 1809,1569 143,1530"/>
+                <Baseline points="158,1579 240,1573 323,1573 406,1575 489,1577 572,1579 655,1580 737,1585 820,1590 903,1594 986,1598 1069,1600 1152,1604 1235,1606 1317,1609 1400,1609 1483,1614 1566,1618 1649,1621 1732,1621 1815,1621"/>
+                <TextEquiv>
+                    <Unicode>limus referre. Si quid boni euenerit, gratias agamus: si quid mali, satis-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="138,1653 1819,1695 1801,1631 136,1587"/>
+                <Baseline points="152,1642 235,1639 319,1639 402,1639 486,1640 570,1645 653,1646 737,1650 820,1655 904,1656 988,1661 1071,1664 1155,1668 1238,1671 1322,1674 1406,1674 1489,1677 1573,1680 1656,1683 1740,1686 1824,1686"/>
+                <TextEquiv>
+                    <Unicode>faciamus: &amp; illud nobis ob peccata nostra fateamur euenisse, vt idem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="138,1717 1809,1762 1747,1693 136,1651"/>
+                <Baseline points="149,1701 232,1701 315,1698 398,1701 481,1705 564,1710 647,1710 731,1716 814,1719 897,1722 980,1727 1063,1728 1146,1732 1229,1737 1313,1737 1396,1740 1479,1742 1562,1745 1645,1747 1728,1752 1812,1749"/>
+                <TextEquiv>
+                    <Unicode>semper stabiles deprecatores agamus. Haec omnia Apostolus admo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="138,1779 1717,1841 1816,1828 1814,1764 136,1720"/>
+                <Baseline points="152,1767 235,1764 318,1766 402,1767 485,1770 569,1772 652,1777 736,1782 819,1785 903,1787 986,1788 1069,1792 1153,1797 1236,1798 1320,1800 1403,1803 1487,1806 1570,1809 1654,1814 1737,1815 1821,1815"/>
+                <TextEquiv>
+                    <Unicode>net, inquiens: Adhortor igitur, vt ante omnia fiant deprecationes, ora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="138,1853 1742,1910 1811,1893 1809,1826 136,1789"/>
+                <Baseline points="149,1827 232,1830 315,1830 398,1830 482,1834 565,1840 648,1842 732,1845 815,1848 898,1853 982,1856 1065,1857 1148,1861 1231,1862 1315,1862 1398,1865 1481,1870 1565,1871 1648,1875 1731,1878 1815,1880"/>
+                <TextEquiv>
+                    <Unicode>tiones, postulationes, gratiarum actiones, pro omnibus hominibus, pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="128,1905 1819,1959 1816,1905 1651,1885 126,1848"/>
+                <Baseline points="143,1889 227,1889 311,1894 395,1895 479,1897 563,1902 647,1905 731,1907 815,1910 899,1913 983,1918 1067,1923 1151,1925 1235,1925 1319,1928 1403,1931 1487,1934 1571,1937 1655,1940 1739,1942 1824,1943"/>
+                <TextEquiv>
+                    <Unicode>regibus, &amp; omnibus in eminentia constitutis, vt placidam ac quietam vitam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:28;}">
+                <Coords points="136,1962 1735,2033 1819,2026 1816,1962 133,1915"/>
+                <Baseline points="149,1949 232,1955 316,1957 400,1958 484,1962 567,1967 651,1968 735,1973 819,1976 902,1981 986,1984 1070,1985 1154,1986 1237,1991 1321,1994 1405,1997 1489,2000 1572,2002 1656,2003 1740,2005 1824,2006"/>
+                <TextEquiv>
+                    <Unicode>degamus, in sola pietate &amp; honestate acquiescentes. Quid quòd nihil ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:29;}">
+                <Coords points="136,2038 1819,2105 1816,2026 133,1969"/>
+                <Baseline points="146,2012 229,2015 313,2018 397,2023 481,2027 565,2030 649,2033 733,2036 817,2039 901,2045 985,2049 1068,2049 1152,2051 1236,2054 1320,2057 1404,2057 1488,2063 1572,2063 1656,2067 1740,2070 1824,2077"/>
+                <TextEquiv>
+                    <Unicode>his diuersa traduntur ab Ethnicis? Socratici enim &amp; Platonici item quique</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:30;}">
+                <Coords points="131,2097 1809,2142 1757,2080 128,2036"/>
+                <Baseline points="143,2077 226,2080 309,2082 392,2086 476,2092 559,2095 642,2098 726,2098 809,2104 892,2104 976,2110 1059,2113 1142,2113 1225,2116 1309,2119 1392,2122 1475,2125 1559,2125 1642,2128 1725,2130 1809,2134"/>
+                <TextEquiv>
+                    <Unicode>apud omnes ferè gentes sapientissimi deum ante omnia adorandum dicunt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:31;}">
+                <Coords points="141,2162 1439,2218 1811,2203 1809,2142 138,2088"/>
+                <Baseline points="155,2137 238,2143 321,2147 404,2152 487,2156 570,2159 653,2161 737,2164 820,2167 903,2172 986,2173 1069,2176 1152,2176 1235,2179 1319,2182 1402,2185 1485,2188 1568,2191 1651,2195 1734,2194 1818,2191"/>
+                <TextEquiv>
+                    <Unicode>Vnde Poeta: In primis venerare deos. Praeterea Pythagoras in carmi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:32;}">
+                <Coords points="136,2228 1811,2295 1811,2203 133,2162"/>
+                <Baseline points="146,2203 229,2206 313,2212 397,2216 481,2221 564,2224 648,2224 732,2227 816,2233 899,2235 983,2238 1067,2242 1151,2242 1234,2245 1318,2248 1402,2251 1486,2254 1569,2256 1653,2259 1737,2259 1821,2257"/>
+                <TextEquiv>
+                    <Unicode>nibus aureis, &amp; Orpheus in hymnis docent, à dijs iusta &amp; modesta esse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:33;}">
+                <Coords points="138,2292 1811,2329 1752,2268 136,2228"/>
+                <Baseline points="149,2263 232,2270 315,2275 398,2279 482,2284 565,2287 648,2289 732,2292 815,2295 898,2297 982,2301 1065,2302 1148,2305 1231,2307 1315,2307 1398,2313 1481,2315 1565,2319 1648,2322 1731,2323 1815,2325"/>
+                <TextEquiv>
+                    <Unicode>petenda, caetera deum non audire: Vt merito nos ad certiorem spem voca-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:34;}">
+                <Coords points="133,2339 1749,2406 1806,2396 1804,2334 131,2297"/>
+                <Baseline points="146,2328 229,2334 312,2339 395,2345 479,2349 562,2353 645,2355 729,2358 812,2361 895,2363 979,2366 1062,2367 1145,2370 1228,2373 1312,2376 1395,2379 1478,2381 1562,2384 1645,2385 1728,2387 1812,2385"/>
+                <TextEquiv>
+                    <Unicode>tos pudeat, si circa haec illis priscis negligentiores simus. Sed ad sacrifi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:35;}">
+                <Coords points="133,2403 1809,2477 1804,2396 131,2354"/>
+                <Baseline points="146,2388 229,2397 312,2404 395,2411 479,2415 562,2418 645,2418 729,2421 812,2427 895,2429 979,2432 1062,2434 1145,2435 1228,2436 1312,2439 1395,2442 1478,2444 1562,2447 1645,2449 1728,2451 1812,2460"/>
+                <TextEquiv>
+                    <Unicode>cium veniamus, quod (vt Lactantius tradit) est adorare &amp; colere deum,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:36;}">
+                <Coords points="128,2463 279,2502 1942,2551 2058,2544 2058,2460 846,2458 126,2403"/>
+                <Baseline points="143,2454 239,2458 335,2470 431,2476 527,2480 623,2480 719,2486 815,2489 911,2492 1007,2495 1104,2498 1200,2498 1296,2500 1392,2504 1488,2507 1584,2510 1680,2512 1776,2514 1799,2516 1799,2513 1802,2515"/>
+                <TextEquiv>
+                    <Unicode>&amp; eudem semper habere in corde consecratum: quoniam dei templum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:37;}">
+                <Coords points="126,2549 1757,2611 1811,2598 1809,2537 271,2502 123,2458"/>
+                <Baseline points="137,2513 221,2521 305,2530 389,2538 473,2545 557,2546 641,2549 725,2552 809,2555 893,2558 977,2558 1061,2559 1145,2560 1229,2564 1313,2567 1397,2570 1481,2570 1565,2573 1649,2576 1733,2578 1818,2579"/>
+                <TextEquiv>
+                    <Unicode>sumus, quod ipsi deo debemus. Hoc sacrificium saluator noster deo pa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:38;}">
+                <Coords points="126,2611 1814,2667 1814,2593 123,2551"/>
+                <Baseline points="137,2579 221,2585 305,2596 389,2602 473,2606 558,2610 642,2613 726,2618 810,2621 894,2621 979,2622 1063,2624 1147,2626 1231,2627 1315,2630 1400,2633 1484,2636 1568,2639 1652,2639 1736,2642 1821,2645"/>
+                <TextEquiv>
+                    <Unicode>tri obtulit pro salute nostra: reliquitque nobis illud idem faciendum. Is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:39;}">
+                <Coords points="126,2670 1730,2739 1816,2727 1814,2667 123,2613"/>
+                <Baseline points="137,2642 221,2651 305,2659 389,2668 473,2672 558,2676 642,2679 726,2683 810,2683 894,2686 979,2688 1063,2691 1147,2691 1231,2692 1315,2693 1400,2696 1484,2701 1568,2701 1652,2704 1736,2704 1821,2704"/>
+                <TextEquiv>
+                    <Unicode>qui omnia quae ventura erant ab aeterno nouerat, postea quàm appro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:40;}">
+                <Coords points="128,2732 1823,2791 1786,2712 1372,2736 126,2662"/>
+                <Baseline points="143,2704 227,2713 311,2727 396,2734 480,2739 564,2743 649,2746 733,2750 817,2752 902,2752 986,2754 1070,2755 1155,2758 1239,2758 1323,2759 1408,2762 1492,2767 1576,2767 1661,2767 1745,2767 1830,2770"/>
+                <TextEquiv>
+                    <Unicode>pinquare tempus viderat, quo pati oportebat, affatur discipulos quos in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:41;}">
+                <Coords points="118,2793 743,2845 1814,2847 1784,2776 701,2783 116,2734"/>
+                <Baseline points="131,2767 215,2775 300,2787 384,2795 469,2800 553,2804 638,2810 722,2813 807,2818 891,2818 976,2821 1060,2821 1145,2821 1229,2823 1314,2824 1398,2825 1483,2830 1567,2830 1652,2833 1736,2830 1821,2830"/>
+                <TextEquiv>
+                    <Unicode>totius mysterij sibi testes delegerat, qui mox omnia quae facta essent in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:42;}">
+                <Coords points="121,2852 565,2904 2102,2924 2100,2850 1952,2818 1873,2855 1419,2857 121,2796"/>
+                <Baseline points="134,2833 232,2843 331,2853 429,2862 528,2871 627,2875 725,2878 824,2881 923,2883 1021,2886 1120,2887 1219,2887 1317,2889 1416,2891 1515,2892 1613,2892 1712,2893 1811,2895 1806,2895 1806,2896 1816,2896"/>
+                <TextEquiv>
+                    <Unicode>omnes gentes pia praedicatione vulgarent. Pascha, inquit, dilectissimi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:43;}">
+                <Coords points="123,2939 602,2973 683,3033 822,2978 999,3035 1518,2968 1814,2993 1777,2909 560,2904 121,2852"/>
+                <Baseline points="137,2904 221,2907 305,2918 389,2927 473,2933 558,2938 642,2940 726,2946 810,2949 894,2952 979,2952 1063,2952 1147,2952 1231,2953 1315,2952 1400,2953 1484,2958 1568,2961 1652,2961 1736,2961 1821,2964"/>
+                <TextEquiv>
+                    <Unicode>post biduum (vt scitis) fiet: &amp; iam simul illud futurum est, yt Iudais tra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:44;}">
+                <Coords points="1426,3057 1441,3055 1458,3037 1480,3055 1508,3052 1535,3067 1567,3060 1564,2971 1525,2968 1493,2988 1476,2976 1451,2981 1439,2971 1424,2973"/>
+                <Baseline points="1439,3024 1465,3022 1492,3022 1519,3023 1546,3025 1573,3027"/>
+                <TextEquiv>
+                    <Unicode>n.ij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="1847,1686 2129,1688 2129,2947 1836,2948"/>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:0;}">
+                <Coords points="1826,1796 1900,1794 1930,1777 1962,1782 1979,1772 2048,1774 2078,1786 2075,1717 2038,1717 2006,1698 1902,1705 1888,1690 1860,1710 1823,1698"/>
+                <Baseline points="1839,1758 1866,1760 1893,1760 1920,1759 1947,1759 1974,1761 2001,1763 2028,1764 2055,1764 2083,1764"/>
+                <TextEquiv>
+                    <Unicode>1. Thi.2.a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:1;}">
+                <Coords points="2059,2531 1847,2525 1846,2555 2059,2561"/>
+                <Baseline points="2059,2531 1847,2525"/>
+                <TextEquiv>
+                    <Unicode>1. Cor. 3.c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_278" custom="readingOrder {index:2;}">
+                <Coords points="2097,2914 1846,2913 1846,2943 2097,2944"/>
+                <Baseline points="2097,2914 1846,2913"/>
+                <TextEquiv>
+                    <Unicode>Matt. 26.a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

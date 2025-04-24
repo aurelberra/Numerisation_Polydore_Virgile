@@ -1,0 +1,2791 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Polydore_Virgile-de_Inv_Rer_V(1)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: galaadbonini@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0001_p001.jpg'>
+			<graphic url='0001_p001.jpg' width='2479px' height='3508px'/>
+			<zone ulx='89' uly='252' lrx='1910' lry='2898' rendition='TextRegion' xml:id='facs_1_tr_1'>
+				<zone ulx='1776' uly='227' lrx='1867' lry='291' rendition='Line' xml:id='facs_1_tr_1_tl_1'>
+				</zone>
+				<zone ulx='302' uly='312' lrx='1844' lry='396' rendition='Line' xml:id='facs_1_tr_1_tl_2'>
+				</zone>
+				<zone ulx='387' uly='348' lrx='1605' lry='464' rendition='Line' xml:id='facs_1_tr_1_tl_3'>
+				</zone>
+				<zone ulx='109' uly='427' lrx='1849' lry='582' rendition='Line' xml:id='facs_1_tr_1_tl_4'>
+				</zone>
+				<zone ulx='182' uly='543' lrx='1842' lry='623' rendition='Line' xml:id='facs_1_tr_1_tl_5'>
+				</zone>
+				<zone ulx='184' uly='616' lrx='1842' lry='687' rendition='Line' xml:id='facs_1_tr_1_tl_6'>
+				</zone>
+				<zone ulx='184' uly='646' lrx='1844' lry='734' rendition='Line' xml:id='facs_1_tr_1_tl_7'>
+				</zone>
+				<zone ulx='180' uly='707' lrx='1851' lry='832' rendition='Line' xml:id='facs_1_tr_1_tl_8'>
+				</zone>
+				<zone ulx='173' uly='764' lrx='1337' lry='864' rendition='Line' xml:id='facs_1_tr_1_tl_9'>
+				</zone>
+				<zone ulx='1517' uly='791' lrx='1801' lry='875' rendition='Line' xml:id='facs_1_tr_1_tl_10'>
+				</zone>
+				<zone ulx='407' uly='828' lrx='1846' lry='923' rendition='Line' xml:id='facs_1_tr_1_tl_11'>
+				</zone>
+				<zone ulx='400' uly='896' lrx='1853' lry='1000' rendition='Line' xml:id='facs_1_tr_1_tl_12'>
+				</zone>
+				<zone ulx='398' uly='962' lrx='1849' lry='1053' rendition='Line' xml:id='facs_1_tr_1_tl_13'>
+				</zone>
+				<zone ulx='398' uly='1014' lrx='1855' lry='1116' rendition='Line' xml:id='facs_1_tr_1_tl_14'>
+				</zone>
+				<zone ulx='396' uly='1071' lrx='1851' lry='1166' rendition='Line' xml:id='facs_1_tr_1_tl_15'>
+				</zone>
+				<zone ulx='105' uly='1126' lrx='1853' lry='1232' rendition='Line' xml:id='facs_1_tr_1_tl_16'>
+				</zone>
+				<zone ulx='98' uly='1185' lrx='1853' lry='1298' rendition='Line' xml:id='facs_1_tr_1_tl_17'>
+				</zone>
+				<zone ulx='93' uly='1244' lrx='1851' lry='1357' rendition='Line' xml:id='facs_1_tr_1_tl_18'>
+				</zone>
+				<zone ulx='93' uly='1328' lrx='1860' lry='1403' rendition='Line' xml:id='facs_1_tr_1_tl_19'>
+				</zone>
+				<zone ulx='98' uly='1389' lrx='1862' lry='1467' rendition='Line' xml:id='facs_1_tr_1_tl_20'>
+				</zone>
+				<zone ulx='91' uly='1453' lrx='1855' lry='1528' rendition='Line' xml:id='facs_1_tr_1_tl_21'>
+				</zone>
+				<zone ulx='93' uly='1489' lrx='1855' lry='1594' rendition='Line' xml:id='facs_1_tr_1_tl_22'>
+				</zone>
+				<zone ulx='86' uly='1560' lrx='1871' lry='1662' rendition='Line' xml:id='facs_1_tr_1_tl_23'>
+				</zone>
+				<zone ulx='86' uly='1614' lrx='1864' lry='1724' rendition='Line' xml:id='facs_1_tr_1_tl_24'>
+				</zone>
+				<zone ulx='91' uly='1689' lrx='1864' lry='1764' rendition='Line' xml:id='facs_1_tr_1_tl_25'>
+				</zone>
+				<zone ulx='95' uly='1760' lrx='1874' lry='1824' rendition='Line' xml:id='facs_1_tr_1_tl_26'>
+				</zone>
+				<zone ulx='89' uly='1794' lrx='1874' lry='1894' rendition='Line' xml:id='facs_1_tr_1_tl_27'>
+				</zone>
+				<zone ulx='86' uly='1878' lrx='1871' lry='1946' rendition='Line' xml:id='facs_1_tr_1_tl_28'>
+				</zone>
+				<zone ulx='82' uly='1944' lrx='1878' lry='2024' rendition='Line' xml:id='facs_1_tr_1_tl_29'>
+				</zone>
+				<zone ulx='89' uly='1999' lrx='1878' lry='2087' rendition='Line' xml:id='facs_1_tr_1_tl_30'>
+				</zone>
+				<zone ulx='89' uly='2055' lrx='1885' lry='2140' rendition='Line' xml:id='facs_1_tr_1_tl_31'>
+				</zone>
+				<zone ulx='89' uly='2126' lrx='1883' lry='2206' rendition='Line' xml:id='facs_1_tr_1_tl_32'>
+				</zone>
+				<zone ulx='86' uly='2187' lrx='1883' lry='2253' rendition='Line' xml:id='facs_1_tr_1_tl_33'>
+				</zone>
+				<zone ulx='80' uly='2253' lrx='1887' lry='2344' rendition='Line' xml:id='facs_1_tr_1_tl_34'>
+				</zone>
+				<zone ulx='86' uly='2310' lrx='1630' lry='2392' rendition='Line' xml:id='facs_1_tr_1_tl_35'>
+				</zone>
+				<zone ulx='82' uly='2360' lrx='1892' lry='2451' rendition='Line' xml:id='facs_1_tr_1_tl_37'>
+				</zone>
+				<zone ulx='80' uly='2428' lrx='1899' lry='2510' rendition='Line' xml:id='facs_1_tr_1_tl_38'>
+				</zone>
+				<zone ulx='77' uly='2485' lrx='1899' lry='2578' rendition='Line' xml:id='facs_1_tr_1_tl_39'>
+				</zone>
+				<zone ulx='77' uly='2553' lrx='1896' lry='2647' rendition='Line' xml:id='facs_1_tr_1_tl_40'>
+				</zone>
+				<zone ulx='80' uly='2608' lrx='1899' lry='2694' rendition='Line' xml:id='facs_1_tr_1_tl_41'>
+				</zone>
+				<zone ulx='80' uly='2688' lrx='1901' lry='2776' rendition='Line' xml:id='facs_1_tr_1_tl_42'>
+				</zone>
+				<zone ulx='80' uly='2731' lrx='1908' lry='2840' rendition='Line' xml:id='facs_1_tr_1_tl_43'>
+				</zone>
+				<zone ulx='80' uly='2799' lrx='1908' lry='2908' rendition='Line' xml:id='facs_1_tr_1_tl_44'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0002_p002.jpg'>
+			<graphic url='0002_p002.jpg' width='2479px' height='3508px'/>
+			<zone ulx='453' uly='565' lrx='620' lry='718' rendition='TextRegion' xml:id='facs_2_tr_1'>
+				<zone ulx='438' uly='598' lrx='617' lry='711' rendition='Line' xml:id='facs_2_tr_1_tl_1'>
+				</zone>
+			</zone>
+			<zone ulx='597' uly='174' lrx='2316' lry='2951' rendition='TextRegion' xml:id='facs_2_tr_2'>
+				<zone ulx='1238' uly='122' lrx='1898' lry='262' rendition='Line' xml:id='facs_2_tr_2_tl_1'>
+				</zone>
+				<zone ulx='728' uly='256' lrx='2303' lry='390' rendition='Line' xml:id='facs_2_tr_2_tl_2'>
+				</zone>
+				<zone ulx='728' uly='325' lrx='2314' lry='464' rendition='Line' xml:id='facs_2_tr_2_tl_3'>
+				</zone>
+				<zone ulx='719' uly='373' lrx='2305' lry='505' rendition='Line' xml:id='facs_2_tr_2_tl_4'>
+				</zone>
+				<zone ulx='717' uly='445' lrx='2314' lry='564' rendition='Line' xml:id='facs_2_tr_2_tl_5'>
+				</zone>
+				<zone ulx='717' uly='499' lrx='2305' lry='625' rendition='Line' xml:id='facs_2_tr_2_tl_6'>
+				</zone>
+				<zone ulx='713' uly='564' lrx='2307' lry='684' rendition='Line' xml:id='facs_2_tr_2_tl_7'>
+				</zone>
+				<zone ulx='715' uly='625' lrx='2301' lry='738' rendition='Line' xml:id='facs_2_tr_2_tl_8'>
+				</zone>
+				<zone ulx='709' uly='686' lrx='2305' lry='803' rendition='Line' xml:id='facs_2_tr_2_tl_9'>
+				</zone>
+				<zone ulx='703' uly='751' lrx='2305' lry='870' rendition='Line' xml:id='facs_2_tr_2_tl_10'>
+				</zone>
+				<zone ulx='698' uly='812' lrx='2303' lry='929' rendition='Line' xml:id='facs_2_tr_2_tl_11'>
+				</zone>
+				<zone ulx='705' uly='868' lrx='2301' lry='980' rendition='Line' xml:id='facs_2_tr_2_tl_12'>
+				</zone>
+				<zone ulx='701' uly='944' lrx='2301' lry='1042' rendition='Line' xml:id='facs_2_tr_2_tl_13'>
+				</zone>
+				<zone ulx='692' uly='992' lrx='2307' lry='1107' rendition='Line' xml:id='facs_2_tr_2_tl_14'>
+				</zone>
+				<zone ulx='698' uly='1055' lrx='2297' lry='1160' rendition='Line' xml:id='facs_2_tr_2_tl_15'>
+				</zone>
+				<zone ulx='690' uly='1124' lrx='2295' lry='1229' rendition='Line' xml:id='facs_2_tr_2_tl_16'>
+				</zone>
+				<zone ulx='684' uly='1183' lrx='2299' lry='1300' rendition='Line' xml:id='facs_2_tr_2_tl_17'>
+				</zone>
+				<zone ulx='686' uly='1250' lrx='2297' lry='1351' rendition='Line' xml:id='facs_2_tr_2_tl_18'>
+				</zone>
+				<zone ulx='686' uly='1321' lrx='2299' lry='1412' rendition='Line' xml:id='facs_2_tr_2_tl_19'>
+				</zone>
+				<zone ulx='680' uly='1361' lrx='2284' lry='1481' rendition='Line' xml:id='facs_2_tr_2_tl_20'>
+				</zone>
+				<zone ulx='675' uly='1435' lrx='2295' lry='1531' rendition='Line' xml:id='facs_2_tr_2_tl_21'>
+				</zone>
+				<zone ulx='673' uly='1502' lrx='2290' lry='1594' rendition='Line' xml:id='facs_2_tr_2_tl_22'>
+				</zone>
+				<zone ulx='671' uly='1567' lrx='2290' lry='1649' rendition='Line' xml:id='facs_2_tr_2_tl_23'>
+				</zone>
+				<zone ulx='669' uly='1634' lrx='2288' lry='1714' rendition='Line' xml:id='facs_2_tr_2_tl_24'>
+				</zone>
+				<zone ulx='669' uly='1680' lrx='2293' lry='1779' rendition='Line' xml:id='facs_2_tr_2_tl_25'>
+				</zone>
+				<zone ulx='663' uly='1758' lrx='2286' lry='1837' rendition='Line' xml:id='facs_2_tr_2_tl_26'>
+				</zone>
+				<zone ulx='657' uly='1823' lrx='2288' lry='1902' rendition='Line' xml:id='facs_2_tr_2_tl_27'>
+				</zone>
+				<zone ulx='650' uly='1886' lrx='2286' lry='1961' rendition='Line' xml:id='facs_2_tr_2_tl_28'>
+				</zone>
+				<zone ulx='648' uly='1942' lrx='1332' lry='2026' rendition='Line' xml:id='facs_2_tr_2_tl_29'>
+				</zone>
+				<zone ulx='648' uly='2009' lrx='2278' lry='2081' rendition='Line' xml:id='facs_2_tr_2_tl_31'>
+				</zone>
+				<zone ulx='633' uly='2079' lrx='2278' lry='2144' rendition='Line' xml:id='facs_2_tr_2_tl_32'>
+				</zone>
+				<zone ulx='722' uly='2142' lrx='2278' lry='2213' rendition='Line' xml:id='facs_2_tr_2_tl_33'>
+				</zone>
+				<zone ulx='638' uly='2211' lrx='2278' lry='2290' rendition='Line' xml:id='facs_2_tr_2_tl_34'>
+				</zone>
+				<zone ulx='642' uly='2269' lrx='2280' lry='2353' rendition='Line' xml:id='facs_2_tr_2_tl_35'>
+				</zone>
+				<zone ulx='627' uly='2347' lrx='2278' lry='2425' rendition='Line' xml:id='facs_2_tr_2_tl_36'>
+				</zone>
+				<zone ulx='615' uly='2397' lrx='2280' lry='2481' rendition='Line' xml:id='facs_2_tr_2_tl_37'>
+				</zone>
+				<zone ulx='617' uly='2465' lrx='2282' lry='2561' rendition='Line' xml:id='facs_2_tr_2_tl_38'>
+				</zone>
+				<zone ulx='621' uly='2527' lrx='2272' lry='2605' rendition='Line' xml:id='facs_2_tr_2_tl_39'>
+				</zone>
+				<zone ulx='608' uly='2605' lrx='2269' lry='2691' rendition='Line' xml:id='facs_2_tr_2_tl_40'>
+				</zone>
+				<zone ulx='600' uly='2658' lrx='2272' lry='2762' rendition='Line' xml:id='facs_2_tr_2_tl_41'>
+				</zone>
+				<zone ulx='600' uly='2735' lrx='2272' lry='2825' rendition='Line' xml:id='facs_2_tr_2_tl_42'>
+				</zone>
+				<zone ulx='594' uly='2794' lrx='2272' lry='2888' rendition='Line' xml:id='facs_2_tr_2_tl_43'>
+				</zone>
+				<zone ulx='585' uly='2859' lrx='2274' lry='2989' rendition='Line' xml:id='facs_2_tr_2_tl_44'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0003_p003.jpg'>
+			<graphic url='0003_p003.jpg' width='2479px' height='3508px'/>
+			<zone ulx='167' uly='170' lrx='1836' lry='3003' rendition='TextRegion' xml:id='facs_3_tr_1'>
+				<zone ulx='729' uly='116' lrx='1305' lry='258' rendition='Line' xml:id='facs_3_tr_1_tl_1'>
+				</zone>
+				<zone ulx='1699' uly='163' lrx='1786' lry='250' rendition='Line' xml:id='facs_3_tr_1_tl_2'>
+				</zone>
+				<zone ulx='173' uly='237' lrx='1834' lry='353' rendition='Line' xml:id='facs_3_tr_1_tl_3'>
+				</zone>
+				<zone ulx='176' uly='310' lrx='1828' lry='419' rendition='Line' xml:id='facs_3_tr_1_tl_4'>
+				</zone>
+				<zone ulx='182' uly='384' lrx='1819' lry='489' rendition='Line' xml:id='facs_3_tr_1_tl_5'>
+				</zone>
+				<zone ulx='176' uly='442' lrx='1817' lry='562' rendition='Line' xml:id='facs_3_tr_1_tl_6'>
+				</zone>
+				<zone ulx='178' uly='502' lrx='1815' lry='617' rendition='Line' xml:id='facs_3_tr_1_tl_7'>
+				</zone>
+				<zone ulx='178' uly='568' lrx='1811' lry='719' rendition='Line' xml:id='facs_3_tr_1_tl_8'>
+				</zone>
+				<zone ulx='171' uly='636' lrx='797' lry='758' rendition='Line' xml:id='facs_3_tr_1_tl_9'>
+				</zone>
+				<zone ulx='178' uly='768' lrx='1813' lry='882' rendition='Line' xml:id='facs_3_tr_1_tl_10'>
+				</zone>
+				<zone ulx='240' uly='847' lrx='1803' lry='962' rendition='Line' xml:id='facs_3_tr_1_tl_11'>
+				</zone>
+				<zone ulx='240' uly='892' lrx='1803' lry='1028' rendition='Line' xml:id='facs_3_tr_1_tl_12'>
+				</zone>
+				<zone ulx='231' uly='971' lrx='1792' lry='1068' rendition='Line' xml:id='facs_3_tr_1_tl_13'>
+				</zone>
+				<zone ulx='240' uly='1045' lrx='1807' lry='1144' rendition='Line' xml:id='facs_3_tr_1_tl_14'>
+				</zone>
+				<zone ulx='237' uly='1080' lrx='1809' lry='1214' rendition='Line' xml:id='facs_3_tr_1_tl_15'>
+				</zone>
+				<zone ulx='240' uly='1165' lrx='1811' lry='1268' rendition='Line' xml:id='facs_3_tr_1_tl_16'>
+				</zone>
+				<zone ulx='231' uly='1231' lrx='1805' lry='1334' rendition='Line' xml:id='facs_3_tr_1_tl_17'>
+				</zone>
+				<zone ulx='242' uly='1282' lrx='644' lry='1377' rendition='Line' xml:id='facs_3_tr_1_tl_18'>
+				</zone>
+				<zone ulx='1148' uly='1313' lrx='1450' lry='1406' rendition='Line' xml:id='facs_3_tr_1_tl_19'>
+				</zone>
+				<zone ulx='320' uly='1355' lrx='1803' lry='1476' rendition='Line' xml:id='facs_3_tr_1_tl_20'>
+				</zone>
+				<zone ulx='320' uly='1423' lrx='1799' lry='1524' rendition='Line' xml:id='facs_3_tr_1_tl_21'>
+				</zone>
+				<zone ulx='330' uly='1495' lrx='1801' lry='1588' rendition='Line' xml:id='facs_3_tr_1_tl_22'>
+				</zone>
+				<zone ulx='173' uly='1540' lrx='1807' lry='1669' rendition='Line' xml:id='facs_3_tr_1_tl_23'>
+				</zone>
+				<zone ulx='167' uly='1627' lrx='1803' lry='1728' rendition='Line' xml:id='facs_3_tr_1_tl_24'>
+				</zone>
+				<zone ulx='163' uly='1691' lrx='1799' lry='1778' rendition='Line' xml:id='facs_3_tr_1_tl_25'>
+				</zone>
+				<zone ulx='173' uly='1753' lrx='1805' lry='1852' rendition='Line' xml:id='facs_3_tr_1_tl_26'>
+				</zone>
+				<zone ulx='167' uly='1819' lrx='1799' lry='1910' rendition='Line' xml:id='facs_3_tr_1_tl_27'>
+				</zone>
+				<zone ulx='165' uly='1861' lrx='1799' lry='1980' rendition='Line' xml:id='facs_3_tr_1_tl_28'>
+				</zone>
+				<zone ulx='171' uly='1941' lrx='1803' lry='2034' rendition='Line' xml:id='facs_3_tr_1_tl_29'>
+				</zone>
+				<zone ulx='163' uly='2001' lrx='1499' lry='2108' rendition='Line' xml:id='facs_3_tr_1_tl_30'>
+				</zone>
+				<zone ulx='159' uly='2059' lrx='1794' lry='2179' rendition='Line' xml:id='facs_3_tr_1_tl_32'>
+				</zone>
+				<zone ulx='163' uly='2133' lrx='1794' lry='2238' rendition='Line' xml:id='facs_3_tr_1_tl_33'>
+				</zone>
+				<zone ulx='167' uly='2195' lrx='1792' lry='2296' rendition='Line' xml:id='facs_3_tr_1_tl_34'>
+				</zone>
+				<zone ulx='159' uly='2274' lrx='1801' lry='2364' rendition='Line' xml:id='facs_3_tr_1_tl_35'>
+				</zone>
+				<zone ulx='165' uly='2329' lrx='1799' lry='2416' rendition='Line' xml:id='facs_3_tr_1_tl_36'>
+				</zone>
+				<zone ulx='161' uly='2391' lrx='1801' lry='2486' rendition='Line' xml:id='facs_3_tr_1_tl_37'>
+				</zone>
+				<zone ulx='167' uly='2451' lrx='1805' lry='2544' rendition='Line' xml:id='facs_3_tr_1_tl_38'>
+				</zone>
+				<zone ulx='157' uly='2519' lrx='1799' lry='2618' rendition='Line' xml:id='facs_3_tr_1_tl_39'>
+				</zone>
+				<zone ulx='155' uly='2592' lrx='1801' lry='2676' rendition='Line' xml:id='facs_3_tr_1_tl_40'>
+				</zone>
+				<zone ulx='161' uly='2637' lrx='1799' lry='2746' rendition='Line' xml:id='facs_3_tr_1_tl_41'>
+				</zone>
+				<zone ulx='161' uly='2705' lrx='1801' lry='2806' rendition='Line' xml:id='facs_3_tr_1_tl_42'>
+				</zone>
+				<zone ulx='163' uly='2771' lrx='1801' lry='2879' rendition='Line' xml:id='facs_3_tr_1_tl_43'>
+				</zone>
+				<zone ulx='167' uly='2835' lrx='1801' lry='2953' rendition='Line' xml:id='facs_3_tr_1_tl_44'>
+				</zone>
+				<zone ulx='165' uly='2905' lrx='1807' lry='3023' rendition='Line' xml:id='facs_3_tr_1_tl_45'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_4'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0004_p004.jpg'>
+			<graphic url='0004_p004.jpg' width='2479px' height='3508px'/>
+			<zone ulx='641' uly='227' lrx='2266' lry='3032' rendition='TextRegion' xml:id='facs_4_tr_1'>
+				<zone ulx='1167' uly='148' lrx='1859' lry='332' rendition='Line' xml:id='facs_4_tr_1_tl_1'>
+				</zone>
+				<zone ulx='650' uly='282' lrx='2249' lry='488' rendition='Line' xml:id='facs_4_tr_1_tl_2'>
+				</zone>
+				<zone ulx='654' uly='372' lrx='2257' lry='554' rendition='Line' xml:id='facs_4_tr_1_tl_3'>
+				</zone>
+				<zone ulx='656' uly='442' lrx='2253' lry='612' rendition='Line' xml:id='facs_4_tr_1_tl_4'>
+				</zone>
+				<zone ulx='656' uly='500' lrx='2263' lry='672' rendition='Line' xml:id='facs_4_tr_1_tl_5'>
+				</zone>
+				<zone ulx='658' uly='566' lrx='2257' lry='736' rendition='Line' xml:id='facs_4_tr_1_tl_6'>
+				</zone>
+				<zone ulx='664' uly='628' lrx='1543' lry='724' rendition='Line' xml:id='facs_4_tr_1_tl_7'>
+				</zone>
+				<zone ulx='660' uly='688' lrx='2253' lry='853' rendition='Line' xml:id='facs_4_tr_1_tl_9'>
+				</zone>
+				<zone ulx='654' uly='758' lrx='2249' lry='919' rendition='Line' xml:id='facs_4_tr_1_tl_10'>
+				</zone>
+				<zone ulx='660' uly='821' lrx='2249' lry='985' rendition='Line' xml:id='facs_4_tr_1_tl_11'>
+				</zone>
+				<zone ulx='656' uly='905' lrx='2257' lry='1035' rendition='Line' xml:id='facs_4_tr_1_tl_12'>
+				</zone>
+				<zone ulx='654' uly='943' lrx='2249' lry='1109' rendition='Line' xml:id='facs_4_tr_1_tl_13'>
+				</zone>
+				<zone ulx='654' uly='1005' lrx='2259' lry='1163' rendition='Line' xml:id='facs_4_tr_1_tl_14'>
+				</zone>
+				<zone ulx='662' uly='1085' lrx='2247' lry='1233' rendition='Line' xml:id='facs_4_tr_1_tl_15'>
+				</zone>
+				<zone ulx='668' uly='1155' lrx='2249' lry='1291' rendition='Line' xml:id='facs_4_tr_1_tl_16'>
+				</zone>
+				<zone ulx='656' uly='1207' lrx='2251' lry='1353' rendition='Line' xml:id='facs_4_tr_1_tl_17'>
+				</zone>
+				<zone ulx='658' uly='1295' lrx='2247' lry='1413' rendition='Line' xml:id='facs_4_tr_1_tl_18'>
+				</zone>
+				<zone ulx='662' uly='1351' lrx='2241' lry='1481' rendition='Line' xml:id='facs_4_tr_1_tl_19'>
+				</zone>
+				<zone ulx='656' uly='1411' lrx='2243' lry='1533' rendition='Line' xml:id='facs_4_tr_1_tl_20'>
+				</zone>
+				<zone ulx='652' uly='1463' lrx='2245' lry='1597' rendition='Line' xml:id='facs_4_tr_1_tl_21'>
+				</zone>
+				<zone ulx='656' uly='1541' lrx='2239' lry='1657' rendition='Line' xml:id='facs_4_tr_1_tl_22'>
+				</zone>
+				<zone ulx='646' uly='1609' lrx='2239' lry='1729' rendition='Line' xml:id='facs_4_tr_1_tl_23'>
+				</zone>
+				<zone ulx='650' uly='1655' lrx='2243' lry='1775' rendition='Line' xml:id='facs_4_tr_1_tl_24'>
+				</zone>
+				<zone ulx='648' uly='1713' lrx='2243' lry='1839' rendition='Line' xml:id='facs_4_tr_1_tl_25'>
+				</zone>
+				<zone ulx='646' uly='1811' lrx='2237' lry='1895' rendition='Line' xml:id='facs_4_tr_1_tl_26'>
+				</zone>
+				<zone ulx='658' uly='1869' lrx='2241' lry='1961' rendition='Line' xml:id='facs_4_tr_1_tl_27'>
+				</zone>
+				<zone ulx='642' uly='1921' lrx='2241' lry='2037' rendition='Line' xml:id='facs_4_tr_1_tl_28'>
+				</zone>
+				<zone ulx='648' uly='1993' lrx='2241' lry='2101' rendition='Line' xml:id='facs_4_tr_1_tl_29'>
+				</zone>
+				<zone ulx='642' uly='2061' lrx='2237' lry='2141' rendition='Line' xml:id='facs_4_tr_1_tl_30'>
+				</zone>
+				<zone ulx='646' uly='2123' lrx='2235' lry='2217' rendition='Line' xml:id='facs_4_tr_1_tl_31'>
+				</zone>
+				<zone ulx='652' uly='2191' lrx='2241' lry='2277' rendition='Line' xml:id='facs_4_tr_1_tl_32'>
+				</zone>
+				<zone ulx='648' uly='2261' lrx='2229' lry='2335' rendition='Line' xml:id='facs_4_tr_1_tl_33'>
+				</zone>
+				<zone ulx='638' uly='2325' lrx='2231' lry='2408' rendition='Line' xml:id='facs_4_tr_1_tl_34'>
+				</zone>
+				<zone ulx='638' uly='2379' lrx='2231' lry='2476' rendition='Line' xml:id='facs_4_tr_1_tl_35'>
+				</zone>
+				<zone ulx='646' uly='2440' lrx='2229' lry='2516' rendition='Line' xml:id='facs_4_tr_1_tl_36'>
+				</zone>
+				<zone ulx='640' uly='2490' lrx='2239' lry='2600' rendition='Line' xml:id='facs_4_tr_1_tl_37'>
+				</zone>
+				<zone ulx='656' uly='2570' lrx='2225' lry='2650' rendition='Line' xml:id='facs_4_tr_1_tl_38'>
+				</zone>
+				<zone ulx='642' uly='2628' lrx='2231' lry='2728' rendition='Line' xml:id='facs_4_tr_1_tl_39'>
+				</zone>
+				<zone ulx='634' uly='2686' lrx='2235' lry='2792' rendition='Line' xml:id='facs_4_tr_1_tl_40'>
+				</zone>
+				<zone ulx='640' uly='2754' lrx='2227' lry='2856' rendition='Line' xml:id='facs_4_tr_1_tl_41'>
+				</zone>
+				<zone ulx='636' uly='2812' lrx='2225' lry='2910' rendition='Line' xml:id='facs_4_tr_1_tl_42'>
+				</zone>
+				<zone ulx='636' uly='2868' lrx='2227' lry='2978' rendition='Line' xml:id='facs_4_tr_1_tl_43'>
+				</zone>
+				<zone ulx='630' uly='2936' lrx='2219' lry='3040' rendition='Line' xml:id='facs_4_tr_1_tl_44'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_5'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0005_p005.jpg'>
+			<graphic url='0005_p005.jpg' width='2479px' height='3508px'/>
+			<zone ulx='143' uly='122' lrx='1836' lry='2987' rendition='TextRegion' xml:id='facs_5_tr_1'>
+				<zone ulx='671' uly='91' lrx='1251' lry='193' rendition='Line' xml:id='facs_5_tr_1_tl_1'>
+				</zone>
+				<zone ulx='1702' uly='121' lrx='1794' lry='235' rendition='Line' xml:id='facs_5_tr_1_tl_2'>
+				</zone>
+				<zone ulx='148' uly='169' lrx='1821' lry='320' rendition='Line' xml:id='facs_5_tr_1_tl_3'>
+				</zone>
+				<zone ulx='146' uly='254' lrx='1827' lry='377' rendition='Line' xml:id='facs_5_tr_1_tl_4'>
+				</zone>
+				<zone ulx='150' uly='320' lrx='1817' lry='451' rendition='Line' xml:id='facs_5_tr_1_tl_5'>
+				</zone>
+				<zone ulx='167' uly='383' lrx='1815' lry='515' rendition='Line' xml:id='facs_5_tr_1_tl_6'>
+				</zone>
+				<zone ulx='150' uly='449' lrx='843' lry='567' rendition='Line' xml:id='facs_5_tr_1_tl_7'>
+				</zone>
+				<zone ulx='152' uly='510' lrx='1808' lry='648' rendition='Line' xml:id='facs_5_tr_1_tl_9'>
+				</zone>
+				<zone ulx='144' uly='578' lrx='1813' lry='705' rendition='Line' xml:id='facs_5_tr_1_tl_10'>
+				</zone>
+				<zone ulx='150' uly='654' lrx='1815' lry='756' rendition='Line' xml:id='facs_5_tr_1_tl_11'>
+				</zone>
+				<zone ulx='150' uly='711' lrx='1806' lry='853' rendition='Line' xml:id='facs_5_tr_1_tl_12'>
+				</zone>
+				<zone ulx='142' uly='773' lrx='1806' lry='900' rendition='Line' xml:id='facs_5_tr_1_tl_13'>
+				</zone>
+				<zone ulx='142' uly='836' lrx='1813' lry='972' rendition='Line' xml:id='facs_5_tr_1_tl_14'>
+				</zone>
+				<zone ulx='140' uly='902' lrx='1813' lry='1040' rendition='Line' xml:id='facs_5_tr_1_tl_15'>
+				</zone>
+				<zone ulx='138' uly='983' lrx='1813' lry='1093' rendition='Line' xml:id='facs_5_tr_1_tl_16'>
+				</zone>
+				<zone ulx='142' uly='1033' lrx='1810' lry='1173' rendition='Line' xml:id='facs_5_tr_1_tl_17'>
+				</zone>
+				<zone ulx='142' uly='1095' lrx='1813' lry='1220' rendition='Line' xml:id='facs_5_tr_1_tl_18'>
+				</zone>
+				<zone ulx='144' uly='1167' lrx='1810' lry='1304' rendition='Line' xml:id='facs_5_tr_1_tl_19'>
+				</zone>
+				<zone ulx='138' uly='1224' lrx='1808' lry='1362' rendition='Line' xml:id='facs_5_tr_1_tl_20'>
+				</zone>
+				<zone ulx='146' uly='1294' lrx='1806' lry='1434' rendition='Line' xml:id='facs_5_tr_1_tl_21'>
+				</zone>
+				<zone ulx='142' uly='1357' lrx='1813' lry='1486' rendition='Line' xml:id='facs_5_tr_1_tl_22'>
+				</zone>
+				<zone ulx='142' uly='1421' lrx='1806' lry='1565' rendition='Line' xml:id='facs_5_tr_1_tl_23'>
+				</zone>
+				<zone ulx='144' uly='1486' lrx='1815' lry='1622' rendition='Line' xml:id='facs_5_tr_1_tl_24'>
+				</zone>
+				<zone ulx='144' uly='1556' lrx='1808' lry='1671' rendition='Line' xml:id='facs_5_tr_1_tl_25'>
+				</zone>
+				<zone ulx='146' uly='1643' lrx='1810' lry='1755' rendition='Line' xml:id='facs_5_tr_1_tl_26'>
+				</zone>
+				<zone ulx='138' uly='1688' lrx='1808' lry='1817' rendition='Line' xml:id='facs_5_tr_1_tl_27'>
+				</zone>
+				<zone ulx='142' uly='1772' lrx='1810' lry='1870' rendition='Line' xml:id='facs_5_tr_1_tl_28'>
+				</zone>
+				<zone ulx='142' uly='1836' lrx='1808' lry='1950' rendition='Line' xml:id='facs_5_tr_1_tl_29'>
+				</zone>
+				<zone ulx='140' uly='1880' lrx='1804' lry='2014' rendition='Line' xml:id='facs_5_tr_1_tl_30'>
+				</zone>
+				<zone ulx='131' uly='1946' lrx='1815' lry='2077' rendition='Line' xml:id='facs_5_tr_1_tl_31'>
+				</zone>
+				<zone ulx='138' uly='2022' lrx='1520' lry='2128' rendition='Line' xml:id='facs_5_tr_1_tl_32'>
+				</zone>
+				<zone ulx='144' uly='2141' lrx='1810' lry='2270' rendition='Line' xml:id='facs_5_tr_1_tl_33'>
+				</zone>
+				<zone ulx='212' uly='2217' lrx='1815' lry='2336' rendition='Line' xml:id='facs_5_tr_1_tl_34'>
+				</zone>
+				<zone ulx='212' uly='2274' lrx='1819' lry='2389' rendition='Line' xml:id='facs_5_tr_1_tl_35'>
+				</zone>
+				<zone ulx='214' uly='2353' lrx='1806' lry='2473' rendition='Line' xml:id='facs_5_tr_1_tl_36'>
+				</zone>
+				<zone ulx='726' uly='2429' lrx='968' lry='2520' rendition='Line' xml:id='facs_5_tr_1_tl_37'>
+				</zone>
+				<zone ulx='326' uly='2482' lrx='1819' lry='2588' rendition='Line' xml:id='facs_5_tr_1_tl_39'>
+				</zone>
+				<zone ulx='324' uly='2549' lrx='1813' lry='2660' rendition='Line' xml:id='facs_5_tr_1_tl_40'>
+				</zone>
+				<zone ulx='320' uly='2632' lrx='1806' lry='2732' rendition='Line' xml:id='facs_5_tr_1_tl_41'>
+				</zone>
+				<zone ulx='133' uly='2660' lrx='1827' lry='2795' rendition='Line' xml:id='facs_5_tr_1_tl_42'>
+				</zone>
+				<zone ulx='138' uly='2742' lrx='1817' lry='2857' rendition='Line' xml:id='facs_5_tr_1_tl_43'>
+				</zone>
+				<zone ulx='131' uly='2823' lrx='1825' lry='2929' rendition='Line' xml:id='facs_5_tr_1_tl_44'>
+				</zone>
+				<zone ulx='131' uly='2880' lrx='1832' lry='3005' rendition='Line' xml:id='facs_5_tr_1_tl_45'>
+				</zone>
+			</zone>
+			<zone ulx='1851' uly='2541' lrx='2098' lry='2670' rendition='TextRegion' xml:id='facs_5_tr_2'>
+				<zone ulx='1838' uly='2509' lrx='2094' lry='2615' rendition='Line' xml:id='facs_5_tr_2_tl_1'>
+				</zone>
+				<zone ulx='1838' uly='2579' lrx='1984' lry='2691' rendition='Line' xml:id='facs_5_tr_2_tl_2'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_6'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0006_p006.jpg'>
+			<graphic url='0006_p006.jpg' width='2479px' height='3508px'/>
+			<zone ulx='361' uly='297' lrx='641' lry='2976' rendition='TextRegion' xml:id='facs_6_tr_1'>
+				<zone ulx='389' uly='268' lrx='631' lry='355' rendition='Line' xml:id='facs_6_tr_1_tl_1'>
+				</zone>
+				<zone ulx='389' uly='345' lrx='511' lry='428' rendition='Line' xml:id='facs_6_tr_1_tl_2'>
+				</zone>
+				<zone ulx='381' uly='901' lrx='635' lry='1010' rendition='Line' xml:id='facs_6_tr_1_tl_3'>
+				</zone>
+				<zone ulx='363' uly='2038' lrx='590' lry='2162' rendition='Line' xml:id='facs_6_tr_1_tl_4'>
+				</zone>
+				<zone ulx='363' uly='2489' lrx='550' lry='2625' rendition='Line' xml:id='facs_6_tr_1_tl_5'>
+				</zone>
+				<zone ulx='351' uly='2702' lrx='608' lry='2823' rendition='Line' xml:id='facs_6_tr_1_tl_6'>
+				</zone>
+				<zone ulx='347' uly='2860' lrx='467' lry='2994' rendition='Line' xml:id='facs_6_tr_1_tl_7'>
+				</zone>
+			</zone>
+			<zone ulx='644' uly='187' lrx='2248' lry='3021' rendition='TextRegion' xml:id='facs_6_tr_2'>
+				<zone ulx='1164' uly='126' lrx='1825' lry='268' rendition='Line' xml:id='facs_6_tr_2_tl_1'>
+				</zone>
+				<zone ulx='665' uly='221' lrx='2243' lry='444' rendition='Line' xml:id='facs_6_tr_2_tl_2'>
+				</zone>
+				<zone ulx='671' uly='331' lrx='2243' lry='501' rendition='Line' xml:id='facs_6_tr_2_tl_3'>
+				</zone>
+				<zone ulx='665' uly='400' lrx='2243' lry='562' rendition='Line' xml:id='facs_6_tr_2_tl_4'>
+				</zone>
+				<zone ulx='661' uly='458' lrx='2243' lry='631' rendition='Line' xml:id='facs_6_tr_2_tl_5'>
+				</zone>
+				<zone ulx='669' uly='535' lrx='2237' lry='702' rendition='Line' xml:id='facs_6_tr_2_tl_6'>
+				</zone>
+				<zone ulx='661' uly='596' lrx='2235' lry='755' rendition='Line' xml:id='facs_6_tr_2_tl_7'>
+				</zone>
+				<zone ulx='667' uly='649' lrx='2233' lry='811' rendition='Line' xml:id='facs_6_tr_2_tl_8'>
+				</zone>
+				<zone ulx='659' uly='722' lrx='2231' lry='886' rendition='Line' xml:id='facs_6_tr_2_tl_9'>
+				</zone>
+				<zone ulx='661' uly='791' lrx='2227' lry='933' rendition='Line' xml:id='facs_6_tr_2_tl_10'>
+				</zone>
+				<zone ulx='663' uly='870' lrx='2237' lry='996' rendition='Line' xml:id='facs_6_tr_2_tl_11'>
+				</zone>
+				<zone ulx='675' uly='927' lrx='2235' lry='1063' rendition='Line' xml:id='facs_6_tr_2_tl_12'>
+				</zone>
+				<zone ulx='669' uly='992' lrx='2235' lry='1126' rendition='Line' xml:id='facs_6_tr_2_tl_13'>
+				</zone>
+				<zone ulx='667' uly='1051' lrx='2229' lry='1195' rendition='Line' xml:id='facs_6_tr_2_tl_14'>
+				</zone>
+				<zone ulx='659' uly='1122' lrx='2229' lry='1251' rendition='Line' xml:id='facs_6_tr_2_tl_15'>
+				</zone>
+				<zone ulx='655' uly='1189' lrx='2229' lry='1310' rendition='Line' xml:id='facs_6_tr_2_tl_16'>
+				</zone>
+				<zone ulx='661' uly='1241' lrx='2231' lry='1371' rendition='Line' xml:id='facs_6_tr_2_tl_17'>
+				</zone>
+				<zone ulx='661' uly='1318' lrx='2229' lry='1434' rendition='Line' xml:id='facs_6_tr_2_tl_18'>
+				</zone>
+				<zone ulx='655' uly='1381' lrx='2219' lry='1503' rendition='Line' xml:id='facs_6_tr_2_tl_19'>
+				</zone>
+				<zone ulx='657' uly='1444' lrx='2227' lry='1554' rendition='Line' xml:id='facs_6_tr_2_tl_20'>
+				</zone>
+				<zone ulx='657' uly='1507' lrx='2225' lry='1633' rendition='Line' xml:id='facs_6_tr_2_tl_21'>
+				</zone>
+				<zone ulx='655' uly='1562' lrx='2227' lry='1692' rendition='Line' xml:id='facs_6_tr_2_tl_22'>
+				</zone>
+				<zone ulx='659' uly='1629' lrx='2223' lry='1746' rendition='Line' xml:id='facs_6_tr_2_tl_23'>
+				</zone>
+				<zone ulx='659' uly='1704' lrx='2219' lry='1821' rendition='Line' xml:id='facs_6_tr_2_tl_24'>
+				</zone>
+				<zone ulx='661' uly='1763' lrx='2219' lry='1880' rendition='Line' xml:id='facs_6_tr_2_tl_25'>
+				</zone>
+				<zone ulx='651' uly='1821' lrx='2219' lry='1933' rendition='Line' xml:id='facs_6_tr_2_tl_26'>
+				</zone>
+				<zone ulx='655' uly='1890' lrx='2215' lry='1998' rendition='Line' xml:id='facs_6_tr_2_tl_27'>
+				</zone>
+				<zone ulx='651' uly='1967' lrx='2213' lry='2067' rendition='Line' xml:id='facs_6_tr_2_tl_28'>
+				</zone>
+				<zone ulx='649' uly='2028' lrx='2223' lry='2124' rendition='Line' xml:id='facs_6_tr_2_tl_29'>
+				</zone>
+				<zone ulx='655' uly='2093' lrx='2217' lry='2188' rendition='Line' xml:id='facs_6_tr_2_tl_30'>
+				</zone>
+				<zone ulx='651' uly='2126' lrx='2219' lry='2251' rendition='Line' xml:id='facs_6_tr_2_tl_31'>
+				</zone>
+				<zone ulx='649' uly='2205' lrx='2209' lry='2298' rendition='Line' xml:id='facs_6_tr_2_tl_32'>
+				</zone>
+				<zone ulx='647' uly='2280' lrx='2217' lry='2365' rendition='Line' xml:id='facs_6_tr_2_tl_33'>
+				</zone>
+				<zone ulx='637' uly='2328' lrx='2219' lry='2434' rendition='Line' xml:id='facs_6_tr_2_tl_34'>
+				</zone>
+				<zone ulx='637' uly='2412' lrx='2215' lry='2507' rendition='Line' xml:id='facs_6_tr_2_tl_35'>
+				</zone>
+				<zone ulx='641' uly='2470' lrx='2213' lry='2576' rendition='Line' xml:id='facs_6_tr_2_tl_36'>
+				</zone>
+				<zone ulx='641' uly='2548' lrx='2215' lry='2616' rendition='Line' xml:id='facs_6_tr_2_tl_37'>
+				</zone>
+				<zone ulx='639' uly='2610' lrx='2215' lry='2694' rendition='Line' xml:id='facs_6_tr_2_tl_38'>
+				</zone>
+				<zone ulx='633' uly='2685' lrx='2215' lry='2762' rendition='Line' xml:id='facs_6_tr_2_tl_39'>
+				</zone>
+				<zone ulx='639' uly='2742' lrx='2215' lry='2817' rendition='Line' xml:id='facs_6_tr_2_tl_40'>
+				</zone>
+				<zone ulx='637' uly='2801' lrx='2209' lry='2874' rendition='Line' xml:id='facs_6_tr_2_tl_41'>
+				</zone>
+				<zone ulx='637' uly='2860' lrx='2209' lry='2965' rendition='Line' xml:id='facs_6_tr_2_tl_42'>
+				</zone>
+				<zone ulx='633' uly='2927' lrx='2215' lry='3048' rendition='Line' xml:id='facs_6_tr_2_tl_43'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_7'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0007_p007.jpg'>
+			<graphic url='0007_p007.jpg' width='2479px' height='3508px'/>
+			<zone ulx='77' uly='211' lrx='1788' lry='2701' rendition='TextRegion' xml:id='facs_7_tr_1'>
+				<zone ulx='657' uly='165' lrx='1236' lry='286' rendition='Line' xml:id='facs_7_tr_1_tl_1'>
+				</zone>
+				<zone ulx='1624' uly='192' lrx='1733' lry='300' rendition='Line' xml:id='facs_7_tr_1_tl_2'>
+				</zone>
+				<zone ulx='89' uly='251' lrx='1792' lry='384' rendition='Line' xml:id='facs_7_tr_1_tl_3'>
+				</zone>
+				<zone ulx='81' uly='349' lrx='1779' lry='455' rendition='Line' xml:id='facs_7_tr_1_tl_4'>
+				</zone>
+				<zone ulx='84' uly='411' lrx='1779' lry='514' rendition='Line' xml:id='facs_7_tr_1_tl_6'>
+				</zone>
+				<zone ulx='81' uly='475' lrx='1779' lry='591' rendition='Line' xml:id='facs_7_tr_1_tl_7'>
+				</zone>
+				<zone ulx='86' uly='556' lrx='1787' lry='650' rendition='Line' xml:id='facs_7_tr_1_tl_8'>
+				</zone>
+				<zone ulx='84' uly='598' lrx='1777' lry='701' rendition='Line' xml:id='facs_7_tr_1_tl_9'>
+				</zone>
+				<zone ulx='84' uly='679' lrx='1772' lry='765' rendition='Line' xml:id='facs_7_tr_1_tl_10'>
+				</zone>
+				<zone ulx='76' uly='721' lrx='1775' lry='844' rendition='Line' xml:id='facs_7_tr_1_tl_11'>
+				</zone>
+				<zone ulx='79' uly='785' lrx='1777' lry='911' rendition='Line' xml:id='facs_7_tr_1_tl_12'>
+				</zone>
+				<zone ulx='74' uly='844' lrx='1775' lry='970' rendition='Line' xml:id='facs_7_tr_1_tl_13'>
+				</zone>
+				<zone ulx='76' uly='903' lrx='1398' lry='1009' rendition='Line' xml:id='facs_7_tr_1_tl_14'>
+				</zone>
+				<zone ulx='79' uly='994' lrx='1772' lry='1085' rendition='Line' xml:id='facs_7_tr_1_tl_17'>
+				</zone>
+				<zone ulx='74' uly='1029' lrx='1770' lry='1164' rendition='Line' xml:id='facs_7_tr_1_tl_18'>
+				</zone>
+				<zone ulx='76' uly='1100' lrx='1770' lry='1213' rendition='Line' xml:id='facs_7_tr_1_tl_19'>
+				</zone>
+				<zone ulx='74' uly='1157' lrx='2050' lry='1297' rendition='Line' xml:id='facs_7_tr_1_tl_20'>
+				</zone>
+				<zone ulx='79' uly='1233' lrx='1770' lry='1344' rendition='Line' xml:id='facs_7_tr_1_tl_21'>
+				</zone>
+				<zone ulx='76' uly='1295' lrx='1777' lry='1420' rendition='Line' xml:id='facs_7_tr_1_tl_22'>
+				</zone>
+				<zone ulx='76' uly='1346' lrx='1775' lry='1467' rendition='Line' xml:id='facs_7_tr_1_tl_23'>
+				</zone>
+				<zone ulx='79' uly='1423' lrx='1775' lry='1546' rendition='Line' xml:id='facs_7_tr_1_tl_24'>
+				</zone>
+				<zone ulx='79' uly='1489' lrx='1760' lry='1580' rendition='Line' xml:id='facs_7_tr_1_tl_25'>
+				</zone>
+				<zone ulx='71' uly='1533' lrx='1765' lry='1661' rendition='Line' xml:id='facs_7_tr_1_tl_26'>
+				</zone>
+				<zone ulx='76' uly='1597' lrx='1767' lry='1725' rendition='Line' xml:id='facs_7_tr_1_tl_27'>
+				</zone>
+				<zone ulx='76' uly='1656' lrx='1767' lry='1789' rendition='Line' xml:id='facs_7_tr_1_tl_28'>
+				</zone>
+				<zone ulx='135' uly='1735' lrx='1755' lry='1853' rendition='Line' xml:id='facs_7_tr_1_tl_29'>
+				</zone>
+				<zone ulx='66' uly='1770' lrx='1772' lry='1898' rendition='Line' xml:id='facs_7_tr_1_tl_30'>
+				</zone>
+				<zone ulx='66' uly='1843' lrx='1755' lry='1954' rendition='Line' xml:id='facs_7_tr_1_tl_31'>
+				</zone>
+				<zone ulx='69' uly='1920' lrx='1770' lry='2033' rendition='Line' xml:id='facs_7_tr_1_tl_32'>
+				</zone>
+				<zone ulx='71' uly='1962' lrx='1760' lry='2082' rendition='Line' xml:id='facs_7_tr_1_tl_33'>
+				</zone>
+				<zone ulx='76' uly='2043' lrx='1765' lry='2149' rendition='Line' xml:id='facs_7_tr_1_tl_34'>
+				</zone>
+				<zone ulx='69' uly='2107' lrx='1770' lry='2200' rendition='Line' xml:id='facs_7_tr_1_tl_35'>
+				</zone>
+				<zone ulx='69' uly='2166' lrx='1772' lry='2282' rendition='Line' xml:id='facs_7_tr_1_tl_36'>
+				</zone>
+				<zone ulx='66' uly='2225' lrx='2006' lry='2336' rendition='Line' xml:id='facs_7_tr_1_tl_37'>
+				</zone>
+				<zone ulx='69' uly='2284' lrx='1770' lry='2407' rendition='Line' xml:id='facs_7_tr_1_tl_38'>
+				</zone>
+				<zone ulx='64' uly='2353' lrx='1767' lry='2454' rendition='Line' xml:id='facs_7_tr_1_tl_39'>
+				</zone>
+				<zone ulx='64' uly='2405' lrx='1772' lry='2530' rendition='Line' xml:id='facs_7_tr_1_tl_40'>
+				</zone>
+				<zone ulx='64' uly='2461' lrx='2008' lry='2589' rendition='Line' xml:id='facs_7_tr_1_tl_41'>
+				</zone>
+				<zone ulx='66' uly='2528' lrx='1770' lry='2641' rendition='Line' xml:id='facs_7_tr_1_tl_42'>
+				</zone>
+				<zone ulx='66' uly='2582' lrx='1336' lry='2720' rendition='Line' xml:id='facs_7_tr_1_tl_43'>
+				</zone>
+			</zone>
+			<zone ulx='1815' uly='349' lrx='2096' lry='2676' rendition='TextRegion' xml:id='facs_7_r_724'>
+				<zone ulx='1809' uly='379' lrx='2038' lry='490' rendition='Line' xml:id='facs_7_tr_1_tl_5'>
+				</zone>
+				<zone ulx='1797' uly='938' lrx='2035' lry='1036' rendition='Line' xml:id='facs_7_tr_1_tl_16'>
+				</zone>
+				<zone ulx='1816' uly='1237' lrx='2084' lry='1301' rendition='Line' xml:id='facs_7_l_676'>
+				</zone>
+				<zone ulx='1808' uly='2305' lrx='2008' lry='2337' rendition='Line' xml:id='facs_7_l_683'>
+				</zone>
+				<zone ulx='1810' uly='2578' lrx='1997' lry='2626' rendition='Line' xml:id='facs_7_l_735'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_8'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0008_p008.jpg'>
+			<graphic url='0008_p008.jpg' width='2479px' height='3508px'/>
+			<zone ulx='298' uly='1483' lrx='567' lry='2146' rendition='TextRegion' xml:id='facs_8_tr_1'>
+				<zone ulx='287' uly='1460' lrx='561' lry='1571' rendition='Line' xml:id='facs_8_tr_1_tl_1'>
+				</zone>
+				<zone ulx='287' uly='1596' lrx='559' lry='1720' rendition='Line' xml:id='facs_8_tr_1_tl_2'>
+				</zone>
+				<zone ulx='287' uly='1973' lrx='528' lry='2091' rendition='Line' xml:id='facs_8_tr_1_tl_3'>
+				</zone>
+				<zone ulx='293' uly='2068' lrx='517' lry='2181' rendition='Line' xml:id='facs_8_tr_1_tl_4'>
+				</zone>
+			</zone>
+			<zone ulx='576' uly='180' lrx='2269' lry='3048' rendition='TextRegion' xml:id='facs_8_tr_2'>
+				<zone ulx='1135' uly='113' lrx='1816' lry='266' rendition='Line' xml:id='facs_8_tr_2_tl_1'>
+				</zone>
+				<zone ulx='585' uly='222' lrx='2258' lry='375' rendition='Line' xml:id='facs_8_tr_2_tl_2'>
+				</zone>
+				<zone ulx='672' uly='312' lrx='2254' lry='446' rendition='Line' xml:id='facs_8_tr_2_tl_3'>
+				</zone>
+				<zone ulx='677' uly='385' lrx='2261' lry='522' rendition='Line' xml:id='facs_8_tr_2_tl_4'>
+				</zone>
+				<zone ulx='1280' uly='453' lrx='1471' lry='541' rendition='Line' xml:id='facs_8_tr_2_tl_5'>
+				</zone>
+				<zone ulx='848' uly='524' lrx='2261' lry='639' rendition='Line' xml:id='facs_8_tr_2_tl_7'>
+				</zone>
+				<zone ulx='825' uly='580' lrx='2258' lry='706' rendition='Line' xml:id='facs_8_tr_2_tl_8'>
+				</zone>
+				<zone ulx='830' uly='652' lrx='2265' lry='769' rendition='Line' xml:id='facs_8_tr_2_tl_9'>
+				</zone>
+				<zone ulx='580' uly='714' lrx='2254' lry='825' rendition='Line' xml:id='facs_8_tr_2_tl_10'>
+				</zone>
+				<zone ulx='582' uly='781' lrx='2267' lry='886' rendition='Line' xml:id='facs_8_tr_2_tl_11'>
+				</zone>
+				<zone ulx='580' uly='851' lrx='2258' lry='957' rendition='Line' xml:id='facs_8_tr_2_tl_12'>
+				</zone>
+				<zone ulx='576' uly='913' lrx='2261' lry='1018' rendition='Line' xml:id='facs_8_tr_2_tl_13'>
+				</zone>
+				<zone ulx='576' uly='974' lrx='2254' lry='1079' rendition='Line' xml:id='facs_8_tr_2_tl_14'>
+				</zone>
+				<zone ulx='585' uly='1039' lrx='2261' lry='1163' rendition='Line' xml:id='facs_8_tr_2_tl_15'>
+				</zone>
+				<zone ulx='585' uly='1106' lrx='2256' lry='1223' rendition='Line' xml:id='facs_8_tr_2_tl_16'>
+				</zone>
+				<zone ulx='580' uly='1173' lrx='2256' lry='1272' rendition='Line' xml:id='facs_8_tr_2_tl_17'>
+				</zone>
+				<zone ulx='576' uly='1234' lrx='2254' lry='1345' rendition='Line' xml:id='facs_8_tr_2_tl_18'>
+				</zone>
+				<zone ulx='585' uly='1305' lrx='2246' lry='1423' rendition='Line' xml:id='facs_8_tr_2_tl_19'>
+				</zone>
+				<zone ulx='580' uly='1370' lrx='2248' lry='1490' rendition='Line' xml:id='facs_8_tr_2_tl_20'>
+				</zone>
+				<zone ulx='582' uly='1433' lrx='2248' lry='1563' rendition='Line' xml:id='facs_8_tr_2_tl_21'>
+				</zone>
+				<zone ulx='580' uly='1517' lrx='2242' lry='1611' rendition='Line' xml:id='facs_8_tr_2_tl_22'>
+				</zone>
+				<zone ulx='587' uly='1565' lrx='2248' lry='1689' rendition='Line' xml:id='facs_8_tr_2_tl_23'>
+				</zone>
+				<zone ulx='587' uly='1649' lrx='2250' lry='1758' rendition='Line' xml:id='facs_8_tr_2_tl_24'>
+				</zone>
+				<zone ulx='589' uly='1697' lrx='2240' lry='1804' rendition='Line' xml:id='facs_8_tr_2_tl_25'>
+				</zone>
+				<zone ulx='572' uly='1756' lrx='2240' lry='1858' rendition='Line' xml:id='facs_8_tr_2_tl_26'>
+				</zone>
+				<zone ulx='574' uly='1829' lrx='2233' lry='1927' rendition='Line' xml:id='facs_8_tr_2_tl_27'>
+				</zone>
+				<zone ulx='574' uly='1892' lrx='2250' lry='2001' rendition='Line' xml:id='facs_8_tr_2_tl_28'>
+				</zone>
+				<zone ulx='591' uly='1961' lrx='2242' lry='2057' rendition='Line' xml:id='facs_8_tr_2_tl_29'>
+				</zone>
+				<zone ulx='580' uly='2022' lrx='2246' lry='2137' rendition='Line' xml:id='facs_8_tr_2_tl_30'>
+				</zone>
+				<zone ulx='578' uly='2089' lrx='2246' lry='2208' rendition='Line' xml:id='facs_8_tr_2_tl_31'>
+				</zone>
+				<zone ulx='578' uly='2164' lrx='2240' lry='2271' rendition='Line' xml:id='facs_8_tr_2_tl_32'>
+				</zone>
+				<zone ulx='582' uly='2219' lrx='2240' lry='2342' rendition='Line' xml:id='facs_8_tr_2_tl_33'>
+				</zone>
+				<zone ulx='580' uly='2298' lrx='2248' lry='2401' rendition='Line' xml:id='facs_8_tr_2_tl_34'>
+				</zone>
+				<zone ulx='576' uly='2351' lrx='2242' lry='2462' rendition='Line' xml:id='facs_8_tr_2_tl_35'>
+				</zone>
+				<zone ulx='576' uly='2424' lrx='2244' lry='2529' rendition='Line' xml:id='facs_8_tr_2_tl_36'>
+				</zone>
+				<zone ulx='580' uly='2487' lrx='2248' lry='2602' rendition='Line' xml:id='facs_8_tr_2_tl_37'>
+				</zone>
+				<zone ulx='576' uly='2548' lrx='2242' lry='2663' rendition='Line' xml:id='facs_8_tr_2_tl_38'>
+				</zone>
+				<zone ulx='568' uly='2608' lrx='2240' lry='2724' rendition='Line' xml:id='facs_8_tr_2_tl_39'>
+				</zone>
+				<zone ulx='574' uly='2673' lrx='2233' lry='2793' rendition='Line' xml:id='facs_8_tr_2_tl_40'>
+				</zone>
+				<zone ulx='570' uly='2736' lrx='2240' lry='2847' rendition='Line' xml:id='facs_8_tr_2_tl_41'>
+				</zone>
+				<zone ulx='568' uly='2799' lrx='2237' lry='2916' rendition='Line' xml:id='facs_8_tr_2_tl_42'>
+				</zone>
+				<zone ulx='574' uly='2874' lrx='2242' lry='2975' rendition='Line' xml:id='facs_8_tr_2_tl_43'>
+				</zone>
+				<zone ulx='564' uly='2929' lrx='2233' lry='3088' rendition='Line' xml:id='facs_8_tr_2_tl_44'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_9'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0009_p009.jpg'>
+			<graphic url='0009_p009.jpg' width='2479px' height='3508px'/>
+			<zone ulx='259' uly='190' lrx='1815' lry='3063' rendition='TextRegion' xml:id='facs_9_tr_1'>
+				<zone ulx='812' uly='127' lrx='1347' lry='274' rendition='Line' xml:id='facs_9_tr_1_tl_1'>
+				</zone>
+				<zone ulx='1712' uly='224' lrx='1771' lry='283' rendition='Line' xml:id='facs_9_l'>
+				</zone>
+				<zone ulx='272' uly='259' lrx='1804' lry='383' rendition='Line' xml:id='facs_9_tr_1_tl_2'>
+				</zone>
+				<zone ulx='274' uly='331' lrx='1800' lry='446' rendition='Line' xml:id='facs_9_tr_1_tl_3'>
+				</zone>
+				<zone ulx='278' uly='391' lrx='1794' lry='510' rendition='Line' xml:id='facs_9_tr_1_tl_4'>
+				</zone>
+				<zone ulx='274' uly='457' lrx='1800' lry='568' rendition='Line' xml:id='facs_9_tr_1_tl_5'>
+				</zone>
+				<zone ulx='276' uly='520' lrx='1800' lry='623' rendition='Line' xml:id='facs_9_tr_1_tl_6'>
+				</zone>
+				<zone ulx='269' uly='580' lrx='1802' lry='681' rendition='Line' xml:id='facs_9_tr_1_tl_7'>
+				</zone>
+				<zone ulx='267' uly='644' lrx='1794' lry='753' rendition='Line' xml:id='facs_9_tr_1_tl_8'>
+				</zone>
+				<zone ulx='267' uly='705' lrx='1792' lry='819' rendition='Line' xml:id='facs_9_tr_1_tl_9'>
+				</zone>
+				<zone ulx='269' uly='767' lrx='1796' lry='884' rendition='Line' xml:id='facs_9_tr_1_tl_10'>
+				</zone>
+				<zone ulx='271' uly='833' lrx='1794' lry='944' rendition='Line' xml:id='facs_9_tr_1_tl_11'>
+				</zone>
+				<zone ulx='267' uly='893' lrx='1794' lry='1006' rendition='Line' xml:id='facs_9_tr_1_tl_12'>
+				</zone>
+				<zone ulx='267' uly='977' lrx='1794' lry='1070' rendition='Line' xml:id='facs_9_tr_1_tl_13'>
+				</zone>
+				<zone ulx='263' uly='1037' lrx='1794' lry='1123' rendition='Line' xml:id='facs_9_tr_1_tl_14'>
+				</zone>
+				<zone ulx='261' uly='1104' lrx='1789' lry='1195' rendition='Line' xml:id='facs_9_tr_1_tl_15'>
+				</zone>
+				<zone ulx='265' uly='1144' lrx='1792' lry='1271' rendition='Line' xml:id='facs_9_tr_1_tl_16'>
+				</zone>
+				<zone ulx='261' uly='1209' lrx='1796' lry='1320' rendition='Line' xml:id='facs_9_tr_1_tl_17'>
+				</zone>
+				<zone ulx='265' uly='1298' lrx='1785' lry='1399' rendition='Line' xml:id='facs_9_tr_1_tl_18'>
+				</zone>
+				<zone ulx='267' uly='1358' lrx='1787' lry='1444' rendition='Line' xml:id='facs_9_tr_1_tl_19'>
+				</zone>
+				<zone ulx='267' uly='1395' lrx='1789' lry='1512' rendition='Line' xml:id='facs_9_tr_1_tl_20'>
+				</zone>
+				<zone ulx='257' uly='1471' lrx='1791' lry='1584' rendition='Line' xml:id='facs_9_tr_1_tl_21'>
+				</zone>
+				<zone ulx='259' uly='1530' lrx='1806' lry='1648' rendition='Line' xml:id='facs_9_tr_1_tl_22'>
+				</zone>
+				<zone ulx='255' uly='1598' lrx='1794' lry='1715' rendition='Line' xml:id='facs_9_tr_1_tl_23'>
+				</zone>
+				<zone ulx='261' uly='1660' lrx='1794' lry='1777' rendition='Line' xml:id='facs_9_tr_1_tl_24'>
+				</zone>
+				<zone ulx='265' uly='1713' lrx='1796' lry='1845' rendition='Line' xml:id='facs_9_tr_1_tl_25'>
+				</zone>
+				<zone ulx='253' uly='1785' lrx='1785' lry='1888' rendition='Line' xml:id='facs_9_tr_1_tl_26'>
+				</zone>
+				<zone ulx='259' uly='1853' lrx='1791' lry='1966' rendition='Line' xml:id='facs_9_tr_1_tl_27'>
+				</zone>
+				<zone ulx='253' uly='1901' lrx='1796' lry='2032' rendition='Line' xml:id='facs_9_tr_1_tl_28'>
+				</zone>
+				<zone ulx='257' uly='1964' lrx='1792' lry='2100' rendition='Line' xml:id='facs_9_tr_1_tl_29'>
+				</zone>
+				<zone ulx='249' uly='2026' lrx='1804' lry='2158' rendition='Line' xml:id='facs_9_tr_1_tl_30'>
+				</zone>
+				<zone ulx='255' uly='2108' lrx='1798' lry='2228' rendition='Line' xml:id='facs_9_tr_1_tl_31'>
+				</zone>
+				<zone ulx='261' uly='2176' lrx='1796' lry='2287' rendition='Line' xml:id='facs_9_tr_1_tl_32'>
+				</zone>
+				<zone ulx='253' uly='2232' lrx='1802' lry='2357' rendition='Line' xml:id='facs_9_tr_1_tl_33'>
+				</zone>
+				<zone ulx='253' uly='2285' lrx='1804' lry='2415' rendition='Line' xml:id='facs_9_tr_1_tl_34'>
+				</zone>
+				<zone ulx='253' uly='2353' lrx='1806' lry='2480' rendition='Line' xml:id='facs_9_tr_1_tl_35'>
+				</zone>
+				<zone ulx='255' uly='2433' lrx='1794' lry='2552' rendition='Line' xml:id='facs_9_tr_1_tl_36'>
+				</zone>
+				<zone ulx='253' uly='2509' lrx='1802' lry='2616' rendition='Line' xml:id='facs_9_tr_1_tl_37'>
+				</zone>
+				<zone ulx='255' uly='2559' lrx='1794' lry='2666' rendition='Line' xml:id='facs_9_tr_1_tl_38'>
+				</zone>
+				<zone ulx='257' uly='2620' lrx='1806' lry='2746' rendition='Line' xml:id='facs_9_tr_1_tl_39'>
+				</zone>
+				<zone ulx='253' uly='2690' lrx='1804' lry='2812' rendition='Line' xml:id='facs_9_tr_1_tl_40'>
+				</zone>
+				<zone ulx='249' uly='2744' lrx='1802' lry='2861' rendition='Line' xml:id='facs_9_tr_1_tl_41'>
+				</zone>
+				<zone ulx='247' uly='2795' lrx='1808' lry='2925' rendition='Line' xml:id='facs_9_tr_1_tl_42'>
+				</zone>
+				<zone ulx='249' uly='2873' lrx='1812' lry='3042' rendition='Line' xml:id='facs_9_tr_1_tl_43'>
+				</zone>
+				<zone ulx='1440' uly='2991' lrx='1569' lry='3095' rendition='Line' xml:id='facs_9_tr_1_tl_44'>
+				</zone>
+			</zone>
+			<zone ulx='1827' uly='723' lrx='2074' lry='1925' rendition='TextRegion' xml:id='facs_9_tr_2'>
+				<zone ulx='1818' uly='716' lrx='2073' lry='835' rendition='Line' xml:id='facs_9_tr_2_tl_1'>
+				</zone>
+				<zone ulx='1814' uly='1111' lrx='2067' lry='1213' rendition='Line' xml:id='facs_9_tr_2_tl_2'>
+				</zone>
+				<zone ulx='1814' uly='1300' lrx='2053' lry='1423' rendition='Line' xml:id='facs_9_tr_2_tl_3'>
+				</zone>
+				<zone ulx='1814' uly='1434' lrx='2065' lry='1551' rendition='Line' xml:id='facs_9_tr_2_tl_4'>
+				</zone>
+				<zone ulx='1816' uly='1816' lrx='2069' lry='1931' rendition='Line' xml:id='facs_9_tr_2_tl_5'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_10'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0010_p010.jpg'>
+			<graphic url='0010_p010.jpg' width='2479px' height='3508px'/>
+			<zone ulx='340' uly='1661' lrx='609' lry='2048' rendition='TextRegion' xml:id='facs_10_tr_1'>
+				<zone ulx='334' uly='1621' lrx='603' lry='1723' rendition='Line' xml:id='facs_10_tr_1_tl_1'>
+				</zone>
+				<zone ulx='328' uly='1702' lrx='469' lry='1804' rendition='Line' xml:id='facs_10_tr_1_tl_2'>
+				</zone>
+				<zone ulx='332' uly='1961' lrx='589' lry='2065' rendition='Line' xml:id='facs_10_tr_1_tl_3'>
+				</zone>
+			</zone>
+			<zone ulx='609' uly='200' lrx='2254' lry='3017' rendition='TextRegion' xml:id='facs_10_tr_2'>
+				<zone ulx='1089' uly='163' lrx='1788' lry='251' rendition='Line' xml:id='facs_10_tr_2_tl_1'>
+				</zone>
+				<zone ulx='597' uly='267' lrx='2234' lry='418' rendition='Line' xml:id='facs_10_tr_2_tl_2'>
+				</zone>
+				<zone ulx='603' uly='338' lrx='2230' lry='477' rendition='Line' xml:id='facs_10_tr_2_tl_3'>
+				</zone>
+				<zone ulx='608' uly='400' lrx='2239' lry='538' rendition='Line' xml:id='facs_10_tr_2_tl_4'>
+				</zone>
+				<zone ulx='608' uly='477' lrx='2239' lry='614' rendition='Line' xml:id='facs_10_tr_2_tl_5'>
+				</zone>
+				<zone ulx='603' uly='542' lrx='2237' lry='663' rendition='Line' xml:id='facs_10_tr_2_tl_6'>
+				</zone>
+				<zone ulx='608' uly='597' lrx='2243' lry='736' rendition='Line' xml:id='facs_10_tr_2_tl_7'>
+				</zone>
+				<zone ulx='612' uly='673' lrx='2237' lry='791' rendition='Line' xml:id='facs_10_tr_2_tl_8'>
+				</zone>
+				<zone ulx='618' uly='744' lrx='2234' lry='858' rendition='Line' xml:id='facs_10_tr_2_tl_9'>
+				</zone>
+				<zone ulx='610' uly='807' lrx='2234' lry='911' rendition='Line' xml:id='facs_10_tr_2_tl_10'>
+				</zone>
+				<zone ulx='610' uly='860' lrx='2230' lry='987' rendition='Line' xml:id='facs_10_tr_2_tl_11'>
+				</zone>
+				<zone ulx='612' uly='936' lrx='2234' lry='1062' rendition='Line' xml:id='facs_10_tr_2_tl_12'>
+				</zone>
+				<zone ulx='612' uly='997' lrx='2241' lry='1101' rendition='Line' xml:id='facs_10_tr_2_tl_13'>
+				</zone>
+				<zone ulx='616' uly='1076' lrx='2241' lry='1172' rendition='Line' xml:id='facs_10_tr_2_tl_14'>
+				</zone>
+				<zone ulx='624' uly='1129' lrx='2228' lry='1225' rendition='Line' xml:id='facs_10_tr_2_tl_15'>
+				</zone>
+				<zone ulx='618' uly='1201' lrx='2234' lry='1295' rendition='Line' xml:id='facs_10_tr_2_tl_16'>
+				</zone>
+				<zone ulx='620' uly='1260' lrx='2234' lry='1374' rendition='Line' xml:id='facs_10_tr_2_tl_17'>
+				</zone>
+				<zone ulx='630' uly='1317' lrx='2230' lry='1419' rendition='Line' xml:id='facs_10_tr_2_tl_18'>
+				</zone>
+				<zone ulx='620' uly='1390' lrx='2234' lry='1478' rendition='Line' xml:id='facs_10_tr_2_tl_19'>
+				</zone>
+				<zone ulx='620' uly='1450' lrx='2239' lry='1558' rendition='Line' xml:id='facs_10_tr_2_tl_20'>
+				</zone>
+				<zone ulx='624' uly='1517' lrx='2228' lry='1604' rendition='Line' xml:id='facs_10_tr_2_tl_21'>
+				</zone>
+				<zone ulx='630' uly='1582' lrx='2234' lry='1682' rendition='Line' xml:id='facs_10_tr_2_tl_22'>
+				</zone>
+				<zone ulx='636' uly='1645' lrx='2241' lry='1733' rendition='Line' xml:id='facs_10_tr_2_tl_23'>
+				</zone>
+				<zone ulx='626' uly='1715' lrx='2239' lry='1800' rendition='Line' xml:id='facs_10_tr_2_tl_24'>
+				</zone>
+				<zone ulx='616' uly='1764' lrx='2237' lry='1867' rendition='Line' xml:id='facs_10_tr_2_tl_25'>
+				</zone>
+				<zone ulx='626' uly='1843' lrx='2230' lry='1910' rendition='Line' xml:id='facs_10_tr_2_tl_26'>
+				</zone>
+				<zone ulx='620' uly='1904' lrx='2239' lry='1982' rendition='Line' xml:id='facs_10_tr_2_tl_27'>
+				</zone>
+				<zone ulx='632' uly='1967' lrx='2241' lry='2047' rendition='Line' xml:id='facs_10_tr_2_tl_28'>
+				</zone>
+				<zone ulx='626' uly='2033' lrx='2245' lry='2116' rendition='Line' xml:id='facs_10_tr_2_tl_29'>
+				</zone>
+				<zone ulx='626' uly='2092' lrx='2241' lry='2167' rendition='Line' xml:id='facs_10_tr_2_tl_30'>
+				</zone>
+				<zone ulx='626' uly='2161' lrx='2237' lry='2247' rendition='Line' xml:id='facs_10_tr_2_tl_31'>
+				</zone>
+				<zone ulx='632' uly='2226' lrx='2247' lry='2312' rendition='Line' xml:id='facs_10_tr_2_tl_32'>
+				</zone>
+				<zone ulx='630' uly='2285' lrx='2243' lry='2365' rendition='Line' xml:id='facs_10_tr_2_tl_33'>
+				</zone>
+				<zone ulx='620' uly='2353' lrx='2249' lry='2426' rendition='Line' xml:id='facs_10_tr_2_tl_34'>
+				</zone>
+				<zone ulx='626' uly='2420' lrx='2241' lry='2487' rendition='Line' xml:id='facs_10_tr_2_tl_35'>
+				</zone>
+				<zone ulx='624' uly='2479' lrx='2243' lry='2555' rendition='Line' xml:id='facs_10_tr_2_tl_36'>
+				</zone>
+				<zone ulx='630' uly='2540' lrx='2239' lry='2622' rendition='Line' xml:id='facs_10_tr_2_tl_37'>
+				</zone>
+				<zone ulx='620' uly='2606' lrx='2241' lry='2689' rendition='Line' xml:id='facs_10_tr_2_tl_38'>
+				</zone>
+				<zone ulx='620' uly='2665' lrx='2241' lry='2777' rendition='Line' xml:id='facs_10_tr_2_tl_39'>
+				</zone>
+				<zone ulx='616' uly='2734' lrx='2249' lry='2834' rendition='Line' xml:id='facs_10_tr_2_tl_40'>
+				</zone>
+				<zone ulx='624' uly='2813' lrx='2245' lry='2895' rendition='Line' xml:id='facs_10_tr_2_tl_41'>
+				</zone>
+				<zone ulx='616' uly='2856' lrx='2249' lry='2942' rendition='Line' xml:id='facs_10_tr_2_tl_42'>
+				</zone>
+				<zone ulx='626' uly='2926' lrx='2247' lry='3023' rendition='Line' xml:id='facs_10_tr_2_tl_43'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_11'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0011_p011.jpg'>
+			<graphic url='0011_p011.jpg' width='2479px' height='3508px'/>
+			<zone ulx='101' uly='140' lrx='1830' lry='3065' rendition='TextRegion' xml:id='facs_11_tr_1'>
+				<zone ulx='697' uly='89' lrx='1291' lry='219' rendition='Line' xml:id='facs_11_tr_1_tl_1'>
+				</zone>
+				<zone ulx='1715' uly='130' lrx='1821' lry='269' rendition='Line' xml:id='facs_11_tr_1_tl_2'>
+				</zone>
+				<zone ulx='106' uly='192' lrx='1821' lry='334' rendition='Line' xml:id='facs_11_tr_1_tl_3'>
+				</zone>
+				<zone ulx='99' uly='272' lrx='1821' lry='404' rendition='Line' xml:id='facs_11_tr_1_tl_4'>
+				</zone>
+				<zone ulx='103' uly='337' lrx='1816' lry='483' rendition='Line' xml:id='facs_11_tr_1_tl_5'>
+				</zone>
+				<zone ulx='106' uly='416' lrx='1806' lry='541' rendition='Line' xml:id='facs_11_tr_1_tl_6'>
+				</zone>
+				<zone ulx='94' uly='474' lrx='1806' lry='618' rendition='Line' xml:id='facs_11_tr_1_tl_7'>
+				</zone>
+				<zone ulx='96' uly='541' lrx='1794' lry='688' rendition='Line' xml:id='facs_11_tr_1_tl_8'>
+				</zone>
+				<zone ulx='94' uly='608' lrx='1797' lry='743' rendition='Line' xml:id='facs_11_tr_1_tl_9'>
+				</zone>
+				<zone ulx='99' uly='673' lrx='1797' lry='813' rendition='Line' xml:id='facs_11_tr_1_tl_10'>
+				</zone>
+				<zone ulx='96' uly='738' lrx='1797' lry='892' rendition='Line' xml:id='facs_11_tr_1_tl_11'>
+				</zone>
+				<zone ulx='96' uly='808' lrx='1797' lry='940' rendition='Line' xml:id='facs_11_tr_1_tl_12'>
+				</zone>
+				<zone ulx='94' uly='875' lrx='1787' lry='1022' rendition='Line' xml:id='facs_11_tr_1_tl_13'>
+				</zone>
+				<zone ulx='94' uly='938' lrx='1785' lry='1092' rendition='Line' xml:id='facs_11_tr_1_tl_14'>
+				</zone>
+				<zone ulx='96' uly='1013' lrx='1785' lry='1152' rendition='Line' xml:id='facs_11_tr_1_tl_15'>
+				</zone>
+				<zone ulx='91' uly='1075' lrx='1782' lry='1222' rendition='Line' xml:id='facs_11_tr_1_tl_16'>
+				</zone>
+				<zone ulx='103' uly='1133' lrx='1780' lry='1294' rendition='Line' xml:id='facs_11_tr_1_tl_17'>
+				</zone>
+				<zone ulx='94' uly='1207' lrx='1782' lry='1347' rendition='Line' xml:id='facs_11_tr_1_tl_18'>
+				</zone>
+				<zone ulx='84' uly='1272' lrx='1772' lry='1424' rendition='Line' xml:id='facs_11_tr_1_tl_19'>
+				</zone>
+				<zone ulx='91' uly='1330' lrx='1772' lry='1486' rendition='Line' xml:id='facs_11_tr_1_tl_20'>
+				</zone>
+				<zone ulx='84' uly='1400' lrx='1770' lry='1546' rendition='Line' xml:id='facs_11_tr_1_tl_21'>
+				</zone>
+				<zone ulx='94' uly='1472' lrx='1775' lry='1597' rendition='Line' xml:id='facs_11_tr_1_tl_22'>
+				</zone>
+				<zone ulx='91' uly='1530' lrx='1775' lry='1676' rendition='Line' xml:id='facs_11_tr_1_tl_23'>
+				</zone>
+				<zone ulx='91' uly='1599' lrx='1770' lry='1741' rendition='Line' xml:id='facs_11_tr_1_tl_24'>
+				</zone>
+				<zone ulx='91' uly='1686' lrx='1768' lry='1809' rendition='Line' xml:id='facs_11_tr_1_tl_25'>
+				</zone>
+				<zone ulx='94' uly='1758' lrx='2025' lry='1888' rendition='Line' xml:id='facs_11_tr_1_tl_26'>
+				</zone>
+				<zone ulx='91' uly='1792' lrx='1760' lry='1934' rendition='Line' xml:id='facs_11_tr_1_tl_27'>
+				</zone>
+				<zone ulx='84' uly='1866' lrx='1760' lry='1996' rendition='Line' xml:id='facs_11_tr_1_tl_28'>
+				</zone>
+				<zone ulx='89' uly='1934' lrx='1763' lry='2056' rendition='Line' xml:id='facs_11_tr_1_tl_29'>
+				</zone>
+				<zone ulx='91' uly='1994' lrx='1756' lry='2124' rendition='Line' xml:id='facs_11_tr_1_tl_30'>
+				</zone>
+				<zone ulx='94' uly='2071' lrx='1760' lry='2186' rendition='Line' xml:id='facs_11_tr_1_tl_31'>
+				</zone>
+				<zone ulx='94' uly='2138' lrx='1756' lry='2237' rendition='Line' xml:id='facs_11_tr_1_tl_32'>
+				</zone>
+				<zone ulx='91' uly='2201' lrx='1758' lry='2316' rendition='Line' xml:id='facs_11_tr_1_tl_33'>
+				</zone>
+				<zone ulx='91' uly='2246' lrx='1756' lry='2364' rendition='Line' xml:id='facs_11_tr_1_tl_34'>
+				</zone>
+				<zone ulx='89' uly='2323' lrx='1758' lry='2441' rendition='Line' xml:id='facs_11_tr_1_tl_35'>
+				</zone>
+				<zone ulx='91' uly='2371' lrx='1751' lry='2501' rendition='Line' xml:id='facs_11_tr_1_tl_36'>
+				</zone>
+				<zone ulx='84' uly='2446' lrx='1748' lry='2569' rendition='Line' xml:id='facs_11_tr_1_tl_37'>
+				</zone>
+				<zone ulx='87' uly='2508' lrx='1751' lry='2626' rendition='Line' xml:id='facs_11_tr_1_tl_38'>
+				</zone>
+				<zone ulx='94' uly='2561' lrx='1753' lry='2689' rendition='Line' xml:id='facs_11_tr_1_tl_39'>
+				</zone>
+				<zone ulx='94' uly='2641' lrx='1741' lry='2749' rendition='Line' xml:id='facs_11_tr_1_tl_40'>
+				</zone>
+				<zone ulx='94' uly='2703' lrx='1746' lry='2811' rendition='Line' xml:id='facs_11_tr_1_tl_41'>
+				</zone>
+				<zone ulx='94' uly='2761' lrx='1744' lry='2867' rendition='Line' xml:id='facs_11_tr_1_tl_42'>
+				</zone>
+				<zone ulx='84' uly='2838' lrx='1751' lry='2944' rendition='Line' xml:id='facs_11_tr_1_tl_43'>
+				</zone>
+				<zone ulx='96' uly='2893' lrx='1751' lry='3030' rendition='Line' xml:id='facs_11_tr_1_tl_44'>
+				</zone>
+				<zone ulx='1354' uly='2977' lrx='1503' lry='3064' rendition='Line' xml:id='facs_11_tr_1_tl_45'>
+				</zone>
+			</zone>
+			<zone ulx='1775' uly='177' lrx='2141' lry='3032' rendition='TextRegion' xml:id='facs_11_r_115'>
+				<zone ulx='1765' uly='1855' lrx='2026' lry='1905' rendition='Line' xml:id='facs_11_l'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_12'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0012_p012.jpg'>
+			<graphic url='0012_p012.jpg' width='2479px' height='3508px'/>
+			<zone ulx='167' uly='1720' lrx='486' lry='2249' rendition='TextRegion' xml:id='facs_12_tr_1'>
+				<zone ulx='155' uly='1671' lrx='473' lry='1788' rendition='Line' xml:id='facs_12_tr_1_tl_1'>
+				</zone>
+				<zone ulx='155' uly='1768' lrx='464' lry='1871' rendition='Line' xml:id='facs_12_tr_1_tl_2'>
+				</zone>
+				<zone ulx='164' uly='2144' lrx='480' lry='2278' rendition='Line' xml:id='facs_12_tr_1_tl_3'>
+				</zone>
+			</zone>
+			<zone ulx='495' uly='174' lrx='2343' lry='2978' rendition='TextRegion' xml:id='facs_12_tr_2'>
+				<zone ulx='1020' uly='106' lrx='1728' lry='240' rendition='Line' xml:id='facs_12_tr_2_tl_1'>
+				</zone>
+				<zone ulx='482' uly='238' lrx='2319' lry='369' rendition='Line' xml:id='facs_12_tr_2_tl_2'>
+				</zone>
+				<zone ulx='491' uly='309' lrx='2308' lry='432' rendition='Line' xml:id='facs_12_tr_2_tl_3'>
+				</zone>
+				<zone ulx='480' uly='355' lrx='2312' lry='508' rendition='Line' xml:id='facs_12_tr_2_tl_4'>
+				</zone>
+				<zone ulx='482' uly='429' lrx='2317' lry='556' rendition='Line' xml:id='facs_12_tr_2_tl_5'>
+				</zone>
+				<zone ulx='485' uly='503' lrx='2310' lry='616' rendition='Line' xml:id='facs_12_tr_2_tl_6'>
+				</zone>
+				<zone ulx='487' uly='547' lrx='2319' lry='671' rendition='Line' xml:id='facs_12_tr_2_tl_7'>
+				</zone>
+				<zone ulx='491' uly='625' lrx='2312' lry='741' rendition='Line' xml:id='facs_12_tr_2_tl_8'>
+				</zone>
+				<zone ulx='487' uly='667' lrx='2312' lry='812' rendition='Line' xml:id='facs_12_tr_2_tl_9'>
+				</zone>
+				<zone ulx='480' uly='741' lrx='2310' lry='868' rendition='Line' xml:id='facs_12_tr_2_tl_10'>
+				</zone>
+				<zone ulx='489' uly='808' lrx='2310' lry='935' rendition='Line' xml:id='facs_12_tr_2_tl_11'>
+				</zone>
+				<zone ulx='480' uly='856' lrx='2317' lry='990' rendition='Line' xml:id='facs_12_tr_2_tl_12'>
+				</zone>
+				<zone ulx='485' uly='921' lrx='2312' lry='1036' rendition='Line' xml:id='facs_12_tr_2_tl_13'>
+				</zone>
+				<zone ulx='489' uly='985' lrx='2314' lry='1119' rendition='Line' xml:id='facs_12_tr_2_tl_14'>
+				</zone>
+				<zone ulx='491' uly='1048' lrx='2310' lry='1179' rendition='Line' xml:id='facs_12_tr_2_tl_15'>
+				</zone>
+				<zone ulx='489' uly='1115' lrx='2319' lry='1244' rendition='Line' xml:id='facs_12_tr_2_tl_16'>
+				</zone>
+				<zone ulx='480' uly='1193' lrx='2319' lry='1306' rendition='Line' xml:id='facs_12_tr_2_tl_17'>
+				</zone>
+				<zone ulx='482' uly='1258' lrx='2317' lry='1348' rendition='Line' xml:id='facs_12_tr_2_tl_18'>
+				</zone>
+				<zone ulx='494' uly='1322' lrx='2319' lry='1421' rendition='Line' xml:id='facs_12_tr_2_tl_19'>
+				</zone>
+				<zone ulx='498' uly='1378' lrx='2317' lry='1486' rendition='Line' xml:id='facs_12_tr_2_tl_20'>
+				</zone>
+				<zone ulx='494' uly='1431' lrx='2328' lry='1546' rendition='Line' xml:id='facs_12_tr_2_tl_21'>
+				</zone>
+				<zone ulx='491' uly='1521' lrx='2324' lry='1599' rendition='Line' xml:id='facs_12_tr_2_tl_22'>
+				</zone>
+				<zone ulx='494' uly='1569' lrx='2321' lry='1657' rendition='Line' xml:id='facs_12_tr_2_tl_23'>
+				</zone>
+				<zone ulx='498' uly='1636' lrx='2319' lry='1733' rendition='Line' xml:id='facs_12_tr_2_tl_24'>
+				</zone>
+				<zone ulx='498' uly='1710' lrx='2319' lry='1798' rendition='Line' xml:id='facs_12_tr_2_tl_25'>
+				</zone>
+				<zone ulx='487' uly='1791' lrx='2326' lry='1874' rendition='Line' xml:id='facs_12_tr_2_tl_26'>
+				</zone>
+				<zone ulx='501' uly='1825' lrx='2321' lry='1911' rendition='Line' xml:id='facs_12_tr_2_tl_27'>
+				</zone>
+				<zone ulx='498' uly='1897' lrx='2321' lry='1984' rendition='Line' xml:id='facs_12_tr_2_tl_28'>
+				</zone>
+				<zone ulx='503' uly='1968' lrx='2324' lry='2051' rendition='Line' xml:id='facs_12_tr_2_tl_29'>
+				</zone>
+				<zone ulx='498' uly='2031' lrx='2326' lry='2102' rendition='Line' xml:id='facs_12_tr_2_tl_30'>
+				</zone>
+				<zone ulx='498' uly='2091' lrx='2321' lry='2164' rendition='Line' xml:id='facs_12_tr_2_tl_31'>
+				</zone>
+				<zone ulx='515' uly='2155' lrx='2326' lry='2252' rendition='Line' xml:id='facs_12_tr_2_tl_32'>
+				</zone>
+				<zone ulx='494' uly='2218' lrx='2321' lry='2312' rendition='Line' xml:id='facs_12_tr_2_tl_33'>
+				</zone>
+				<zone ulx='505' uly='2282' lrx='2328' lry='2388' rendition='Line' xml:id='facs_12_tr_2_tl_34'>
+				</zone>
+				<zone ulx='505' uly='2337' lrx='2337' lry='2427' rendition='Line' xml:id='facs_12_tr_2_tl_35'>
+				</zone>
+				<zone ulx='494' uly='2407' lrx='2337' lry='2494' rendition='Line' xml:id='facs_12_tr_2_tl_36'>
+				</zone>
+				<zone ulx='498' uly='2474' lrx='2328' lry='2584' rendition='Line' xml:id='facs_12_tr_2_tl_37'>
+				</zone>
+				<zone ulx='496' uly='2534' lrx='2331' lry='2658' rendition='Line' xml:id='facs_12_tr_2_tl_38'>
+				</zone>
+				<zone ulx='494' uly='2603' lrx='2333' lry='2707' rendition='Line' xml:id='facs_12_tr_2_tl_39'>
+				</zone>
+				<zone ulx='489' uly='2663' lrx='2335' lry='2760' rendition='Line' xml:id='facs_12_tr_2_tl_40'>
+				</zone>
+				<zone ulx='491' uly='2725' lrx='2328' lry='2834' rendition='Line' xml:id='facs_12_tr_2_tl_41'>
+				</zone>
+				<zone ulx='482' uly='2799' lrx='2328' lry='2907' rendition='Line' xml:id='facs_12_tr_2_tl_42'>
+				</zone>
+				<zone ulx='482' uly='2859' lrx='2337' lry='3041' rendition='Line' xml:id='facs_12_tr_2_tl_43'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_13'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0013_p013.jpg'>
+			<graphic url='0013_p013.jpg' width='2479px' height='3508px'/>
+			<zone ulx='71' uly='207' lrx='1791' lry='2981' rendition='TextRegion' xml:id='facs_13_tr_1'>
+				<zone ulx='693' uly='162' lrx='1286' lry='299' rendition='Line' xml:id='facs_13_tr_1_tl_1'>
+				</zone>
+				<zone ulx='98' uly='279' lrx='1785' lry='380' rendition='Line' xml:id='facs_13_tr_1_tl_2'>
+				</zone>
+				<zone ulx='83' uly='339' lrx='1787' lry='439' rendition='Line' xml:id='facs_13_tr_1_tl_3'>
+				</zone>
+				<zone ulx='87' uly='401' lrx='1785' lry='522' rendition='Line' xml:id='facs_13_tr_1_tl_4'>
+				</zone>
+				<zone ulx='90' uly='456' lrx='1785' lry='580' rendition='Line' xml:id='facs_13_tr_1_tl_5'>
+				</zone>
+				<zone ulx='94' uly='520' lrx='1783' lry='646' rendition='Line' xml:id='facs_13_tr_1_tl_6'>
+				</zone>
+				<zone ulx='94' uly='584' lrx='1781' lry='708' rendition='Line' xml:id='facs_13_tr_1_tl_7'>
+				</zone>
+				<zone ulx='94' uly='644' lrx='1779' lry='768' rendition='Line' xml:id='facs_13_tr_1_tl_8'>
+				</zone>
+				<zone ulx='83' uly='702' lrx='1779' lry='830' rendition='Line' xml:id='facs_13_tr_1_tl_9'>
+				</zone>
+				<zone ulx='87' uly='763' lrx='1774' lry='896' rendition='Line' xml:id='facs_13_tr_1_tl_10'>
+				</zone>
+				<zone ulx='83' uly='830' lrx='1768' lry='945' rendition='Line' xml:id='facs_13_tr_1_tl_11'>
+				</zone>
+				<zone ulx='81' uly='889' lrx='1770' lry='1021' rendition='Line' xml:id='facs_13_tr_1_tl_12'>
+				</zone>
+				<zone ulx='98' uly='951' lrx='1774' lry='1066' rendition='Line' xml:id='facs_13_tr_1_tl_13'>
+				</zone>
+				<zone ulx='81' uly='1013' lrx='1774' lry='1141' rendition='Line' xml:id='facs_13_tr_1_tl_14'>
+				</zone>
+				<zone ulx='81' uly='1073' lrx='1768' lry='1205' rendition='Line' xml:id='facs_13_tr_1_tl_15'>
+				</zone>
+				<zone ulx='81' uly='1134' lrx='1770' lry='1260' rendition='Line' xml:id='facs_13_tr_1_tl_16'>
+				</zone>
+				<zone ulx='83' uly='1203' lrx='1772' lry='1333' rendition='Line' xml:id='facs_13_tr_1_tl_17'>
+				</zone>
+				<zone ulx='83' uly='1258' lrx='1761' lry='1382' rendition='Line' xml:id='facs_13_tr_1_tl_18'>
+				</zone>
+				<zone ulx='83' uly='1324' lrx='1761' lry='1448' rendition='Line' xml:id='facs_13_tr_1_tl_19'>
+				</zone>
+				<zone ulx='81' uly='1380' lrx='1768' lry='1516' rendition='Line' xml:id='facs_13_tr_1_tl_20'>
+				</zone>
+				<zone ulx='81' uly='1444' lrx='1766' lry='1576' rendition='Line' xml:id='facs_13_tr_1_tl_21'>
+				</zone>
+				<zone ulx='81' uly='1510' lrx='1768' lry='1642' rendition='Line' xml:id='facs_13_tr_1_tl_22'>
+				</zone>
+				<zone ulx='75' uly='1580' lrx='1403' lry='1687' rendition='Line' xml:id='facs_13_tr_1_tl_23'>
+				</zone>
+				<zone ulx='79' uly='1665' lrx='1764' lry='1828' rendition='Line' xml:id='facs_13_tr_1_tl_24'>
+				</zone>
+				<zone ulx='175' uly='1772' lrx='1768' lry='1881' rendition='Line' xml:id='facs_13_tr_1_tl_25'>
+				</zone>
+				<zone ulx='171' uly='1828' lrx='1770' lry='1934' rendition='Line' xml:id='facs_13_tr_1_tl_26'>
+				</zone>
+				<zone ulx='183' uly='1900' lrx='1764' lry='2005' rendition='Line' xml:id='facs_13_tr_1_tl_27'>
+				</zone>
+				<zone ulx='173' uly='1949' lrx='1770' lry='2058' rendition='Line' xml:id='facs_13_tr_1_tl_28'>
+				</zone>
+				<zone ulx='177' uly='2015' lrx='1416' lry='2109' rendition='Line' xml:id='facs_13_tr_1_tl_29'>
+				</zone>
+				<zone ulx='612' uly='2083' lrx='815' lry='2164' rendition='Line' xml:id='facs_13_tr_1_tl_30'>
+				</zone>
+				<zone ulx='252' uly='2128' lrx='1766' lry='2254' rendition='Line' xml:id='facs_13_tr_1_tl_31'>
+				</zone>
+				<zone ulx='247' uly='2209' lrx='1768' lry='2301' rendition='Line' xml:id='facs_13_tr_1_tl_32'>
+				</zone>
+				<zone ulx='252' uly='2267' lrx='1768' lry='2367' rendition='Line' xml:id='facs_13_tr_1_tl_33'>
+				</zone>
+				<zone ulx='66' uly='2327' lrx='1772' lry='2429' rendition='Line' xml:id='facs_13_tr_1_tl_34'>
+				</zone>
+				<zone ulx='73' uly='2391' lrx='1772' lry='2495' rendition='Line' xml:id='facs_13_tr_1_tl_35'>
+				</zone>
+				<zone ulx='75' uly='2452' lrx='1776' lry='2546' rendition='Line' xml:id='facs_13_tr_1_tl_36'>
+				</zone>
+				<zone ulx='70' uly='2514' lrx='1768' lry='2614' rendition='Line' xml:id='facs_13_tr_1_tl_37'>
+				</zone>
+				<zone ulx='70' uly='2582' lrx='1768' lry='2670' rendition='Line' xml:id='facs_13_tr_1_tl_38'>
+				</zone>
+				<zone ulx='70' uly='2636' lrx='1772' lry='2734' rendition='Line' xml:id='facs_13_tr_1_tl_39'>
+				</zone>
+				<zone ulx='70' uly='2698' lrx='1770' lry='2800' rendition='Line' xml:id='facs_13_tr_1_tl_40'>
+				</zone>
+				<zone ulx='64' uly='2749' lrx='1776' lry='2866' rendition='Line' xml:id='facs_13_tr_1_tl_41'>
+				</zone>
+				<zone ulx='58' uly='2811' lrx='1770' lry='2943' rendition='Line' xml:id='facs_13_tr_1_tl_42'>
+				</zone>
+				<zone ulx='1395' uly='2909' lrx='1565' lry='3000' rendition='Line' xml:id='facs_13_tr_1_tl_43'>
+				</zone>
+			</zone>
+			<zone ulx='1803' uly='1345' lrx='2063' lry='1473' rendition='TextRegion' xml:id='facs_13_tr_2'>
+				<zone ulx='1802' uly='1299' lrx='2007' lry='1414' rendition='Line' xml:id='facs_13_tr_2_tl_1'>
+				</zone>
+				<zone ulx='1789' uly='1393' lrx='2060' lry='1484' rendition='Line' xml:id='facs_13_tr_2_tl_2'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_14'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0014_p014.jpg'>
+			<graphic url='0014_p014.jpg' width='2479px' height='3508px'/>
+			<zone ulx='417' uly='531' lrx='659' lry='1416' rendition='TextRegion' xml:id='facs_14_tr_1'>
+				<zone ulx='417' uly='494' lrx='654' lry='592' rendition='Line' xml:id='facs_14_tr_1_tl_1'>
+				</zone>
+				<zone ulx='415' uly='578' lrx='588' lry='680' rendition='Line' xml:id='facs_14_tr_1_tl_2'>
+				</zone>
+				<zone ulx='411' uly='982' lrx='643' lry='1121' rendition='Line' xml:id='facs_14_tr_1_tl_3'>
+				</zone>
+				<zone ulx='404' uly='1330' lrx='639' lry='1444' rendition='Line' xml:id='facs_14_tr_1_tl_4'>
+				</zone>
+			</zone>
+			<zone ulx='656' uly='171' lrx='2310' lry='3002' rendition='TextRegion' xml:id='facs_14_tr_2'>
+				<zone ulx='1181' uly='98' lrx='1877' lry='249' rendition='Line' xml:id='facs_14_tr_2_tl_1'>
+				</zone>
+				<zone ulx='696' uly='235' lrx='2306' lry='417' rendition='Line' xml:id='facs_14_tr_2_tl_2'>
+				</zone>
+				<zone ulx='696' uly='302' lrx='2300' lry='480' rendition='Line' xml:id='facs_14_tr_2_tl_3'>
+				</zone>
+				<zone ulx='696' uly='374' lrx='2288' lry='539' rendition='Line' xml:id='facs_14_tr_2_tl_4'>
+				</zone>
+				<zone ulx='690' uly='443' lrx='2294' lry='603' rendition='Line' xml:id='facs_14_tr_2_tl_5'>
+				</zone>
+				<zone ulx='690' uly='509' lrx='2298' lry='668' rendition='Line' xml:id='facs_14_tr_2_tl_6'>
+				</zone>
+				<zone ulx='694' uly='578' lrx='2300' lry='729' rendition='Line' xml:id='facs_14_tr_2_tl_7'>
+				</zone>
+				<zone ulx='701' uly='633' lrx='2304' lry='792' rendition='Line' xml:id='facs_14_tr_2_tl_8'>
+				</zone>
+				<zone ulx='690' uly='701' lrx='2298' lry='866' rendition='Line' xml:id='facs_14_tr_2_tl_9'>
+				</zone>
+				<zone ulx='701' uly='772' lrx='2296' lry='919' rendition='Line' xml:id='facs_14_tr_2_tl_10'>
+				</zone>
+				<zone ulx='707' uly='846' lrx='2306' lry='978' rendition='Line' xml:id='facs_14_tr_2_tl_11'>
+				</zone>
+				<zone ulx='696' uly='901' lrx='2294' lry='1042' rendition='Line' xml:id='facs_14_tr_2_tl_12'>
+				</zone>
+				<zone ulx='690' uly='960' lrx='2298' lry='1103' rendition='Line' xml:id='facs_14_tr_2_tl_13'>
+				</zone>
+				<zone ulx='701' uly='1031' lrx='2298' lry='1168' rendition='Line' xml:id='facs_14_tr_2_tl_14'>
+				</zone>
+				<zone ulx='696' uly='1095' lrx='2300' lry='1226' rendition='Line' xml:id='facs_14_tr_2_tl_15'>
+				</zone>
+				<zone ulx='696' uly='1160' lrx='2300' lry='1293' rendition='Line' xml:id='facs_14_tr_2_tl_16'>
+				</zone>
+				<zone ulx='690' uly='1221' lrx='2298' lry='1350' rendition='Line' xml:id='facs_14_tr_2_tl_17'>
+				</zone>
+				<zone ulx='684' uly='1270' lrx='2294' lry='1417' rendition='Line' xml:id='facs_14_tr_2_tl_18'>
+				</zone>
+				<zone ulx='684' uly='1340' lrx='2292' lry='1471' rendition='Line' xml:id='facs_14_tr_2_tl_19'>
+				</zone>
+				<zone ulx='690' uly='1409' lrx='2302' lry='1538' rendition='Line' xml:id='facs_14_tr_2_tl_20'>
+				</zone>
+				<zone ulx='690' uly='1469' lrx='2296' lry='1603' rendition='Line' xml:id='facs_14_tr_2_tl_21'>
+				</zone>
+				<zone ulx='692' uly='1554' lrx='2302' lry='1659' rendition='Line' xml:id='facs_14_tr_2_tl_22'>
+				</zone>
+				<zone ulx='678' uly='1599' lrx='2294' lry='1720' rendition='Line' xml:id='facs_14_tr_2_tl_23'>
+				</zone>
+				<zone ulx='690' uly='1663' lrx='2288' lry='1779' rendition='Line' xml:id='facs_14_tr_2_tl_24'>
+				</zone>
+				<zone ulx='688' uly='1724' lrx='2290' lry='1855' rendition='Line' xml:id='facs_14_tr_2_tl_25'>
+				</zone>
+				<zone ulx='682' uly='1787' lrx='2288' lry='1908' rendition='Line' xml:id='facs_14_tr_2_tl_26'>
+				</zone>
+				<zone ulx='682' uly='1859' lrx='2294' lry='1977' rendition='Line' xml:id='facs_14_tr_2_tl_27'>
+				</zone>
+				<zone ulx='678' uly='1932' lrx='2284' lry='2026' rendition='Line' xml:id='facs_14_tr_2_tl_28'>
+				</zone>
+				<zone ulx='672' uly='1989' lrx='2284' lry='2094' rendition='Line' xml:id='facs_14_tr_2_tl_29'>
+				</zone>
+				<zone ulx='680' uly='2059' lrx='2294' lry='2159' rendition='Line' xml:id='facs_14_tr_2_tl_30'>
+				</zone>
+				<zone ulx='672' uly='2124' lrx='2286' lry='2237' rendition='Line' xml:id='facs_14_tr_2_tl_31'>
+				</zone>
+				<zone ulx='672' uly='2183' lrx='2290' lry='2298' rendition='Line' xml:id='facs_14_tr_2_tl_32'>
+				</zone>
+				<zone ulx='660' uly='2239' lrx='2290' lry='2359' rendition='Line' xml:id='facs_14_tr_2_tl_33'>
+				</zone>
+				<zone ulx='666' uly='2322' lrx='2292' lry='2429' rendition='Line' xml:id='facs_14_tr_2_tl_34'>
+				</zone>
+				<zone ulx='660' uly='2382' lrx='2290' lry='2482' rendition='Line' xml:id='facs_14_tr_2_tl_35'>
+				</zone>
+				<zone ulx='656' uly='2453' lrx='2290' lry='2559' rendition='Line' xml:id='facs_14_tr_2_tl_36'>
+				</zone>
+				<zone ulx='666' uly='2506' lrx='2292' lry='2610' rendition='Line' xml:id='facs_14_tr_2_tl_37'>
+				</zone>
+				<zone ulx='656' uly='2600' lrx='2294' lry='2680' rendition='Line' xml:id='facs_14_tr_2_tl_38'>
+				</zone>
+				<zone ulx='660' uly='2643' lrx='2292' lry='2729' rendition='Line' xml:id='facs_14_tr_2_tl_39'>
+				</zone>
+				<zone ulx='652' uly='2729' lrx='2292' lry='2817' rendition='Line' xml:id='facs_14_tr_2_tl_40'>
+				</zone>
+				<zone ulx='645' uly='2784' lrx='2281' lry='2880' rendition='Line' xml:id='facs_14_tr_2_tl_41'>
+				</zone>
+				<zone ulx='647' uly='2839' lrx='2281' lry='2949' rendition='Line' xml:id='facs_14_tr_2_tl_42'>
+				</zone>
+				<zone ulx='645' uly='2902' lrx='2281' lry='3035' rendition='Line' xml:id='facs_14_tr_2_tl_43'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_15'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0015_p015.jpg'>
+			<graphic url='0015_p015.jpg' width='2479px' height='3508px'/>
+			<zone ulx='59' uly='134' lrx='1800' lry='3048' rendition='TextRegion' xml:id='facs_15_tr_1'>
+				<zone ulx='672' uly='70' lrx='1269' lry='213' rendition='Line' xml:id='facs_15_tr_1_tl_1'>
+				</zone>
+				<zone ulx='1672' uly='133' lrx='1782' lry='220' rendition='Line' xml:id='facs_15_tr_1_tl_2'>
+				</zone>
+				<zone ulx='89' uly='176' lrx='1785' lry='333' rendition='Line' xml:id='facs_15_tr_1_tl_3'>
+				</zone>
+				<zone ulx='89' uly='259' lrx='1789' lry='391' rendition='Line' xml:id='facs_15_tr_1_tl_4'>
+				</zone>
+				<zone ulx='87' uly='324' lrx='1780' lry='456' rendition='Line' xml:id='facs_15_tr_1_tl_5'>
+				</zone>
+				<zone ulx='91' uly='393' lrx='1774' lry='528' rendition='Line' xml:id='facs_15_tr_1_tl_6'>
+				</zone>
+				<zone ulx='91' uly='452' lrx='1780' lry='591' rendition='Line' xml:id='facs_15_tr_1_tl_7'>
+				</zone>
+				<zone ulx='91' uly='522' lrx='1780' lry='652' rendition='Line' xml:id='facs_15_tr_1_tl_8'>
+				</zone>
+				<zone ulx='83' uly='585' lrx='1780' lry='698' rendition='Line' xml:id='facs_15_tr_1_tl_9'>
+				</zone>
+				<zone ulx='89' uly='654' lrx='1782' lry='765' rendition='Line' xml:id='facs_15_tr_1_tl_10'>
+				</zone>
+				<zone ulx='83' uly='711' lrx='1767' lry='828' rendition='Line' xml:id='facs_15_tr_1_tl_11'>
+				</zone>
+				<zone ulx='83' uly='778' lrx='1772' lry='902' rendition='Line' xml:id='facs_15_tr_1_tl_12'>
+				</zone>
+				<zone ulx='87' uly='843' lrx='1772' lry='956' rendition='Line' xml:id='facs_15_tr_1_tl_13'>
+				</zone>
+				<zone ulx='78' uly='909' lrx='1765' lry='1028' rendition='Line' xml:id='facs_15_tr_1_tl_14'>
+				</zone>
+				<zone ulx='74' uly='974' lrx='1772' lry='1087' rendition='Line' xml:id='facs_15_tr_1_tl_15'>
+				</zone>
+				<zone ulx='80' uly='1046' lrx='1776' lry='1152' rendition='Line' xml:id='facs_15_tr_1_tl_16'>
+				</zone>
+				<zone ulx='76' uly='1104' lrx='1765' lry='1215' rendition='Line' xml:id='facs_15_tr_1_tl_17'>
+				</zone>
+				<zone ulx='74' uly='1167' lrx='1774' lry='1289' rendition='Line' xml:id='facs_15_tr_1_tl_18'>
+				</zone>
+				<zone ulx='76' uly='1235' lrx='1767' lry='1348' rendition='Line' xml:id='facs_15_tr_1_tl_19'>
+				</zone>
+				<zone ulx='74' uly='1300' lrx='1772' lry='1413' rendition='Line' xml:id='facs_15_tr_1_tl_20'>
+				</zone>
+				<zone ulx='87' uly='1367' lrx='1769' lry='1474' rendition='Line' xml:id='facs_15_tr_1_tl_21'>
+				</zone>
+				<zone ulx='72' uly='1452' lrx='1767' lry='1539' rendition='Line' xml:id='facs_15_tr_1_tl_22'>
+				</zone>
+				<zone ulx='72' uly='1500' lrx='1767' lry='1609' rendition='Line' xml:id='facs_15_tr_1_tl_23'>
+				</zone>
+				<zone ulx='74' uly='1580' lrx='1772' lry='1656' rendition='Line' xml:id='facs_15_tr_1_tl_24'>
+				</zone>
+				<zone ulx='70' uly='1632' lrx='1776' lry='1737' rendition='Line' xml:id='facs_15_tr_1_tl_25'>
+				</zone>
+				<zone ulx='76' uly='1709' lrx='1767' lry='1787' rendition='Line' xml:id='facs_15_tr_1_tl_26'>
+				</zone>
+				<zone ulx='72' uly='1782' lrx='1776' lry='1861' rendition='Line' xml:id='facs_15_tr_1_tl_27'>
+				</zone>
+				<zone ulx='65' uly='1843' lrx='1776' lry='1917' rendition='Line' xml:id='facs_15_tr_1_tl_28'>
+				</zone>
+				<zone ulx='67' uly='1915' lrx='1776' lry='1978' rendition='Line' xml:id='facs_15_tr_1_tl_29'>
+				</zone>
+				<zone ulx='63' uly='1972' lrx='1774' lry='2043' rendition='Line' xml:id='facs_15_tr_1_tl_30'>
+				</zone>
+				<zone ulx='65' uly='2035' lrx='1776' lry='2124' rendition='Line' xml:id='facs_15_tr_1_tl_31'>
+				</zone>
+				<zone ulx='63' uly='2106' lrx='1774' lry='2187' rendition='Line' xml:id='facs_15_tr_1_tl_32'>
+				</zone>
+				<zone ulx='63' uly='2163' lrx='1778' lry='2243' rendition='Line' xml:id='facs_15_tr_1_tl_33'>
+				</zone>
+				<zone ulx='63' uly='2232' lrx='1782' lry='2304' rendition='Line' xml:id='facs_15_tr_1_tl_34'>
+				</zone>
+				<zone ulx='63' uly='2298' lrx='1785' lry='2372' rendition='Line' xml:id='facs_15_tr_1_tl_35'>
+				</zone>
+				<zone ulx='57' uly='2363' lrx='1776' lry='2472' rendition='Line' xml:id='facs_15_tr_1_tl_36'>
+				</zone>
+				<zone ulx='59' uly='2428' lrx='1780' lry='2528' rendition='Line' xml:id='facs_15_tr_1_tl_37'>
+				</zone>
+				<zone ulx='59' uly='2493' lrx='1785' lry='2604' rendition='Line' xml:id='facs_15_tr_1_tl_38'>
+				</zone>
+				<zone ulx='57' uly='2561' lrx='1789' lry='2676' rendition='Line' xml:id='facs_15_tr_1_tl_39'>
+				</zone>
+				<zone ulx='54' uly='2624' lrx='1785' lry='2745' rendition='Line' xml:id='facs_15_tr_1_tl_40'>
+				</zone>
+				<zone ulx='48' uly='2695' lrx='1789' lry='2808' rendition='Line' xml:id='facs_15_tr_1_tl_41'>
+				</zone>
+				<zone ulx='46' uly='2758' lrx='1789' lry='2876' rendition='Line' xml:id='facs_15_tr_1_tl_42'>
+				</zone>
+				<zone ulx='50' uly='2822' lrx='1800' lry='2956' rendition='Line' xml:id='facs_15_tr_1_tl_43'>
+				</zone>
+				<zone ulx='50' uly='2898' lrx='1796' lry='3032' rendition='Line' xml:id='facs_15_tr_1_tl_44'>
+				</zone>
+				<zone ulx='1339' uly='2965' lrx='1528' lry='3085' rendition='Line' xml:id='facs_15_tr_1_tl_45'>
+				</zone>
+			</zone>
+			<zone ulx='1800' uly='706' lrx='2074' lry='1575' rendition='TextRegion' xml:id='facs_15_tr_2'>
+				<zone ulx='1789' uly='730' lrx='2072' lry='854' rendition='Line' xml:id='facs_15_tr_2_tl_1'>
+				</zone>
+				<zone ulx='1787' uly='1428' lrx='2043' lry='1552' rendition='Line' xml:id='facs_15_tr_2_tl_2'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_16'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0016_p016.jpg'>
+			<graphic url='0016_p016.jpg' width='2479px' height='3508px'/>
+			<zone ulx='462' uly='1810' lrx='689' lry='1972' rendition='TextRegion' xml:id='facs_16_tr_1'>
+				<zone ulx='450' uly='1851' lrx='687' lry='1964' rendition='Line' xml:id='facs_16_tr_1_tl_1'>
+				</zone>
+			</zone>
+			<zone ulx='710' uly='196' lrx='2274' lry='2821' rendition='TextRegion' xml:id='facs_16_tr_2'>
+				<zone ulx='1116' uly='171' lrx='1760' lry='273' rendition='Line' xml:id='facs_16_tr_2_tl_1'>
+				</zone>
+				<zone ulx='739' uly='256' lrx='2264' lry='467' rendition='Line' xml:id='facs_16_tr_2_tl_2'>
+				</zone>
+				<zone ulx='743' uly='327' lrx='2268' lry='537' rendition='Line' xml:id='facs_16_tr_2_tl_3'>
+				</zone>
+				<zone ulx='739' uly='391' lrx='2266' lry='593' rendition='Line' xml:id='facs_16_tr_2_tl_4'>
+				</zone>
+				<zone ulx='739' uly='473' lrx='2264' lry='654' rendition='Line' xml:id='facs_16_tr_2_tl_5'>
+				</zone>
+				<zone ulx='737' uly='535' lrx='2262' lry='719' rendition='Line' xml:id='facs_16_tr_2_tl_6'>
+				</zone>
+				<zone ulx='739' uly='594' lrx='2266' lry='783' rendition='Line' xml:id='facs_16_tr_2_tl_7'>
+				</zone>
+				<zone ulx='748' uly='671' lrx='2257' lry='839' rendition='Line' xml:id='facs_16_tr_2_tl_8'>
+				</zone>
+				<zone ulx='739' uly='735' lrx='2270' lry='920' rendition='Line' xml:id='facs_16_tr_2_tl_9'>
+				</zone>
+				<zone ulx='731' uly='773' lrx='2257' lry='966' rendition='Line' xml:id='facs_16_tr_2_tl_10'>
+				</zone>
+				<zone ulx='743' uly='860' lrx='2270' lry='1027' rendition='Line' xml:id='facs_16_tr_2_tl_11'>
+				</zone>
+				<zone ulx='743' uly='912' lrx='2264' lry='1097' rendition='Line' xml:id='facs_16_tr_2_tl_12'>
+				</zone>
+				<zone ulx='737' uly='993' lrx='2266' lry='1150' rendition='Line' xml:id='facs_16_tr_2_tl_13'>
+				</zone>
+				<zone ulx='739' uly='1060' lrx='2260' lry='1220' rendition='Line' xml:id='facs_16_tr_2_tl_14'>
+				</zone>
+				<zone ulx='731' uly='1102' lrx='2258' lry='1275' rendition='Line' xml:id='facs_16_tr_2_tl_15'>
+				</zone>
+				<zone ulx='741' uly='1172' lrx='2270' lry='1341' rendition='Line' xml:id='facs_16_tr_2_tl_16'>
+				</zone>
+				<zone ulx='741' uly='1262' lrx='2258' lry='1400' rendition='Line' xml:id='facs_16_tr_2_tl_17'>
+				</zone>
+				<zone ulx='737' uly='1318' lrx='2255' lry='1468' rendition='Line' xml:id='facs_16_tr_2_tl_18'>
+				</zone>
+				<zone ulx='733' uly='1383' lrx='2258' lry='1527' rendition='Line' xml:id='facs_16_tr_2_tl_19'>
+				</zone>
+				<zone ulx='737' uly='1418' lrx='2255' lry='1585' rendition='Line' xml:id='facs_16_tr_2_tl_20'>
+				</zone>
+				<zone ulx='731' uly='1477' lrx='2262' lry='1649' rendition='Line' xml:id='facs_16_tr_2_tl_21'>
+				</zone>
+				<zone ulx='731' uly='1545' lrx='2255' lry='1710' rendition='Line' xml:id='facs_16_tr_2_tl_22'>
+				</zone>
+				<zone ulx='725' uly='1622' lrx='2251' lry='1776' rendition='Line' xml:id='facs_16_tr_2_tl_23'>
+				</zone>
+				<zone ulx='733' uly='1697' lrx='2260' lry='1833' rendition='Line' xml:id='facs_16_tr_2_tl_24'>
+				</zone>
+				<zone ulx='721' uly='1751' lrx='2251' lry='1897' rendition='Line' xml:id='facs_16_tr_2_tl_25'>
+				</zone>
+				<zone ulx='727' uly='1814' lrx='1651' lry='1924' rendition='Line' xml:id='facs_16_tr_2_tl_26'>
+				</zone>
+				<zone ulx='725' uly='1889' lrx='2253' lry='2022' rendition='Line' xml:id='facs_16_tr_2_tl_28'>
+				</zone>
+				<zone ulx='721' uly='1941' lrx='2255' lry='2078' rendition='Line' xml:id='facs_16_tr_2_tl_29'>
+				</zone>
+				<zone ulx='716' uly='2014' lrx='2255' lry='2149' rendition='Line' xml:id='facs_16_tr_2_tl_30'>
+				</zone>
+				<zone ulx='716' uly='2070' lrx='2253' lry='2208' rendition='Line' xml:id='facs_16_tr_2_tl_31'>
+				</zone>
+				<zone ulx='725' uly='2145' lrx='2249' lry='2276' rendition='Line' xml:id='facs_16_tr_2_tl_32'>
+				</zone>
+				<zone ulx='716' uly='2195' lrx='2255' lry='2345' rendition='Line' xml:id='facs_16_tr_2_tl_33'>
+				</zone>
+				<zone ulx='704' uly='2274' lrx='2247' lry='2410' rendition='Line' xml:id='facs_16_tr_2_tl_34'>
+				</zone>
+				<zone ulx='704' uly='2330' lrx='2251' lry='2457' rendition='Line' xml:id='facs_16_tr_2_tl_35'>
+				</zone>
+				<zone ulx='712' uly='2393' lrx='2239' lry='2541' rendition='Line' xml:id='facs_16_tr_2_tl_36'>
+				</zone>
+				<zone ulx='708' uly='2451' lrx='2241' lry='2578' rendition='Line' xml:id='facs_16_tr_2_tl_37'>
+				</zone>
+				<zone ulx='706' uly='2520' lrx='2249' lry='2649' rendition='Line' xml:id='facs_16_tr_2_tl_38'>
+				</zone>
+				<zone ulx='698' uly='2580' lrx='2243' lry='2724' rendition='Line' xml:id='facs_16_tr_2_tl_39'>
+				</zone>
+				<zone ulx='698' uly='2659' lrx='2237' lry='2822' rendition='Line' xml:id='facs_16_tr_2_tl_40'>
+				</zone>
+				<zone ulx='700' uly='2720' lrx='1414' lry='2859' rendition='Line' xml:id='facs_16_tr_2_tl_41'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_17'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0017_p017.jpg'>
+			<graphic url='0017_p017.jpg' width='2479px' height='3508px'/>
+			<zone ulx='191' uly='133' lrx='1783' lry='2991' rendition='TextRegion' xml:id='facs_17_tr_1'>
+				<zone ulx='757' uly='102' lrx='1291' lry='202' rendition='Line' xml:id='facs_17_tr_1_tl_1'>
+				</zone>
+				<zone ulx='1603' uly='95' lrx='1696' lry='216' rendition='Line' xml:id='facs_17_tr_1_tl_2'>
+				</zone>
+				<zone ulx='221' uly='159' lrx='1749' lry='314' rendition='Line' xml:id='facs_17_tr_1_tl_3'>
+				</zone>
+				<zone ulx='289' uly='266' lrx='1746' lry='391' rendition='Line' xml:id='facs_17_tr_1_tl_4'>
+				</zone>
+				<zone ulx='277' uly='334' lrx='1739' lry='443' rendition='Line' xml:id='facs_17_tr_1_tl_5'>
+				</zone>
+				<zone ulx='282' uly='418' lrx='1744' lry='496' rendition='Line' xml:id='facs_17_tr_1_tl_6'>
+				</zone>
+				<zone ulx='275' uly='471' lrx='1739' lry='587' rendition='Line' xml:id='facs_17_tr_1_tl_7'>
+				</zone>
+				<zone ulx='282' uly='518' lrx='928' lry='600' rendition='Line' xml:id='facs_17_tr_1_tl_8'>
+				</zone>
+				<zone ulx='350' uly='593' lrx='1739' lry='705' rendition='Line' xml:id='facs_17_tr_1_tl_11'>
+				</zone>
+				<zone ulx='261' uly='641' lrx='1735' lry='755' rendition='Line' xml:id='facs_17_tr_1_tl_12'>
+				</zone>
+				<zone ulx='343' uly='714' lrx='1735' lry='832' rendition='Line' xml:id='facs_17_tr_1_tl_13'>
+				</zone>
+				<zone ulx='214' uly='775' lrx='1742' lry='898' rendition='Line' xml:id='facs_17_tr_1_tl_14'>
+				</zone>
+				<zone ulx='205' uly='830' lrx='1742' lry='953' rendition='Line' xml:id='facs_17_tr_1_tl_15'>
+				</zone>
+				<zone ulx='205' uly='898' lrx='1746' lry='1023' rendition='Line' xml:id='facs_17_tr_1_tl_16'>
+				</zone>
+				<zone ulx='214' uly='955' lrx='1744' lry='1080' rendition='Line' xml:id='facs_17_tr_1_tl_17'>
+				</zone>
+				<zone ulx='209' uly='1014' lrx='1751' lry='1148' rendition='Line' xml:id='facs_17_tr_1_tl_18'>
+				</zone>
+				<zone ulx='205' uly='1103' lrx='1749' lry='1210' rendition='Line' xml:id='facs_17_tr_1_tl_19'>
+				</zone>
+				<zone ulx='205' uly='1155' lrx='1744' lry='1291' rendition='Line' xml:id='facs_17_tr_1_tl_20'>
+				</zone>
+				<zone ulx='200' uly='1223' lrx='1737' lry='1346' rendition='Line' xml:id='facs_17_tr_1_tl_21'>
+				</zone>
+				<zone ulx='200' uly='1298' lrx='1739' lry='1407' rendition='Line' xml:id='facs_17_tr_1_tl_22'>
+				</zone>
+				<zone ulx='202' uly='1355' lrx='1742' lry='1467' rendition='Line' xml:id='facs_17_tr_1_tl_24'>
+				</zone>
+				<zone ulx='196' uly='1419' lrx='1746' lry='1528' rendition='Line' xml:id='facs_17_tr_1_tl_25'>
+				</zone>
+				<zone ulx='205' uly='1469' lrx='1742' lry='1594' rendition='Line' xml:id='facs_17_tr_1_tl_26'>
+				</zone>
+				<zone ulx='196' uly='1548' lrx='1967' lry='1678' rendition='Line' xml:id='facs_17_tr_1_tl_27'>
+				</zone>
+				<zone ulx='200' uly='1592' lrx='1753' lry='1730' rendition='Line' xml:id='facs_17_tr_1_tl_28'>
+				</zone>
+				<zone ulx='200' uly='1669' lrx='1753' lry='1801' rendition='Line' xml:id='facs_17_tr_1_tl_29'>
+				</zone>
+				<zone ulx='200' uly='1746' lrx='1758' lry='1862' rendition='Line' xml:id='facs_17_tr_1_tl_30'>
+				</zone>
+				<zone ulx='193' uly='1789' lrx='1753' lry='1942' rendition='Line' xml:id='facs_17_tr_1_tl_31'>
+				</zone>
+				<zone ulx='191' uly='1851' lrx='1753' lry='1996' rendition='Line' xml:id='facs_17_tr_1_tl_32'>
+				</zone>
+				<zone ulx='189' uly='1912' lrx='2012' lry='2051' rendition='Line' xml:id='facs_17_tr_1_tl_33'>
+				</zone>
+				<zone ulx='193' uly='1983' lrx='1755' lry='2121' rendition='Line' xml:id='facs_17_tr_1_tl_34'>
+				</zone>
+				<zone ulx='191' uly='2069' lrx='1758' lry='2181' rendition='Line' xml:id='facs_17_tr_1_tl_35'>
+				</zone>
+				<zone ulx='189' uly='2126' lrx='2015' lry='2271' rendition='Line' xml:id='facs_17_tr_1_tl_36'>
+				</zone>
+				<zone ulx='189' uly='2190' lrx='1776' lry='2324' rendition='Line' xml:id='facs_17_tr_1_tl_37'>
+				</zone>
+				<zone ulx='205' uly='2249' lrx='1758' lry='2385' rendition='Line' xml:id='facs_17_tr_1_tl_38'>
+				</zone>
+				<zone ulx='191' uly='2326' lrx='1760' lry='2474' rendition='Line' xml:id='facs_17_tr_1_tl_39'>
+				</zone>
+				<zone ulx='184' uly='2397' lrx='1764' lry='2515' rendition='Line' xml:id='facs_17_tr_1_tl_40'>
+				</zone>
+				<zone ulx='186' uly='2451' lrx='1760' lry='2578' rendition='Line' xml:id='facs_17_tr_1_tl_41'>
+				</zone>
+				<zone ulx='184' uly='2535' lrx='1769' lry='2660' rendition='Line' xml:id='facs_17_tr_1_tl_42'>
+				</zone>
+				<zone ulx='191' uly='2574' lrx='1762' lry='2731' rendition='Line' xml:id='facs_17_tr_1_tl_43'>
+				</zone>
+				<zone ulx='184' uly='2665' lrx='1774' lry='2781' rendition='Line' xml:id='facs_17_tr_1_tl_44'>
+				</zone>
+				<zone ulx='180' uly='2722' lrx='1767' lry='2865' rendition='Line' xml:id='facs_17_tr_1_tl_45'>
+				</zone>
+				<zone ulx='180' uly='2779' lrx='1769' lry='2935' rendition='Line' xml:id='facs_17_tr_1_tl_46'>
+				</zone>
+				<zone ulx='180' uly='2840' lrx='1767' lry='3040' rendition='Line' xml:id='facs_17_tr_1_tl_47'>
+				</zone>
+			</zone>
+			<zone ulx='1781' uly='1322' lrx='2079' lry='2342' rendition='TextRegion' xml:id='facs_17_r'>
+				<zone ulx='1758' uly='1319' lrx='1951' lry='1423' rendition='Line' xml:id='facs_17_tr_1_tl_23'>
+				</zone>
+				<zone ulx='1788' uly='1650' lrx='1960' lry='1686' rendition='Line' xml:id='facs_17_l'>
+				</zone>
+				<zone ulx='1783' uly='2043' lrx='2017' lry='2076' rendition='Line' xml:id='facs_17_l_406'>
+				</zone>
+				<zone ulx='1789' uly='2253' lrx='2014' lry='2286' rendition='Line' xml:id='facs_17_l_413'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_18'>
+		<surface ulx='0' uly='0' lrx='2479' lry='3508' corresp='0018_p018.jpg'>
+			<graphic url='0018_p018.jpg' width='2479px' height='3508px'/>
+			<zone ulx='382' uly='2697' lrx='623' lry='2856' rendition='TextRegion' xml:id='facs_18_tr_1'>
+				<zone ulx='370' uly='2731' lrx='619' lry='2852' rendition='Line' xml:id='facs_18_tr_1_tl_1'>
+				</zone>
+			</zone>
+			<zone ulx='638' uly='206' lrx='2248' lry='3020' rendition='TextRegion' xml:id='facs_18_tr_2'>
+				<zone ulx='1184' uly='154' lrx='1826' lry='275' rendition='Line' xml:id='facs_18_tr_2_tl_1'>
+				</zone>
+				<zone ulx='658' uly='245' lrx='2239' lry='429' rendition='Line' xml:id='facs_18_tr_2_tl_2'>
+				</zone>
+				<zone ulx='656' uly='342' lrx='2241' lry='490' rendition='Line' xml:id='facs_18_tr_2_tl_3'>
+				</zone>
+				<zone ulx='658' uly='417' lrx='2239' lry='545' rendition='Line' xml:id='facs_18_tr_2_tl_4'>
+				</zone>
+				<zone ulx='666' uly='486' lrx='2243' lry='619' rendition='Line' xml:id='facs_18_tr_2_tl_5'>
+				</zone>
+				<zone ulx='658' uly='543' lrx='2243' lry='676' rendition='Line' xml:id='facs_18_tr_2_tl_6'>
+				</zone>
+				<zone ulx='664' uly='615' lrx='2239' lry='737' rendition='Line' xml:id='facs_18_tr_2_tl_7'>
+				</zone>
+				<zone ulx='666' uly='690' lrx='2233' lry='794' rendition='Line' xml:id='facs_18_tr_2_tl_8'>
+				</zone>
+				<zone ulx='660' uly='759' lrx='2239' lry='856' rendition='Line' xml:id='facs_18_tr_2_tl_9'>
+				</zone>
+				<zone ulx='658' uly='812' lrx='2239' lry='927' rendition='Line' xml:id='facs_18_tr_2_tl_10'>
+				</zone>
+				<zone ulx='658' uly='879' lrx='2231' lry='990' rendition='Line' xml:id='facs_18_tr_2_tl_11'>
+				</zone>
+				<zone ulx='650' uly='945' lrx='2233' lry='1059' rendition='Line' xml:id='facs_18_tr_2_tl_12'>
+				</zone>
+				<zone ulx='650' uly='1010' lrx='2233' lry='1113' rendition='Line' xml:id='facs_18_tr_2_tl_13'>
+				</zone>
+				<zone ulx='660' uly='1075' lrx='2231' lry='1174' rendition='Line' xml:id='facs_18_tr_2_tl_14'>
+				</zone>
+				<zone ulx='664' uly='1136' lrx='2235' lry='1247' rendition='Line' xml:id='facs_18_tr_2_tl_15'>
+				</zone>
+				<zone ulx='650' uly='1206' lrx='2219' lry='1310' rendition='Line' xml:id='facs_18_tr_2_tl_16'>
+				</zone>
+				<zone ulx='650' uly='1279' lrx='2225' lry='1372' rendition='Line' xml:id='facs_18_tr_2_tl_17'>
+				</zone>
+				<zone ulx='648' uly='1336' lrx='2219' lry='1443' rendition='Line' xml:id='facs_18_tr_2_tl_18'>
+				</zone>
+				<zone ulx='650' uly='1405' lrx='2213' lry='1494' rendition='Line' xml:id='facs_18_tr_2_tl_19'>
+				</zone>
+				<zone ulx='642' uly='1468' lrx='2213' lry='1567' rendition='Line' xml:id='facs_18_tr_2_tl_20'>
+				</zone>
+				<zone ulx='646' uly='1530' lrx='2213' lry='1619' rendition='Line' xml:id='facs_18_tr_2_tl_21'>
+				</zone>
+				<zone ulx='644' uly='1593' lrx='2219' lry='1682' rendition='Line' xml:id='facs_18_tr_2_tl_22'>
+				</zone>
+				<zone ulx='644' uly='1672' lrx='2217' lry='1753' rendition='Line' xml:id='facs_18_tr_2_tl_23'>
+				</zone>
+				<zone ulx='644' uly='1743' lrx='2211' lry='1826' rendition='Line' xml:id='facs_18_tr_2_tl_24'>
+				</zone>
+				<zone ulx='650' uly='1789' lrx='2215' lry='1873' rendition='Line' xml:id='facs_18_tr_2_tl_25'>
+				</zone>
+				<zone ulx='644' uly='1850' lrx='2209' lry='1933' rendition='Line' xml:id='facs_18_tr_2_tl_26'>
+				</zone>
+				<zone ulx='638' uly='1919' lrx='2213' lry='2008' rendition='Line' xml:id='facs_18_tr_2_tl_27'>
+				</zone>
+				<zone ulx='644' uly='1978' lrx='2215' lry='2071' rendition='Line' xml:id='facs_18_tr_2_tl_28'>
+				</zone>
+				<zone ulx='933' uly='2045' lrx='2205' lry='2124' rendition='Line' xml:id='facs_18_tr_2_tl_29'>
+				</zone>
+				<zone ulx='646' uly='2109' lrx='2207' lry='2196' rendition='Line' xml:id='facs_18_tr_2_tl_31'>
+				</zone>
+				<zone ulx='638' uly='2166' lrx='2205' lry='2255' rendition='Line' xml:id='facs_18_tr_2_tl_32'>
+				</zone>
+				<zone ulx='642' uly='2243' lrx='2209' lry='2336' rendition='Line' xml:id='facs_18_tr_2_tl_33'>
+				</zone>
+				<zone ulx='636' uly='2300' lrx='2202' lry='2399' rendition='Line' xml:id='facs_18_tr_2_tl_34'>
+				</zone>
+				<zone ulx='642' uly='2356' lrx='2192' lry='2449' rendition='Line' xml:id='facs_18_tr_2_tl_35'>
+				</zone>
+				<zone ulx='640' uly='2423' lrx='2204' lry='2524' rendition='Line' xml:id='facs_18_tr_2_tl_36'>
+				</zone>
+				<zone ulx='636' uly='2484' lrx='2204' lry='2571' rendition='Line' xml:id='facs_18_tr_2_tl_37'>
+				</zone>
+				<zone ulx='638' uly='2547' lrx='2205' lry='2636' rendition='Line' xml:id='facs_18_tr_2_tl_38'>
+				</zone>
+				<zone ulx='636' uly='2619' lrx='2200' lry='2704' rendition='Line' xml:id='facs_18_tr_2_tl_39'>
+				</zone>
+				<zone ulx='634' uly='2678' lrx='2198' lry='2767' rendition='Line' xml:id='facs_18_tr_2_tl_40'>
+				</zone>
+				<zone ulx='638' uly='2747' lrx='2198' lry='2850' rendition='Line' xml:id='facs_18_tr_2_tl_41'>
+				</zone>
+				<zone ulx='636' uly='2802' lrx='2196' lry='2901' rendition='Line' xml:id='facs_18_tr_2_tl_42'>
+				</zone>
+				<zone ulx='626' uly='2860' lrx='2198' lry='2954' rendition='Line' xml:id='facs_18_tr_2_tl_43'>
+				</zone>
+				<zone ulx='630' uly='2933' lrx='2192' lry='3055' rendition='Line' xml:id='facs_18_tr_2_tl_44'>
+				</zone>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs='#facs_1' xml:id='0001_p001.jpg' n='1'/>
+				<p facs='#facs_1_tr_1'>
+					<lg>
+						<l facs='#facs_1_tr_1_tl_1'>81</l>
+						<l facs='#facs_1_tr_1_tl_2'>POLYDORI VERGILII VRBINATIS, DE INVEN-</l>
+						<l facs='#facs_1_tr_1_tl_3'>TORIBVS RERVM LIBER QVINTVS.</l>
+						<l facs='#facs_1_tr_1_tl_4'>Unde nostris consuetudo sit festis diebus exornare templa aulaeis va</l>
+						<l facs='#facs_1_tr_1_tl_5'>riisque arborum frondibus, floribusve, ac in illis offerre cereas ima-</l>
+						<l facs='#facs_1_tr_1_tl_6'>gines, &amp; cereos, item accendere lychnos pensiles, quos lampades</l>
+						<l facs='#facs_1_tr_1_tl_7'>vocant, tabellasque ponere, quibus miracula à diuis facta reprae-</l>
+						<l facs='#facs_1_tr_1_tl_8'>sentantur, item exhibere festis diebus conuiuia populis, cum quis</l>
+						<l facs='#facs_1_tr_1_tl_9'>praesertim sacerdos primam celebrat missam.</l>
+						<l facs='#facs_1_tr_1_tl_10'>Caput I.</l>
+						<l facs='#facs_1_tr_1_tl_11'>Superiore volumine quo denique pacto Christiana reli-</l>
+						<l facs='#facs_1_tr_1_tl_12'>gio propagata fuerit inter mortales, &amp; de initio sacerdo</l>
+						<l facs='#facs_1_tr_1_tl_13'>tij apud Hebraeos &amp; Romanos, ac nouissime apud nos,</l>
+						<l facs='#facs_1_tr_1_tl_14'>&amp; illud in quot officiorum gradus abiuerit, abunde edo</l>
+						<l facs='#facs_1_tr_1_tl_15'>cuimus. Nunc autem peregrinos ritus ab ethnicis acce-</l>
+						<l facs='#facs_1_tr_1_tl_16'>ntos atque reliqua persequemur, quae nostri iam suscepti sunt mune-</l>
+						<l facs='#facs_1_tr_1_tl_17'>ris. Cum igitur multa ab Hebraeis &amp; non pauca ab Romanis caeterisque</l>
+						<l facs='#facs_1_tr_1_tl_18'>ethnicis ad nos instituta manauerint, poscit locus, vt obiter ea perin-</l>
+						<l facs='#facs_1_tr_1_tl_19'>de memoremus, quae ab his acceperimus, atque minime conuenit si-</l>
+						<l facs='#facs_1_tr_1_tl_20'>lentio praeterire, quae ab illis simus mutuati, cum praesertim illa ipsa</l>
+						<l facs='#facs_1_tr_1_tl_21'>meliora fecerimus, meliorive vsui adhibuerimus. Sunt itaque multi ri</l>
+						<l facs='#facs_1_tr_1_tl_22'>tus propè germani, ex quibus, &amp; hic est. Porrò apud nos, festis diebus</l>
+						<l facs='#facs_1_tr_1_tl_23'>templa &amp; domus nuptiales aulaeis exornantur, lauro, hedera aliisque</l>
+						<l facs='#facs_1_tr_1_tl_24'>festis frondibus vestiuntur fores, ac vestibula coronantur, spargunturque</l>
+						<l facs='#facs_1_tr_1_tl_25'>floribus. Quae hercle omnia ipsi gentiles antea seruabant, dicete Ver-</l>
+						<l facs='#facs_1_tr_1_tl_26'>gilio: Nos delubra deûm miseri quibus vltimus esset Ille dies, festa ve-</l>
+						<l facs='#facs_1_tr_1_tl_27'>lamus fronde per vrbem. Et alibi: Et varijs florentia limina sertis. Item</l>
+						<l facs='#facs_1_tr_1_tl_28'>Iuuenalis testatur: Postibus &amp; densos per limina necte corymbos. Lau</l>
+						<l facs='#facs_1_tr_1_tl_29'>ros quoque adhiberi solitas causa gaudiorum, &amp; festiuitatis, indicat cum</l>
+						<l facs='#facs_1_tr_1_tl_30'>ait, Pone domi lauros, dux in capitolia magnum Certatumque bouem.</l>
+						<l facs='#facs_1_tr_1_tl_31'>Tradit idem Tertullianus. Quid quod Martinus primus Romanus</l>
+						<l facs='#facs_1_tr_1_tl_32'>pontifex haec eadem quae in canonicis decretis Cau. XXVI. q. VII. scri-</l>
+						<l facs='#facs_1_tr_1_tl_33'>pta leges, &amp; testatur, &amp; vetat, inquiens, Non licet iniquas obseruatio-</l>
+						<l facs='#facs_1_tr_1_tl_34'>nes agere calendarum, &amp; otijs vacare, neque lauro aut viriditate arborum</l>
+						<l facs='#facs_1_tr_1_tl_35'>cingere domos. Omnis enim haec obseruatio Paganorum est. Con-</l>
+						<l facs='#facs_1_tr_1_tl_37'>similiter ritus offerendi cereas imagines, ab ipsis gentilibus est profe-</l>
+						<l facs='#facs_1_tr_1_tl_38'>ctus. Cum enim Pelasgi, teste Dionysio Halic. quem etiam alibi super</l>
+						<l facs='#facs_1_tr_1_tl_39'>hac recitauimus, sedibus pulsi. Dodonam peruenissent, ibi accepto respon-</l>
+						<l facs='#facs_1_tr_1_tl_40'>so, quo admoniti sunt, vt Siculorum continentem terram quaererent:</l>
+						<l facs='#facs_1_tr_1_tl_41'>In Latium demum post multos errores, venientes in lacu Cantuliensi</l>
+						<l facs='#facs_1_tr_1_tl_42'>enatam deprehenderunt insulam. Hoc igitur quasi omine suscepto, has</l>
+						<l facs='#facs_1_tr_1_tl_43'>sibi praedictas esse sedes didicerunt, pulsisque inde Siciliensibus inco-</l>
+						<l facs='#facs_1_tr_1_tl_44'>lis, regionem ipsi tenuerunt, decima praedae secundum responsum, Apol-</l>
+					</lg>
+				</p>
+				<pb facs='#facs_2' xml:id='0002_p002.jpg' n='2'/>
+				<p facs='#facs_2_tr_1'>
+					<lg>
+						<l facs='#facs_2_tr_1_tl_1'>Oscilla</l>
+					</lg>
+				</p>
+				<p facs='#facs_2_tr_2'>
+					<lg>
+						<l facs='#facs_2_tr_2_tl_1'>DE INVENT. RERVM</l>
+						<l facs='#facs_2_tr_2_tl_2'>lini consecrata, erectisque Diti sacello, &amp; Saturno ara, illum humanis</l>
+						<l facs='#facs_2_tr_2_tl_3'>capitibus, hunc virorum victimis placare se existimabant, propter au-</l>
+						<l facs='#facs_2_tr_2_tl_4'>culum in quo erat, Et capita inferno, &amp; patri transmittite lumen Sa-</l>
+						<l facs='#facs_2_tr_2_tl_5'>turni festum (vt quidam volunt) Saturnalia nominantes. Posthaec, fe-</l>
+						<l facs='#facs_2_tr_2_tl_6'>runt, Herculem cum Geryonis pecore, per Italiam redeuntem, suasis-</l>
+						<l facs='#facs_2_tr_2_tl_7'>se illorum posteris, vt faustis sacrificijs, infausta mutarent, offerentes</l>
+						<l facs='#facs_2_tr_2_tl_8'>Diti non hominum capita, sed oscilla ad humanam effigiem formata</l>
+						<l facs='#facs_2_tr_2_tl_9'>quasi parua ora, vt pars pro toto foret, &amp; Saturni aras no mactatis vi-</l>
+						<l facs='#facs_2_tr_2_tl_10'>ris, sed accensis cereis excolentes, quia φῶτα non solum virum, sed etiam</l>
+						<l facs='#facs_2_tr_2_tl_11'>lumen significat. Inde ergo inualuit consuetudo, vt Saturnalibus, &amp;</l>
+						<l facs='#facs_2_tr_2_tl_12'>cerei missitarentur, &amp; sigilla, id est, oscilla, arte fictili fingerentur, ac ve-</l>
+						<l facs='#facs_2_tr_2_tl_13'>nalia exponerentur, quae homines pro se, ac suis piaculis Diti &amp; Satur-</l>
+						<l facs='#facs_2_tr_2_tl_14'>no sacrificarent. Haec quodam modo nostra vaticinabantur sacra. Nam</l>
+						<l facs='#facs_2_tr_2_tl_15'>sic &amp; nos eadem ex cera sigillaria, hoc est, imagunculas templis offeri-</l>
+						<l facs='#facs_2_tr_2_tl_16'>mus, &amp; oscilla. Quoties enim pars aliqua corporis laesa fuerit, vtputa</l>
+						<l facs='#facs_2_tr_2_tl_17'>manus, pes, mamilla, statim vouemus deo, &amp; eius sanctis, quibus mox</l>
+						<l facs='#facs_2_tr_2_tl_18'>recuperata sanitate, illam manum, illum pedem, illam mamillam ex</l>
+						<l facs='#facs_2_tr_2_tl_19'>cera formatam offerimus. Quae consuetudo sic tenuit hactenus, vt</l>
+						<l facs='#facs_2_tr_2_tl_20'>istiusmodi sigillaria ab hominibus, ad reliqua animalia transierint.</l>
+						<l facs='#facs_2_tr_2_tl_21'>Porrò sic pro boue, sic pro equo, sic pro oue, oscilla templis ponimus.</l>
+						<l facs='#facs_2_tr_2_tl_22'>In qua re quispiam verecunde scrupulosus fortassis dicet se planè ne-</l>
+						<l facs='#facs_2_tr_2_tl_23'>scire, an nos Priscorum religionem potius vel superstitionem aemule-</l>
+						<l facs='#facs_2_tr_2_tl_24'>mur. Hinc etiam consentaneum est fluxisse, quod nos quoque cereos</l>
+						<l facs='#facs_2_tr_2_tl_25'>offerimus, illisque accensis Coelicolas colimus, sicuti ad Saturni aras</l>
+						<l facs='#facs_2_tr_2_tl_26'>est factitatum. Quod praesertim in festo purificationis virginis obser-</l>
+						<l facs='#facs_2_tr_2_tl_27'>uatur, vt quasi ipsi cerei sint, apud nos loco agni anniculi, columba-</l>
+						<l facs='#facs_2_tr_2_tl_28'>rum, &amp; turturum. Quae munera Moses constituit, à puerperis lustri-</l>
+						<l facs='#facs_2_tr_2_tl_29'>co die ad templum deferri. At vsus pensilium lychnorum, siue (vt</l>
+						<l facs='#facs_2_tr_2_tl_31'>Seruio placet) lychnorum, hoc est lampadum, quas vocant, à lucernis ve-</l>
+						<l facs='#facs_2_tr_2_tl_32'>nisse videtur, quas Moses in tabernaculo accensas seruari instituerat.</l>
+						<l facs='#facs_2_tr_2_tl_33'>Quod verò tabellas in templis affigimus, quibus miracula inscri-</l>
+						<l facs='#facs_2_tr_2_tl_34'>pta sunt, vt ea ad posteros testatiora sint, hoc ex Graecis est, apud</l>
+						<l facs='#facs_2_tr_2_tl_35'>quos teste Strabone libro Geog. VIII mos fuit, in templo eius dei qui</l>
+						<l facs='#facs_2_tr_2_tl_36'>auxiliatus esset, &amp; praesertim AEsculapij, quod in ciuitate Epidauro,</l>
+						<l facs='#facs_2_tr_2_tl_37'>insigne extabat, tabellas appendere, in quibus morbi sanati erant inscri</l>
+						<l facs='#facs_2_tr_2_tl_38'>pti. Sic à Romanis mutuo sumptum est, vt &amp; sacerdotes, &amp; laici,</l>
+						<l facs='#facs_2_tr_2_tl_39'>diebus festis conuiuia non ternis aut senis ferculis, sed vicenis (si fieri</l>
+						<l facs='#facs_2_tr_2_tl_40'>possit) suis praebeant amicis. Quin etiam iam ita vsu venit, vt non censea-</l>
+						<l facs='#facs_2_tr_2_tl_41'>tur esse celebritas, nisi sit opiparo comitata conuiuio. Est &amp; illud ab</l>
+						<l facs='#facs_2_tr_2_tl_42'>eisdem Ethnicis, quòd sacerdotes nostri cum primam celebrant missam,</l>
+						<l facs='#facs_2_tr_2_tl_43'>sacerdotes &amp; amicos conuiuio accipiunt, eundemque diem non minus</l>
+						<l facs='#facs_2_tr_2_tl_44'>religiose quàm natalem colunt, ceu bene auspicantes sacerdotalem in-</l>
+					</lg>
+				</p>
+				<pb facs='#facs_3' xml:id='0003_p003.jpg' n='3'/>
+				<p facs='#facs_3_tr_1'>
+					<lg>
+						<l facs='#facs_3_tr_1_tl_1'>LIBER QVINTVS.</l>
+						<l facs='#facs_3_tr_1_tl_2'>82</l>
+						<l facs='#facs_3_tr_1_tl_3'>troitum. Et id quidem non immerito, quoniam ex illo vita tantum, ex</l>
+						<l facs='#facs_3_tr_1_tl_4'>hoc verò, vita sancta producitur. Ita apud Gentiles, idem dies quo quis</l>
+						<l facs='#facs_3_tr_1_tl_5'>sacris initiabatur, natalis sacrorum appellabatur, religiosoque ientacu</l>
+						<l facs='#facs_3_tr_1_tl_6'>lo celebrabatur. Vtrumque Apuleius lib. Asini XI testificatur inquiens:</l>
+						<l facs='#facs_3_tr_1_tl_7'>Ex hinc hinc festissimum celebraui natalem sacrorum, &amp; suaues epulae, &amp;</l>
+						<l facs='#facs_3_tr_1_tl_8'>faceta conuiuia, dies etiam tertius pari ceremoniarum ritu celebratus,</l>
+						<l facs='#facs_3_tr_1_tl_9'>&amp; ientaculum religiosum.</l>
+						<l facs='#facs_3_tr_1_tl_10'>Unde apud nostros, moris sit, spargere pecuniam in populum, dare epu</l>
+						<l facs='#facs_3_tr_1_tl_11'>lum, dare calendis lanuarijs strenam, ducere per vicos choreas,</l>
+						<l facs='#facs_3_tr_1_tl_12'>cantorumque choros, aedere spectacula, exire calend. Maij in agros,</l>
+						<l facs='#facs_3_tr_1_tl_13'>inde reportare ramos arborum virides, &amp; eos ante fores ponere,</l>
+						<l facs='#facs_3_tr_1_tl_14'>currere cal. Martijs per agros, cum faculis accensis, &amp; per domini-</l>
+						<l facs='#facs_3_tr_1_tl_15'>ca natalitia, seruum quempiam facere dominum, ac ante initium qua</l>
+						<l facs='#facs_3_tr_1_tl_16'>dragesimae induere personas, &amp; sic personatos homines agere scur</l>
+						<l facs='#facs_3_tr_1_tl_17'>ras, &amp; lymphaticis similes passim lasciuire, atque sese fartim ad vo</l>
+						<l facs='#facs_3_tr_1_tl_18'>mitum saturare.</l>
+						<l facs='#facs_3_tr_1_tl_19'>Caput II.</l>
+						<l facs='#facs_3_tr_1_tl_20'>Praeterea, quae proxime retulimus, ex eodem ethnicorum luxu-</l>
+						<l facs='#facs_3_tr_1_tl_21'>riae fonte manauit, vt cum coronantur summus pontifex, Im</l>
+						<l facs='#facs_3_tr_1_tl_22'>perator, &amp; Rex aliive principes aliquo insigni honestantur ho</l>
+						<l facs='#facs_3_tr_1_tl_23'>nore, moris sit, spargere in populum non vestes, non vnguenta, id quod</l>
+						<l facs='#facs_3_tr_1_tl_24'>Romani Imperatores factitasse in superiori capite ostendimus, sed num-</l>
+						<l facs='#facs_3_tr_1_tl_25'>mos argenteos, vel aureos, quo sic futurae liberalitatis signum ab inita sta</l>
+						<l facs='#facs_3_tr_1_tl_26'>tim dignitate, appareat. Solent simul epulum, hoc est, publicum conuiuium</l>
+						<l facs='#facs_3_tr_1_tl_27'>ciuibus &amp; praesertim in nuptijs, exhibere. Quod veteres praecipue Ro</l>
+						<l facs='#facs_3_tr_1_tl_28'>mani siue in triumphis, siue in ludis, siue in funere ad sepulchrum, pro hae</l>
+						<l facs='#facs_3_tr_1_tl_29'>reditatum facultatibus facere consueuerant. Iuue. Vnde epulum possis centum</l>
+						<l facs='#facs_3_tr_1_tl_30'>dare Pythagoreis. &amp; Tranquillus idem passim attestatur. Est haud</l>
+						<l facs='#facs_3_tr_1_tl_32'>dubio procul &amp; ab eisdem vsus dandi strenam, id est, munus, quod in prin-</l>
+						<l facs='#facs_3_tr_1_tl_33'>cipio anni boni ominis gratia datur. Quando idem Tranquil. refert equi-</l>
+						<l facs='#facs_3_tr_1_tl_34'>tes Romanos solitos fuisse quotannis strenam Augusto Caesari in Capi-</l>
+						<l facs='#facs_3_tr_1_tl_35'>tolio etiam absenti cal. Ianuarijs conferre, quod hodie etiamnum apud nos</l>
+						<l facs='#facs_3_tr_1_tl_36'>vbique seruatur, diuerso tamen modo. Itali enim summates viri dant infi-</l>
+						<l facs='#facs_3_tr_1_tl_37'>matibus. In Anglia verò inferiores deferunt strenam superioribus, &amp; Re</l>
+						<l facs='#facs_3_tr_1_tl_38'>gi cuncti proceres, qui tamen dantibus aliquid contra redonant, quo liberali</l>
+						<l facs='#facs_3_tr_1_tl_39'>tas, ceu boni ominis nuntia mutuo communicetur. Imitamur &amp; naui</l>
+						<l facs='#facs_3_tr_1_tl_40'>ter ipsos priscos in psallendo, saltandove. Quippe illi in statiuis ferijs fa-</l>
+						<l facs='#facs_3_tr_1_tl_41'>ctitabant, testificante Vergilio, ac dicente: Pars pedibus plaudunt choreas,</l>
+						<l facs='#facs_3_tr_1_tl_42'>&amp; carmina dicunt. Idem: Immemores nostri festas duxere choreas. Sed</l>
+						<l facs='#facs_3_tr_1_tl_43'>&amp; haec omnia Zacharias Pontifex simul testatur, simul prohibet in-</l>
+						<l facs='#facs_3_tr_1_tl_44'>quiens: Si quis calen. Ianuarij ritu paganorum, colere, vel aliquid plus no</l>
+						<l facs='#facs_3_tr_1_tl_45'>ui facere propter nouum annum, aut menses, cum lampadibus, vel epulas</l>
+					</lg>
+				</p>
+				<pb facs='#facs_4' xml:id='0004_p004.jpg' n='4'/>
+				<p facs='#facs_4_tr_1'>
+					<lg>
+						<l facs='#facs_4_tr_1_tl_1'>DE INVENT. RERVM</l>
+						<l facs='#facs_4_tr_1_tl_2'>in domibus praeparare, &amp; per vicos &amp; plateas, cantatores &amp; choreas</l>
+						<l facs='#facs_4_tr_1_tl_3'>ducere praesumpserit, anathema sit. Scriptum leges hoc placito in de-</l>
+						<l facs='#facs_4_tr_1_tl_4'>cretis cano. Cau. quam supra in consimilem rem adduximus. Verum</l>
+						<l facs='#facs_4_tr_1_tl_5'>quàm belle seruetur, ex eo licet existimare, quòd nunc nulla alia de cau</l>
+						<l facs='#facs_4_tr_1_tl_6'>sa sit gratior festus dies iuuentuti, quàm vt otium sit ad choreas ducen-</l>
+						<l facs='#facs_4_tr_1_tl_7'>das. Et id cum primis apud Italos. Solemus insuper more Genti-</l>
+						<l facs='#facs_4_tr_1_tl_9'>lium spectacula aedere populo, vtputa ludos, venationes, palaestras cur-</l>
+						<l facs='#facs_4_tr_1_tl_10'>sus hastarum, equorumque, ad metam è carceribus, recitare comoedias.</l>
+						<l facs='#facs_4_tr_1_tl_11'>Item in templis vitas diuorum ac martyria repraesentare, in quibus ut</l>
+						<l facs='#facs_4_tr_1_tl_12'>cunctis par sit voluptas, qui recitant, vernaculum linguae idioma tan-</l>
+						<l facs='#facs_4_tr_1_tl_13'>tum vsurpant. Sic olim apud Romanos in primis, in theatris poetarum</l>
+						<l facs='#facs_4_tr_1_tl_14'>recitabantur poemata. In amphitheatris bestiarum, gladiatorumve lu-</l>
+						<l facs='#facs_4_tr_1_tl_15'>dicra fiebant, variique per vibem ludi celebrabantur, quibus plebe</l>
+						<l facs='#facs_4_tr_1_tl_16'>oblectaretur. Est item consuetudinis, vt iuuentus promiscui sexus</l>
+						<l facs='#facs_4_tr_1_tl_17'>laetabunda cal. Maij exeat in agros, &amp; cantillans inde virides reportet</l>
+						<l facs='#facs_4_tr_1_tl_18'>arborum ramos, eosque ante domorum fores ponat, &amp; denique vnus-</l>
+						<l facs='#facs_4_tr_1_tl_19'>quisque eo die aliquid viridis ramusculi vel herbae ferat: quod non fe-</l>
+						<l facs='#facs_4_tr_1_tl_20'>cisse poena est, praesertim apud Italos, vt madefiat. Haec vel à Roma-</l>
+						<l facs='#facs_4_tr_1_tl_21'>nis mutuo sumpta videntur, apud quos, sic Flora cunctorum fructuum</l>
+						<l facs='#facs_4_tr_1_tl_22'>dea mense Maio, lasciue colebatur, sicut supra diximus. vel ab Athe-</l>
+						<l facs='#facs_4_tr_1_tl_23'>niensibus sunt, quod illi infamè, templo Delphico, ἐιρεσϊὼνημ, id est,</l>
+						<l facs='#facs_4_tr_1_tl_24'>iresionem ponebant, hoc est, ramum oliuae siue lauri plenum varijs fru-</l>
+						<l facs='#facs_4_tr_1_tl_25'>ctibus. Autor Herodotus. Sic nos tunc eo anni tempore viridante om</l>
+						<l facs='#facs_4_tr_1_tl_26'>nia, quasi per hunc modum, fructuum vbertatem ominamur, ac bene</l>
+						<l facs='#facs_4_tr_1_tl_27'>precamur. Item in Vmbria praesertim insigni regione Italiae, vnde</l>
+						<l facs='#facs_4_tr_1_tl_28'>nos oriundi sumus, consuetudo est, vt quotannis ea nocte quae primum</l>
+						<l facs='#facs_4_tr_1_tl_29'>diem mensis Martij praecedit, crebros passim faciant ignes, &amp; pueri fa</l>
+						<l facs='#facs_4_tr_1_tl_30'>cibus, quae ex arundinibus iam aridis plurimum fiunt, accensis, per ar</l>
+						<l facs='#facs_4_tr_1_tl_31'>ua currant, ceu precantes fructuum vbertatem, tum terra iam foetum</l>
+						<l facs='#facs_4_tr_1_tl_32'>parturiente. Quod acceptum dixerim ab ipsis quoque Romanis, qui</l>
+						<l facs='#facs_4_tr_1_tl_33'>quasi per manus talia nobis sacra seu celebritates vel obseruationes</l>
+						<l facs='#facs_4_tr_1_tl_34'>tradiderunt. Illi enim (vt antea ostendimus) Ceralia festa, Cereri sacia</l>
+						<l facs='#facs_4_tr_1_tl_35'>colentes cum facibus noctu currebant, quòd Ceres ipsa gerendis fru-</l>
+						<l facs='#facs_4_tr_1_tl_36'>ctibus (prout Ciceroni placet, &amp; nos alibi docuimus) quasi Geres no-</l>
+						<l facs='#facs_4_tr_1_tl_37'>minata sit. Et est illud ab ijsdem ad posteros profectum, quòd nunc</l>
+						<l facs='#facs_4_tr_1_tl_38'>per dominica natalitia, nostri serui, id est ministri libertatem in domi</l>
+						<l facs='#facs_4_tr_1_tl_39'>nos retinent, atque vnus eorum dominus creatur, cui cuncti familia-</l>
+						<l facs='#facs_4_tr_1_tl_40'>res simul lasciuientes pareant, vna cum ipsis dominis, hoc est patribus-</l>
+						<l facs='#facs_4_tr_1_tl_41'>familias. Siquidem hanc libertatem serui apud Romanos vti in Iusti-</l>
+						<l facs='#facs_4_tr_1_tl_42'>ni Epithomate extat) Saturnalibus habebant. Institutum hoc apud An</l>
+						<l facs='#facs_4_tr_1_tl_43'>glos praecipue custoditur. Sed aliud fuit olim apud gentes seruoru</l>
+						<l facs='#facs_4_tr_1_tl_44'>nomen, quod bellorum leges attulerant, vbi capti essent. Nos autem</l>
+					</lg>
+				</p>
+				<pb facs='#facs_5' xml:id='0005_p005.jpg' n='5'/>
+				<p facs='#facs_5_tr_1'>
+					<lg>
+						<l facs='#facs_5_tr_1_tl_1'>LIBER QVINTVS.</l>
+						<l facs='#facs_5_tr_1_tl_2'>83</l>
+						<l facs='#facs_5_tr_1_tl_3'>Nos autem dei benignitate, ac prouidentia liberi ferè omnes ac fratres</l>
+						<l facs='#facs_5_tr_1_tl_4'>in CHRISTO vniusque ciuitatis dei ciues sumus, ac propterea quos</l>
+						<l facs='#facs_5_tr_1_tl_5'>habemus domi ministros, serui appellandi non sunt, nedum habendi, quod</l>
+						<l facs='#facs_5_tr_1_tl_6'>permulti impudenter faciunt. Atque hoc libertatis munus, vni Christianae</l>
+						<l facs='#facs_5_tr_1_tl_7'>religioni duntaxat debemus. Post hunc, alius paris propè lasciviae</l>
+						<l facs='#facs_5_tr_1_tl_9'>ludus ad nos transit. Nam vt illi in Quinquatrijs minoribus &amp; Mega-</l>
+						<l facs='#facs_5_tr_1_tl_10'>lensibus, personati per vrbem, ludendo incedebant, ita nostri morem in-</l>
+						<l facs='#facs_5_tr_1_tl_11'>duendi personas no vno vel altero die, nec sacrorum causa, sed turpi in-</l>
+						<l facs='#facs_5_tr_1_tl_12'>saniendi studio, duos continuos menses ante quadragesimae initium, in-</l>
+						<l facs='#facs_5_tr_1_tl_13'>decoriter seruant, sub quibus inueterata iam lasciuiendi licentia, mi-</l>
+						<l facs='#facs_5_tr_1_tl_14'>lia flagitiorum cotidie perpetrant. Atqui &amp; illud impune faciunt, per-</l>
+						<l facs='#facs_5_tr_1_tl_15'>inde quasi eo modo cuique liceat esse scelerato, nihilve maleficij creda-</l>
+						<l facs='#facs_5_tr_1_tl_16'>tur committi, si vera hominis facies non videatur, perinde ac non patea-</l>
+						<l facs='#facs_5_tr_1_tl_17'>mus etiam deo, quem nemo ambigit, fandi atque nefandi iustum esse</l>
+						<l facs='#facs_5_tr_1_tl_18'>iudice, qui &amp; improbos poena, &amp; probos praemio semper afficiat. Vna</l>
+						<l facs='#facs_5_tr_1_tl_19'>omnium prouinciarum Anglia eiusmodi personatas belluas hactenus</l>
+						<l facs='#facs_5_tr_1_tl_20'>non vidit, nec quidem vult videre, quando apud Anglos, in re hac prae</l>
+						<l facs='#facs_5_tr_1_tl_21'>alis certe sapientiores, deliramentum istud lege vetitum est. Et quia sub</l>
+						<l facs='#facs_5_tr_1_tl_22'>idem tempus, illud ieiunium quadraginta sex dierum nobis anniuer</l>
+						<l facs='#facs_5_tr_1_tl_23'>sarium indicitur, ideo quotannis cuncti vbique gentium in nostro Chri</l>
+						<l facs='#facs_5_tr_1_tl_24'>stiano orbe studiosius solito ganeatis vescuntur cibis, &amp; non parum multi</l>
+						<l facs='#facs_5_tr_1_tl_25'>quibus praecipua ventris cura est, ad vomitum saturantur, quasi exple-</l>
+						<l facs='#facs_5_tr_1_tl_26'>turi futuram esuritionem, cum tamen eorum etiam gulosa postmodum</l>
+						<l facs='#facs_5_tr_1_tl_27'>futura sit abstinentia. Quippe quamuis ab esu panis &amp; carnium tem-</l>
+						<l facs='#facs_5_tr_1_tl_28'>perent, bellarijs se farciunt, &amp; azymum panem pro fermentato deuo-</l>
+						<l facs='#facs_5_tr_1_tl_29'>rantes, de ieiunio gloriantur. Sic peccata vndique consarcinant, ne ad-</l>
+						<l facs='#facs_5_tr_1_tl_30'>uentante Paschate, vacui aut frustra ad suos sacerdotes adeant, à qui-</l>
+						<l facs='#facs_5_tr_1_tl_31'>bus per confessionem maleficiorum onere leuandi sunt. Et haec omnia</l>
+						<l facs='#facs_5_tr_1_tl_32'>ex Romanorum bacchanalibus ad nos fluxisse dixerim.</l>
+						<l facs='#facs_5_tr_1_tl_33'>Vnde fluxerit mos vngendi sacerdotes, &amp; Reges, &amp; de vnctione CHRI</l>
+						<l facs='#facs_5_tr_1_tl_34'>STI, &amp; ex qua materia Chrisma primitus fieret apud Hebraeos,</l>
+						<l facs='#facs_5_tr_1_tl_35'>&amp; vnde natum, quòd baptizati confirmantur, id est, ab episcopis</l>
+						<l facs='#facs_5_tr_1_tl_36'>Chrismate illiniuntur, &amp; morbo periculose laborantes vnguntur,</l>
+						<l facs='#facs_5_tr_1_tl_37'>CAPVT III</l>
+						<l facs='#facs_5_tr_1_tl_39'>Cum Moses tabernaculum aedificaret, fuit illi à deo praeceptum</l>
+						<l facs='#facs_5_tr_1_tl_40'>vt sacrum conficeret vnguentum, quo ipsum opus vnà cum</l>
+						<l facs='#facs_5_tr_1_tl_41'>vasis, ac simul sacerdotes, &amp; reges perungi possent, qui voca-</l>
+						<l facs='#facs_5_tr_1_tl_42'>rentur ad sacerdotium vel regnum. Quo facto, vsus inde obtinuit, vt</l>
+						<l facs='#facs_5_tr_1_tl_43'>quemadmodum olim Romanis imperatoribus indumentum purpu-</l>
+						<l facs='#facs_5_tr_1_tl_44'>rae insigne fuit regiae dignitatis assumptae, sit Hebraeis vnctio sacri vn-</l>
+						<l facs='#facs_5_tr_1_tl_45'>guenti nomen ac potestatem regiam conferret. Autor Lactant. Vnde</l>
+					</lg>
+				</p>
+				<p facs='#facs_5_tr_2'>
+					<lg>
+						<l facs='#facs_5_tr_2_tl_1'>Exod.30.c</l>
+						<l facs='#facs_5_tr_2_tl_2'>37.d</l>
+					</lg>
+				</p>
+				<pb facs='#facs_6' xml:id='0006_p006.jpg' n='6'/>
+				<p facs='#facs_6_tr_1'>
+					<lg>
+						<l facs='#facs_6_tr_1_tl_1'>I.Regum</l>
+						<l facs='#facs_6_tr_1_tl_2'>10.2</l>
+						<l facs='#facs_6_tr_1_tl_3'>I.Petri.2.</l>
+						<l facs='#facs_6_tr_1_tl_4'>ps.44.a</l>
+						<l facs='#facs_6_tr_1_tl_5'>ps.109.</l>
+						<l facs='#facs_6_tr_1_tl_6'>Gen.14.d</l>
+						<l facs='#facs_6_tr_1_tl_7'>fa</l>
+					</lg>
+				</p>
+				<p facs='#facs_6_tr_2'>
+					<lg>
+						<l facs='#facs_6_tr_2_tl_1'>DE INVENT. RERVM</l>
+						<l facs='#facs_6_tr_2_tl_2'>teste Rabano, Aaron, &amp; filij eius primitus à Mose, postea Saul pri-</l>
+						<l facs='#facs_6_tr_2_tl_3'>mus Hebraorum rex à Samuele prophera vncti sunt, dicente Iosepho</l>
+						<l facs='#facs_6_tr_2_tl_4'>lib. Antiq.sexto: Dumque Saul puerum pramisisset, sumens prophe</l>
+						<l facs='#facs_6_tr_2_tl_5'>ta(de Samuele loquitur) vas olei, super iuuenis caput effudit eumque</l>
+						<l facs='#facs_6_tr_2_tl_6'>complexus ait:Esto tu rex constitutus à deo &amp;c. Ita mos inoleuit, vt</l>
+						<l facs='#facs_6_tr_2_tl_7'>hoc deinde modo tam reges quàm sacerdotes consecrarentur, quibus</l>
+						<l facs='#facs_6_tr_2_tl_8'>propterea summa ab omnibus habebatur reuerentia, ceu proximiori-</l>
+						<l facs='#facs_6_tr_2_tl_9'>bus deo, dicente domino Psal. CIIII, Nolite tangere Christos meos,</l>
+						<l facs='#facs_6_tr_2_tl_10'>&amp; in prophetis meis nolite malignari. Vocat Christos perunctos, hoc</l>
+						<l facs='#facs_6_tr_2_tl_11'>est reges, &amp; sacerdotes. Petrus itidem hac de causa ad sacerdotes in-</l>
+						<l facs='#facs_6_tr_2_tl_12'>quit: Vos autem genus electum, regale sacerdotium, gens sancta, po-</l>
+						<l facs='#facs_6_tr_2_tl_13'>pulus qui in lucrum accessit. Docet &amp; Cyprianus huius rei mysterium,</l>
+						<l facs='#facs_6_tr_2_tl_14'>inquiens: Hoc oleo antiquitus sacerdotes sacrabantur, &amp; reges, &amp; ipsi</l>
+						<l facs='#facs_6_tr_2_tl_15'>altarium lapides delibuti. Spiritualem intelligi volebant sacris myste-</l>
+						<l facs='#facs_6_tr_2_tl_16'>rijs inesse pinguedinem. Et sicut oleum fluentibus &amp; humidis quibus-</l>
+						<l facs='#facs_6_tr_2_tl_17'>libet superfertur, ita excellentia sacerdotalis &amp; regiae dignitatis secun-</l>
+						<l facs='#facs_6_tr_2_tl_18'>dum formam Dei &amp; CHRISTI, sub se omnia continens regimen &amp;</l>
+						<l facs='#facs_6_tr_2_tl_19'>munimen tam actiuae quàm contemplatiuae vitae obtinet. &amp; reliqua.</l>
+						<l facs='#facs_6_tr_2_tl_20'>Manauit &amp; ad posteros huiusmodi regum atque sacerdotum conse-</l>
+						<l facs='#facs_6_tr_2_tl_21'>crationis ratio, qui nunc apud nos, similiter sacro perunguntur Chrisma-</l>
+						<l facs='#facs_6_tr_2_tl_22'>te, &amp; si longe alijs ceremonijs, prout ab ecclesia iam statutum est. Sic</l>
+						<l facs='#facs_6_tr_2_tl_23'>Christiani omnes cum baptizantur, sic aedes cum sacrantur, vnà cum</l>
+						<l facs='#facs_6_tr_2_tl_24'>calicibus, Chrismate liniuntur. Quod primitus diuus Syluester papa,</l>
+						<l facs='#facs_6_tr_2_tl_25'>teste Innocentio eius nominis tertio, in epistolis decretalibus fieri prae-</l>
+						<l facs='#facs_6_tr_2_tl_26'>scripsit. Sed iam ad CHRISTI vnctionem veniamus. Solet à studio-</l>
+						<l facs='#facs_6_tr_2_tl_27'>sis quaeri, quonam pacto IESVS fuerit vnctus, &amp; à quo. Quam sane</l>
+						<l facs='#facs_6_tr_2_tl_28'>rem cum Euseb. in historia non minus verè quàm docte explicat, id-</l>
+						<l facs='#facs_6_tr_2_tl_29'>circo placuit eius verba ponere, vt rei plus fidei esset, quae haec sunt:</l>
+						<l facs='#facs_6_tr_2_tl_30'>Qualiter CHRISTVS effectus sit, Dauid testatur dicens: Dilexisti iu</l>
+						<l facs='#facs_6_tr_2_tl_31'>stitiam, &amp; odisti iniquitatem, propterea vnxit te deus deus tuus oleo</l>
+						<l facs='#facs_6_tr_2_tl_32'>laetitiae, praeparticipibus tuis. Sic indicat, quòd vnctus sit deus à deo</l>
+						<l facs='#facs_6_tr_2_tl_33'>non oleo communi, sed oleo laetitiae, nec sicut participes sui, id est illi, qui</l>
+						<l facs='#facs_6_tr_2_tl_34'>in imagine praecesserant, sed prae participibus suis. Per oleum verò laetitia</l>
+						<l facs='#facs_6_tr_2_tl_35'>in sacris literis, mystico sensu spiritus sanctus designatur. Sed de pon-</l>
+						<l facs='#facs_6_tr_2_tl_36'>tificatu eius, idem Dauid alio in loco tale aliquid arcanis designat elo-</l>
+						<l facs='#facs_6_tr_2_tl_37'>quijs, tanquam ex persona patris de filio pronuntiantis. De ventre, in-</l>
+						<l facs='#facs_6_tr_2_tl_38'>quit, ante luciferum, genui te. Iurauit dominus, &amp; non poenitebit eum,</l>
+						<l facs='#facs_6_tr_2_tl_39'>tu es sacerdos in aeternum, secundum ordinem Melchisedec. Hic au-</l>
+						<l facs='#facs_6_tr_2_tl_40'>tem Melchisedec sacerdos fuisse dei summi refertur, sed quia non oleo</l>
+						<l facs='#facs_6_tr_2_tl_41'>communi perunctus, neque ex successione generis susceperit sacerdo-</l>
+						<l facs='#facs_6_tr_2_tl_42'>tium, sicut apud Hebraeos mos erat, ideo secundum ordinem eius, sa-</l>
+						<l facs='#facs_6_tr_2_tl_43'>cerdos futurus dicitur CHRISTVS, qui non olei liquore, sed virtute</l>
+					</lg>
+				</p>
+				<pb facs='#facs_7' xml:id='0007_p007.jpg' n='7'/>
+				<p facs='#facs_7_tr_1'>
+					<lg>
+						<l facs='#facs_7_tr_1_tl_1'>LIBER QVINTVS.</l>
+						<l facs='#facs_7_tr_1_tl_2'>84.</l>
+						<l facs='#facs_7_tr_1_tl_3'>coelestis spiritus consecretur. Haec Eusebius. Diuus quoque Hieronymus</l>
+						<l facs='#facs_7_tr_1_tl_4'>disserens locum Psalmi: Nolite tangere Christos meos, quem supra ci-</l>
+						<l facs='#facs_7_tr_1_tl_6'>tauimus, de eadem re perbelle docet, inquiens: Erubescant ergo Iu-</l>
+						<l facs='#facs_7_tr_1_tl_7'>daei, qui dicunt: Quoniam si non aliquis vngatur regali vnguento,</l>
+						<l facs='#facs_7_tr_1_tl_8'>non potest CHRISTVS vocari. Hoc enim dicunt, quoniam dominus</l>
+						<l facs='#facs_7_tr_1_tl_9'>noster non est CHRISTVS, quia non est vnctus vnguento regali. Ec-</l>
+						<l facs='#facs_7_tr_1_tl_10'>ce ante legem patriarchae non vncti regali vnguento Christi dicun-</l>
+						<l facs='#facs_7_tr_1_tl_11'>tur. Christi autem sunt, qui spiritu sancto vnguntur. Ergo &amp; domi-</l>
+						<l facs='#facs_7_tr_1_tl_12'>nus noster iuste vocatur CHRISTVS. &amp; reliqua. Origenes itidem</l>
+						<l facs='#facs_7_tr_1_tl_13'>late refert de hac CHRISTI vnctione in Homil. XII. super Leuiti-</l>
+						<l facs='#facs_7_tr_1_tl_14'>cum. Iam liquido constat, quod exponere polliciti sumus. Chrisma ve</l>
+						<l facs='#facs_7_tr_1_tl_17'>rò Graeca vox est, &amp; idem latine sonat, atque vnctio. Fiebat autem ex</l>
+						<l facs='#facs_7_tr_1_tl_18'>myrtha electa, ireo, cinnamomo, &amp; calamis, qui teste Plin. in Arabia,</l>
+						<l facs='#facs_7_tr_1_tl_19'>India, &amp; Syria, odorati nascuntur, quae simul contusa oliuarum oleo</l>
+						<l facs='#facs_7_tr_1_tl_20'>miscebantur, sic vnguentum suauissimum conficiebatur, quo Moses</l>
+						<l facs='#facs_7_tr_1_tl_21'>ipsos sacerdotes &amp; tabernaculum illiniens purificauit. Autor Iosephus</l>
+						<l facs='#facs_7_tr_1_tl_22'>lib. III. Antiqu. At nostri ex oleo &amp; opobalsamo, quod est (vt idem Pli</l>
+						<l facs='#facs_7_tr_1_tl_23'>nius lib. XII. tradit) balsami arbusculae succus, chrisma faciunt, quod</l>
+						<l facs='#facs_7_tr_1_tl_24'>Fabia. Pont. decretum tulit, vt quotannis renouaretur, in coena domi</l>
+						<l facs='#facs_7_tr_1_tl_25'>ni, vetus combureretur. Quidam qui de his rebus minus scite scribunt,</l>
+						<l facs='#facs_7_tr_1_tl_26'>hunc errorem non animaduertunt, arbitrantes balsamum succum es-</l>
+						<l facs='#facs_7_tr_1_tl_27'>se, non arborem, quod omnibus odoribus praefertur, vni terrarum Iu-</l>
+						<l facs='#facs_7_tr_1_tl_28'>daeae concessum. Lignum verò balsami xylobalsamum nuncupatur.</l>
+						<l facs='#facs_7_tr_1_tl_29'>Quòd autem episcopi baptizatos postmodum chrismate inungunt,</l>
+						<l facs='#facs_7_tr_1_tl_30'>id Clementis primi institutum est, qui iusserat infantes à baptismi sta-</l>
+						<l facs='#facs_7_tr_1_tl_31'>tim lauachro confirmatum iri, ratus non esse perfectum Christianum</l>
+						<l facs='#facs_7_tr_1_tl_32'>qui illud sacramentum per incuriam, non inuitus praetermisisset. Et</l>
+						<l facs='#facs_7_tr_1_tl_33'>hoc ea ratione, autore Rabano, fit, vt in eos per impositionem manus</l>
+						<l facs='#facs_7_tr_1_tl_34'>pontificis, spiritus sanctus infundatur vberius, quod ab Apostolis fie-</l>
+						<l facs='#facs_7_tr_1_tl_35'>ri coeptum, non vno in loco in actis testatur Luc. Sic quoque ab ijs-</l>
+						<l facs='#facs_7_tr_1_tl_36'>dem vsus vngendi periculose laborantes manauit, dicente euangeli-</l>
+						<l facs='#facs_7_tr_1_tl_37'>sta Marco, cum de discipulis loquitur: Egressi praedicabant, vt poeni-</l>
+						<l facs='#facs_7_tr_1_tl_38'>tentiam agerent, &amp; daemonia multa eijciebant, &amp; vngebant oleo mul</l>
+						<l facs='#facs_7_tr_1_tl_39'>tos aegros, &amp; sanabant. Hinc igitur apparet natum, quòd hodie oleo</l>
+						<l facs='#facs_7_tr_1_tl_40'>non admisto opobalsamo animae ex morbo agentes vnguntur. Cuius</l>
+						<l facs='#facs_7_tr_1_tl_41'>rei meminit &amp; Iacobus Apostolus, in epistola sua, Vnde quidam ma-</l>
+						<l facs='#facs_7_tr_1_tl_42'>lunt illum morem vngendi aegrotos manasse. Ea ratione postmodum</l>
+						<l facs='#facs_7_tr_1_tl_43'>Felix quartus mandauit, vt morientes vngerentur.</l>
+					</lg>
+				</p>
+				<p facs='#facs_7_r_724'>
+					<lg>
+						<l facs='#facs_7_tr_1_tl_5'>prs.104.b</l>
+						<l facs='#facs_7_tr_1_tl_16'>Chrisma.</l>
+						<l facs='#facs_7_l_676'>Exo.40.b</l>
+						<l facs='#facs_7_l_683'>Mar.6.c</l>
+						<l facs='#facs_7_l_735'>Iaco.5.c</l>
+					</lg>
+				</p>
+				<pb facs='#facs_8' xml:id='0008_p008.jpg' n='8'/>
+				<p facs='#facs_8_tr_1'>
+					<lg>
+						<l facs='#facs_8_tr_1_tl_1'>Leuit. 21.c</l>
+						<l facs='#facs_8_tr_1_tl_2'>Matt. 19.a</l>
+						<l facs='#facs_8_tr_1_tl_3'>1. Timo-</l>
+						<l facs='#facs_8_tr_1_tl_4'>theo. 3.a</l>
+					</lg>
+				</p>
+				<p facs='#facs_8_tr_2'>
+					<lg>
+						<l facs='#facs_8_tr_2_tl_1'>DE INVENT. RERVM</l>
+						<l facs='#facs_8_tr_2_tl_2'>De initio connubij Sacerdotum, apud Hebraeos, &amp; qua ratione nostri</l>
+						<l facs='#facs_8_tr_2_tl_3'>illud diu contraxissent, ac postremo orientalibus quomodo permis-</l>
+						<l facs='#facs_8_tr_2_tl_4'>sum, occidentalibus vero sacerdotibus quando ademptum fuerit.</l>
+						<l facs='#facs_8_tr_2_tl_5'>Caput IIII.</l>
+						<l facs='#facs_8_tr_2_tl_7'>Poscit locus, vt antequam ad alia transeamus, aliquid obiter</l>
+						<l facs='#facs_8_tr_2_tl_8'>de initio connubij sacerdotalis speciatim dicamus. Itaque</l>
+						<l facs='#facs_8_tr_2_tl_9'>Hebraeis studium in primis fuit, propagare successionem ge-</l>
+						<l facs='#facs_8_tr_2_tl_10'>neris, quo fortassis orbis qui post diluuium, habitatoribus vacuus erat</l>
+						<l facs='#facs_8_tr_2_tl_11'>oppleretur hominibus. Mansit &amp; ea cura posteris, quamobrem (vt ait</l>
+						<l facs='#facs_8_tr_2_tl_12'>Augustinus de bono coniugij) fas eis erat, plures habere vxores. Argu</l>
+						<l facs='#facs_8_tr_2_tl_13'>it idem, quòd eorum legum lator Moses omnibus aeque coniugium</l>
+						<l facs='#facs_8_tr_2_tl_14'>concessit, ipsis etiam sacerdotibus, ne naturali mulierum coniunctione</l>
+						<l facs='#facs_8_tr_2_tl_15'>priuati ad ilicita temere prolaberentur. Propterea si qua mulier non</l>
+						<l facs='#facs_8_tr_2_tl_16'>genuisset, probro habebatur. Quod Anna Helcanae vxor dolens (sicut</l>
+						<l facs='#facs_8_tr_2_tl_17'>in liminari pagina primi Regnorum libri legitur) vouit domino Samue-</l>
+						<l facs='#facs_8_tr_2_tl_18'>lem filium, priusquam conciperet. Sed ad Mosen redeo, Is autore Iose</l>
+						<l facs='#facs_8_tr_2_tl_19'>pho, constituit, vt sacerdotes vxores ducerent, etiam viduas, quae ne-</l>
+						<l facs='#facs_8_tr_2_tl_20'>que captiuae, neque ancillae néuue quibusuis de causis repudiatae à</l>
+						<l facs='#facs_8_tr_2_tl_21'>prioribus viris essent. Summo verò pontifici voluit virginem nuptui</l>
+						<l facs='#facs_8_tr_2_tl_22'>dari. Et haec apud Hebraeos matrimonij etiam sacerdotalis ratio fuit,</l>
+						<l facs='#facs_8_tr_2_tl_23'>quam ab omnibus custodiri oportere saluator noster docet dicens: Scri-</l>
+						<l facs='#facs_8_tr_2_tl_24'>ptum est, propter hoc, relinquet homo patrem &amp; matrem, &amp; adhaerebit</l>
+						<l facs='#facs_8_tr_2_tl_25'>vxori suae, &amp; erunt duo in carnem vnam. Quod ergo deus coniunxit,</l>
+						<l facs='#facs_8_tr_2_tl_26'>homo non separet. Nostris autem sacerdotibus Apostolus in primis</l>
+						<l facs='#facs_8_tr_2_tl_27'>Paulus (quia deus vti Cyprianus ait continentiam suadet, non iubet)</l>
+						<l facs='#facs_8_tr_2_tl_28'>modum contrahendi connubij praescripsit, ita ad Timotheum scribens:</l>
+						<l facs='#facs_8_tr_2_tl_29'>Oportet igitur episcopum irreprehensibilem esse, vnius vxoris maritum.</l>
+						<l facs='#facs_8_tr_2_tl_30'>Et paulo inferius: Diaconi sint vnius vxoris mariti. Sic complexus est om</l>
+						<l facs='#facs_8_tr_2_tl_31'>nes sacris initiatos ordinibus. Quod episcopis est concessum, illud ipsum</l>
+						<l facs='#facs_8_tr_2_tl_32'>&amp; presbiteris datum, quandoquidem ex testimonio Hieronymi alibi</l>
+						<l facs='#facs_8_tr_2_tl_33'>diximus, olim episcopis vocitari presbiteros. De subdiaconis siletur,</l>
+						<l facs='#facs_8_tr_2_tl_34'>quorum tunc ordo haud sacer erat. Item Syluester primus, teste Plati-</l>
+						<l facs='#facs_8_tr_2_tl_35'>na, gradus in ordinibus ecclesiasticis constituit, vt vnusquisque vno</l>
+						<l facs='#facs_8_tr_2_tl_36'>tantum ordine contentus esset, &amp; vnius solum vxoris vir. Est operae pre-</l>
+						<l facs='#facs_8_tr_2_tl_37'>tium audire quosdam ex nostris theologis superstitiose verecundos</l>
+						<l facs='#facs_8_tr_2_tl_38'>detorquere hunc locum ad rem familiarem moderandam, affirman-</l>
+						<l facs='#facs_8_tr_2_tl_39'>tes per haec, Apostolum docere episcopum non debere, nisi vnum ha-</l>
+						<l facs='#facs_8_tr_2_tl_40'>bere episcopatum, &amp; presbyterum itidem vnum sacerdotium possidere.</l>
+						<l facs='#facs_8_tr_2_tl_41'>Super qua re Hieronymus ad Oceanum, &amp; ita differt, Quidam coacte</l>
+						<l facs='#facs_8_tr_2_tl_42'>interpretantur vxores pro ecclesijs, viros pro episcopis, debere accipi.</l>
+						<l facs='#facs_8_tr_2_tl_43'>Et hoc in Nicena quoque synodo à patribus esse decretum ne de alia</l>
+						<l facs='#facs_8_tr_2_tl_44'>in aliam ecclesiam episcopus transferatur, ne virginali pauperculae so-</l>
+					</lg>
+				</p>
+				<pb facs='#facs_9' xml:id='0009_p009.jpg' n='9'/>
+				<p facs='#facs_9_tr_1'>
+					<lg>
+						<l facs='#facs_9_tr_1_tl_1'>LIBER QVINTVS.</l>
+						<l facs='#facs_9_l'>85</l>
+						<l facs='#facs_9_tr_1_tl_2'>cietate contempta, ditioris adulterae quaerat amplexus. &amp; rel. Sed mul</l>
+						<l facs='#facs_9_tr_1_tl_3'>to futilius nuptias abominantur, nec volunt credere Paulum locutum</l>
+						<l facs='#facs_9_tr_1_tl_4'>esse uxori, cum scripserit, Sanè rogo &amp; te compar germana, siue ger-</l>
+						<l facs='#facs_9_tr_1_tl_5'>nane id quod magni apud Graecos, autores putant. Nec obstat, quòd</l>
+						<l facs='#facs_9_tr_1_tl_6'>Hieronymus ad Eustochium scribens aliter sentire videatur. Nempe</l>
+						<l facs='#facs_9_tr_1_tl_7'>sic decuit, vt virginis auribus vtrunque multorum exemplis virginita</l>
+						<l facs='#facs_9_tr_1_tl_8'>tem inculcaret. Et denique Apostolum virginem praedicant, ex eo po-</l>
+						<l facs='#facs_9_tr_1_tl_9'>tissimum, quod dixit, Nam velim omnes homines esse, vt &amp; ipse sum.</l>
+						<l facs='#facs_9_tr_1_tl_10'>Cum Apostolus per haec innueret, se iam à complexu &amp; commertio</l>
+						<l facs='#facs_9_tr_1_tl_11'>vxoris abstinere, &amp; mente, &amp; corpore castum esse, quod vel August. de</l>
+						<l facs='#facs_9_tr_1_tl_12'>bono coniugij declarat inquiens: Sed noui quosdam, qui murmurant.</l>
+						<l facs='#facs_9_tr_1_tl_13'>Quid inquiunt si omnes vellent ab omni concubitu abstinere, vnde</l>
+						<l facs='#facs_9_tr_1_tl_14'>subsisteret genus humanum? Vtinam omnes hoc vellent, duntaxat in</l>
+						<l facs='#facs_9_tr_1_tl_15'>charitate, de corde puro, &amp; conscientia bona, &amp; fide perfecta, multo</l>
+						<l facs='#facs_9_tr_1_tl_16'>citius dei ciuitas compleretur, &amp; acceleraretur terminus seculi. Quid</l>
+						<l facs='#facs_9_tr_1_tl_17'>enim aliud hortari apparet Apostolum? vbi ait, Velim omnes esse, vt</l>
+						<l facs='#facs_9_tr_1_tl_18'>&amp; ipse sum. aut alio loco, Hoc autem dico fratres, tempus breue est: su</l>
+						<l facs='#facs_9_tr_1_tl_19'>per est, vt qui habent vxores tanquam non habeant. Haec Augustinus.</l>
+						<l facs='#facs_9_tr_1_tl_20'>Arguit Paulus ita se fecisse, dicens: An non habemus potestatem soro</l>
+						<l facs='#facs_9_tr_1_tl_21'>rem, mulierem circumducendi, sicut &amp; caeteri Apostoli, &amp; fratres do-</l>
+						<l facs='#facs_9_tr_1_tl_22'>mini, &amp; Cephas? Appellat vxorem Paulus sororem, vtpote quam iam</l>
+						<l facs='#facs_9_tr_1_tl_23'>loco sororis habebat. Quanuis Hieronymus contra louinianum, hunc</l>
+						<l facs='#facs_9_tr_1_tl_24'>locum magis pie quàm ex re ipsa, interpretetur, quippe qui intelligi vult</l>
+						<l facs='#facs_9_tr_1_tl_25'>eas mulieres, quae iuxta Iudaicum morem, de sua substantia, magistris</l>
+						<l facs='#facs_9_tr_1_tl_26'>administrabant, sicut Sunamitis cum Helisaeo faciebat. Quod omni-</l>
+						<l facs='#facs_9_tr_1_tl_27'>no à sancti viri mente non dissonat, sed propositum sequamur. Testa</l>
+						<l facs='#facs_9_tr_1_tl_28'>tur idem Clemens Alexandrinus episcopus, quem Eusebius libro ec-</l>
+						<l facs='#facs_9_tr_1_tl_29'>clesiasticae historiae tertio citat, &amp; ait, Sed &amp; Paulum non tedet Aposto</l>
+						<l facs='#facs_9_tr_1_tl_30'>lum, in quadam epistola sua mentionem vel salutationem facere com</l>
+						<l facs='#facs_9_tr_1_tl_31'>paris suae, quam se ideo negat circunducere, vt ad praedicationem euan</l>
+						<l facs='#facs_9_tr_1_tl_32'>gelij expeditior fiat. Affirmat illud idem Ignatius Antiochenus epi-</l>
+						<l facs='#facs_9_tr_1_tl_33'>scopus, qui cum Paulo vixit. Si dubitamus adhuc? Audi, quae idem Cle</l>
+						<l facs='#facs_9_tr_1_tl_34'>mens aduersus hosce scrupulosos sanctos, qui nuptias spernunt, scri-</l>
+						<l facs='#facs_9_tr_1_tl_35'>bat inquiens: An &amp; Apostolos improbant? Petrus etenim ac Philip-</l>
+						<l facs='#facs_9_tr_1_tl_36'>pus &amp; vxores habuerunt, &amp; filias etiam viris nuptui dederunt. &amp; se-</l>
+						<l facs='#facs_9_tr_1_tl_37'>quitur: Aiunt beatum Petrum cum vidisset vxorem suam duci ad passio</l>
+						<l facs='#facs_9_tr_1_tl_38'>nem, gauisum esse electionis gratia, &amp; post eam, proprio nomine ap-</l>
+						<l facs='#facs_9_tr_1_tl_39'>pellantem dixisse, O coniunx memento domini. Talia coniugia san-</l>
+						<l facs='#facs_9_tr_1_tl_40'>ctotum erant, tam perfecta fuit affectio beatorum. Hunc igitur Apo</l>
+						<l facs='#facs_9_tr_1_tl_41'>stolicum contrahendi matrimonij ritum ecclesia diu seruauit, ea qui-</l>
+						<l facs='#facs_9_tr_1_tl_42'>dem ratione, vt sacerdotibus &amp; diaconis liceret virginem habere vxo</l>
+						<l facs='#facs_9_tr_1_tl_43'>rem : quae si prior naturae cessisset, nequaquam fas esset viro alteram du-</l>
+						<l facs='#facs_9_tr_1_tl_44'>m.j.</l>
+					</lg>
+				</p>
+				<p facs='#facs_9_tr_2'>
+					<lg>
+						<l facs='#facs_9_tr_2_tl_1'>I.Cor.7.b</l>
+						<l facs='#facs_9_tr_2_tl_2'>I.Tim.I.a</l>
+						<l facs='#facs_9_tr_2_tl_3'>I.Cor.7.e</l>
+						<l facs='#facs_9_tr_2_tl_4'>I.Cor.9.a</l>
+						<l facs='#facs_9_tr_2_tl_5'>4.Re.4.b</l>
+					</lg>
+				</p>
+				<pb facs='#facs_10' xml:id='0010_p010.jpg' n='10'/>
+				<p facs='#facs_10_tr_1'>
+					<lg>
+						<l facs='#facs_10_tr_1_tl_1'>Leui.19.a</l>
+						<l facs='#facs_10_tr_1_tl_2'>20.b</l>
+						<l facs='#facs_10_tr_1_tl_3'>I.Cor.7.a</l>
+					</lg>
+				</p>
+				<p facs='#facs_10_tr_2'>
+					<lg>
+						<l facs='#facs_10_tr_2_tl_1'>DE INVENT. RERVM</l>
+						<l facs='#facs_10_tr_2_tl_2'>cere :  sin illa superstes foret, tum vidua perpetuo secundos non con-</l>
+						<l facs='#facs_10_tr_2_tl_3'>minaret hymenaeos. Sic virgines nubebant, spem &amp; votum vxoris se-</l>
+						<l facs='#facs_10_tr_2_tl_4'>mel transigentes, &amp; accipiebant vnum maritum, &amp; maritus vnam uxo-</l>
+						<l facs='#facs_10_tr_2_tl_5'>rem, quomodo vnum corpus, vnamque vitam, ne vlla cogitatio vltra,</l>
+						<l facs='#facs_10_tr_2_tl_6'>ne longior cupiditas, ne tanquam maritum vel vxorem sed tanquam</l>
+						<l facs='#facs_10_tr_2_tl_7'>matrimonium simul amarent. Graeci huiusmodi nuptiarum morem</l>
+						<l facs='#facs_10_tr_2_tl_8'>hodie retinent. Nam cum olim teste Gratiano, distinctione trigesima-</l>
+						<l facs='#facs_10_tr_2_tl_9'>prima, habita Niceae synodo, quae prima fuit, quam terra vidit Grae-</l>
+						<l facs='#facs_10_tr_2_tl_10'>cia, agitatum esset, vt sacerdotes, diaconi, &amp; subdiaconi, se cum vxori-</l>
+						<l facs='#facs_10_tr_2_tl_11'>bus non amplius commiscerent, reclamante in primis Pannutio praesu</l>
+						<l facs='#facs_10_tr_2_tl_12'>le ex AEgypti partibus, viro sancto ac coelibi, qui iam tum (vt ex histo</l>
+						<l facs='#facs_10_tr_2_tl_13'>ria Ruffini constat) miraculis clarebat, illud non aliud esset quàm prae-</l>
+						<l facs='#facs_10_tr_2_tl_14'>bere cum viris, tum mulieribus praeuaricandi occasionem, vnicuique</l>
+						<l facs='#facs_10_tr_2_tl_15'>postremo data fuit facultas, vtrum mallet sequendi. Ita sacris initiati</l>
+						<l facs='#facs_10_tr_2_tl_16'>matrimonium continuarunt. Post haec sextus conuentus qui nouissi-</l>
+						<l facs='#facs_10_tr_2_tl_17'>mus &amp; celebratissimus fuit, orientali ecclesiae autore eodem Gratiano,</l>
+						<l facs='#facs_10_tr_2_tl_18'>viuendi regulam praescripsit, ac permisit sacerdotes, diaconos atque</l>
+						<l facs='#facs_10_tr_2_tl_19'>subdiaconos vxores habere, quas prius quàm sacris initiarentur ordi-</l>
+						<l facs='#facs_10_tr_2_tl_20'>nibus, duxissent. Verum quemadmodum decet, vt sacerdos segreget</l>
+						<l facs='#facs_10_tr_2_tl_21'>se ab omni pollutione peccati, qui semotus intra templum, vsibus sa</l>
+						<l facs='#facs_10_tr_2_tl_22'>cerdotalibus, ac dei ministerio vacet, cum praesertim est sacrificaturus,</l>
+						<l facs='#facs_10_tr_2_tl_23'>quo die &amp; nocte meditetur in lege domini, qui ait: Sancti estote, quia</l>
+						<l facs='#facs_10_tr_2_tl_24'>&amp; ego sanctus sum dominus deus vester: ita pari ratione, in eadem</l>
+						<l facs='#facs_10_tr_2_tl_25'>synodo decretum fuit, vt sacerdotes cum diaconis, &amp; subdiaconis, rem</l>
+						<l facs='#facs_10_tr_2_tl_26'>diuinam vicissim facerent, seque vnumquenque suae vicis tempore,</l>
+						<l facs='#facs_10_tr_2_tl_27'>ab vxoris congressu separarent. Quod ab Hebraeis mutuo sumptum</l>
+						<l facs='#facs_10_tr_2_tl_28'>constat, id etiam quod Apostolus praecepit, dicens: Ne fraudetis vos</l>
+						<l facs='#facs_10_tr_2_tl_29'>inuicem, nisi si quid ex consensu, pro tempore, vt vacetis ieiunio, &amp;</l>
+						<l facs='#facs_10_tr_2_tl_30'>orationi, &amp; rursum ad id ipsum conueniatis. &amp; caetera. Quin &amp; Gen-</l>
+						<l facs='#facs_10_tr_2_tl_31'>tiles religionis causa, à foeminae complexu secubare solebant, in sacris</l>
+						<l facs='#facs_10_tr_2_tl_32'>praesertim Cerealibus, testis est Ouid. At occidentalibus paulatim</l>
+						<l facs='#facs_10_tr_2_tl_33'>est connubium abrogatum. Syricius enim primus sacerdotibus &amp; dia</l>
+						<l facs='#facs_10_tr_2_tl_34'>conis (vt refert Gratianus distinctione octogesimasecunda) coniugio</l>
+						<l facs='#facs_10_tr_2_tl_35'>interdixit, qui circiter annum salutis humanae, trecentesimum octoge</l>
+						<l facs='#facs_10_tr_2_tl_36'>simum octauum, sedere coepit. Idem teste Platina, instituit, vt quicun</l>
+						<l facs='#facs_10_tr_2_tl_37'>que, aut viduam aut secundam duxisset vxorem, ab officio ecclesiasti-</l>
+						<l facs='#facs_10_tr_2_tl_38'>co pelleretur. Sic per hoc voluit, vt deinceps digamus ad officium sa-</l>
+						<l facs='#facs_10_tr_2_tl_39'>cerdotis non admitteretur (prout suprà memorauimus) Pelagius se-</l>
+						<l facs='#facs_10_tr_2_tl_40'>cundus deinde testificante eodem Gratiano, statuit, vt subdiaconi vel</l>
+						<l facs='#facs_10_tr_2_tl_41'>vxores à se separarent, vel illis contenti sacerdotium possessione cede-</l>
+						<l facs='#facs_10_tr_2_tl_42'>rent, &amp; cum neutrum admisissent iussit, vt omnino vxores omitterent.</l>
+						<l facs='#facs_10_tr_2_tl_43'>Verum id decretum Gregorius qui Pelagio suffectus est, iniquum cen</l>
+					</lg>
+				</p>
+				<pb facs='#facs_11' xml:id='0011_p011.jpg' n='11'/>
+				<p facs='#facs_11_tr_1'>
+					<lg>
+						<l facs='#facs_11_tr_1_tl_1'>LIBER QVINTVS</l>
+						<l facs='#facs_11_tr_1_tl_2'>86</l>
+						<l facs='#facs_11_tr_1_tl_3'>fuit, ceu euangelio contrarium, quod iubet vxorem fornicationis cau-</l>
+						<l facs='#facs_11_tr_1_tl_4'>sa tantum omitti, &amp; idcirco sanxit, vt nullus amplius ordinaretur sub-</l>
+						<l facs='#facs_11_tr_1_tl_5'>diaconus, nisi se caste victurum prius promisisset, quo sic in ecclesiam</l>
+						<l facs='#facs_11_tr_1_tl_6'>legem continentiae introduceret. Voluit opinor, Gregorius minores</l>
+						<l facs='#facs_11_tr_1_tl_7'>coercere, vt illorum exemplo maiores ex Siricij instituto, mox sua spon</l>
+						<l facs='#facs_11_tr_1_tl_8'>te matrimonia spernerent. Eò quoque pertinet, cum in suo Dialogo,</l>
+						<l facs='#facs_11_tr_1_tl_9'>laudat presbyterum quendam, quia presbyteram suam, id est vxorem</l>
+						<l facs='#facs_11_tr_1_tl_10'>ceu sororem abstinendo colebat. Caeterum non tenuit tum primum</l>
+						<l facs='#facs_11_tr_1_tl_11'>istud institutum, sicut antea Calisti decretum non est seruatum, quem</l>
+						<l facs='#facs_11_tr_1_tl_12'>idem Gratianus autor est, primum sacerdotibus vniuersis indixisse coe</l>
+						<l facs='#facs_11_tr_1_tl_13'>libatum. Alij id Eugenio post Gregorium attribuunt. Praeterea illud</l>
+						<l facs='#facs_11_tr_1_tl_14'>ipsum cum Meldensi tum Carthaginensi synodis est magno onmium</l>
+						<l facs='#facs_11_tr_1_tl_15'>consensu statutum (sicut in Canonicis Decretis distinctione tricesima</l>
+						<l facs='#facs_11_tr_1_tl_16'>secunda, &amp; octogesima quarta legimus) Ita alijs denique super alijs</l>
+						<l facs='#facs_11_tr_1_tl_17'>promulgatis legibus, non ante tempora Gregorij septimi, qui anno sa</l>
+						<l facs='#facs_11_tr_1_tl_18'>lutis septuagesimo quarto, supra millesimum, est pontifex creatus, con</l>
+						<l facs='#facs_11_tr_1_tl_19'>nubium è medio occidentalis ecclesiae tolli potuit. Quod verissimum</l>
+						<l facs='#facs_11_tr_1_tl_20'>esse, testatur Leo Nonus, qui paulo ante istum Gregorium, sedem te-</l>
+						<l facs='#facs_11_tr_1_tl_21'>nuit Apostolicam, ita aduersus quendam abbatem nomine Nicetam,</l>
+						<l facs='#facs_11_tr_1_tl_22'>scribens, Omnino confitemur, non licere episcopo, presbytero, &amp; dia</l>
+						<l facs='#facs_11_tr_1_tl_23'>cono propriam vxorem causa religionis abijcere à cura sua, sed vt ei</l>
+						<l facs='#facs_11_tr_1_tl_24'>victum &amp; vestitum largiatur, ac non vt cum illa carnaliter ex more ia</l>
+						<l facs='#facs_11_tr_1_tl_25'>ceat, sicut &amp; sanctos Apostolos legimus fecisse, beato Paulo Apostolo</l>
+						<l facs='#facs_11_tr_1_tl_26'>dicente: An non habemus potestatem sororem mulierem circundu-</l>
+						<l facs='#facs_11_tr_1_tl_27'>cendi? Haec ille. Autor est Gratianus. Idem sentit Iacobus Faber vir</l>
+						<l facs='#facs_11_tr_1_tl_28'>tempestate nostra pari vel doctrina, vel probitate praeditus (vti extat</l>
+						<l facs='#facs_11_tr_1_tl_29'>in eius commentario in Pauli epistolam ad Timotheum) Atque sic pro-</l>
+						<l facs='#facs_11_tr_1_tl_30'>fecto decet eos, qui altari inseruiunt, dicente Hieronymo contra louinia-</l>
+						<l facs='#facs_11_tr_1_tl_31'>num: Si laicus &amp; quisque fidelis non potest orare, nisi careat officio coniu</l>
+						<l facs='#facs_11_tr_1_tl_32'>gali, sacerdoti verò cui semper offerenda sunt sacrificia semper orandum</l>
+						<l facs='#facs_11_tr_1_tl_33'>est, ergo semper matrimonio carendum, cum praesertim foemina factis</l>
+						<l facs='#facs_11_tr_1_tl_34'>semper melioribus obstet. Sunt insuper sacerdotes bene multis per</l>
+						<l facs='#facs_11_tr_1_tl_35'>hunc modum, liberati molestijs, quas Simonides interrogatus quid es</l>
+						<l facs='#facs_11_tr_1_tl_36'>set vxor, enarrat inquiens: Vxor est viri naufragium, domus tempe-</l>
+						<l facs='#facs_11_tr_1_tl_37'>stas, quietis impedimentum, vitae captiuitas, poena quotidiana, pugna</l>
+						<l facs='#facs_11_tr_1_tl_38'>sumptuosa, bestia contubernalis, malum necessarium. Sed iam vi-</l>
+						<l facs='#facs_11_tr_1_tl_39'>deamus vtrum praestiterit, nécne coactam hanc castitatem illa prius</l>
+						<l facs='#facs_11_tr_1_tl_40'>coniugali repudiata amplecti. Porrò dum sacerdotes generabant le-</l>
+						<l facs='#facs_11_tr_1_tl_41'>gitimos filios ecclesia felici prole virûm vigebat, tum sanctissimi erant</l>
+						<l facs='#facs_11_tr_1_tl_42'>pontifices, episcopi innocentissimi, presbyteri diaconique integerri-</l>
+						<l facs='#facs_11_tr_1_tl_43'>mi castissimique. Si qui verò praeuaricabantur, ne impugne facerent, eis</l>
+						<l facs='#facs_11_tr_1_tl_44'>violatio inexorabili vindicta expienda erat. Sed ne varia poenarum</l>
+						<l facs='#facs_11_tr_1_tl_45'>m. ij.</l>
+					</lg>
+				</p>
+				<p facs='#facs_11_r_115'>
+					<lg>
+						<l facs='#facs_11_l'>I.Cor.9.a</l>
+					</lg>
+				</p>
+				<pb facs='#facs_12' xml:id='0012_p012.jpg' n='12'/>
+				<p facs='#facs_12_tr_1'>
+					<lg>
+						<l facs='#facs_12_tr_1_tl_1'>Mat. 26. d</l>
+						<l facs='#facs_12_tr_1_tl_2'>Mar. 24.e</l>
+						<l facs='#facs_12_tr_1_tl_3'>Roma. 2.c</l>
+					</lg>
+				</p>
+				<p facs='#facs_12_tr_2'>
+					<lg>
+						<l facs='#facs_12_tr_2_tl_1'>DE INVENT. RERVM</l>
+						<l facs='#facs_12_tr_2_tl_2'>genera memorando, quae Gratianus distinctione octogesimaprima la</l>
+						<l facs='#facs_12_tr_2_tl_3'>te refert, quaeve non seruantes legem pudicitiae manebant, tragoediam</l>
+						<l facs='#facs_12_tr_2_tl_4'>scribere videamur aut recensendo sontes, qui illis affecti sint, longio-</l>
+						<l facs='#facs_12_tr_2_tl_5'>re reddamus memoria dignos, haec omnia silentio praeterire libuit. In-</l>
+						<l facs='#facs_12_tr_2_tl_6'>terim tamen de patrum seueritate in Damasum pontificem, eiusve</l>
+						<l facs='#facs_12_tr_2_tl_7'>calumniatores, referamus, quo legentes intelligant, quàm aspere aut</l>
+						<l facs='#facs_12_tr_2_tl_8'>duriter in reliquos gradus inferiores minima etiam criminis suspicio-</l>
+						<l facs='#facs_12_tr_2_tl_9'>ne attactos sit animaduersum. Is itaque autore Platina, cum iam pau</l>
+						<l facs='#facs_12_tr_2_tl_10'>latim honorum ambitio coepisset subire iuxta pontificum animos, &amp;</l>
+						<l facs='#facs_12_tr_2_tl_11'>eorum, qui ad id decus anhelabant, magna suffragiorum discepta-</l>
+						<l facs='#facs_12_tr_2_tl_12'>tione, pontificatum adeptus est, Vrsicino competitore superato. Quare</l>
+						<l facs='#facs_12_tr_2_tl_13'>haud multo post adulterij accusatur multa cum indignitate, &amp; perso</l>
+						<l facs='#facs_12_tr_2_tl_14'>nae, quam sustinebat, sugillatione, simumlque cogitur, in publico antisti</l>
+						<l facs='#facs_12_tr_2_tl_15'>tum conuentu, adulterij causam dicere, sed criminis minime reus ab-</l>
+						<l facs='#facs_12_tr_2_tl_16'>soluitur. Calumniatores verò Concordius scilicet &amp; Calistus damnati</l>
+						<l facs='#facs_12_tr_2_tl_17'>sunt, &amp; ab ecclesia reiecti. Cautum praeterea lege est, vt deinceps poe</l>
+						<l facs='#facs_12_tr_2_tl_18'>nam talionis subirent, qui aliquem falso accusassent. Per haec igitur sa-</l>
+						<l facs='#facs_12_tr_2_tl_19'>cerdotium sine probro, domi forisque sanctissime gerebatur habeba-</l>
+						<l facs='#facs_12_tr_2_tl_20'>turque venerationi, ac quaeque sacerdotum casta, pudicitiam serua-</l>
+						<l facs='#facs_12_tr_2_tl_21'>bat domus quae liberos habebat, in subiectione, cum omni reueren-</l>
+						<l facs='#facs_12_tr_2_tl_22'>tia, quibus parentes recte praeerant. At vbi tandem occidentalis ec-</l>
+						<l facs='#facs_12_tr_2_tl_23'>clesia legem recepit, qua connubium sibi est abrogatum, tum castitas</l>
+						<l facs='#facs_12_tr_2_tl_24'>sacerdotalis, quam antea nefas ac non sine certa noxa fuerat violare,</l>
+						<l facs='#facs_12_tr_2_tl_25'>magis coli, quàm custodiri coepit titillante carne, quae (vt Saluator ait)</l>
+						<l facs='#facs_12_tr_2_tl_26'>infirma est, &amp; eo vsque incontinentia erupit, vt leges ipsae inter quoti</l>
+						<l facs='#facs_12_tr_2_tl_27'>diana adulteria, stupra, &amp; illa quidem aperta (de occultis enim, quo-</l>
+						<l facs='#facs_12_tr_2_tl_28'>rum deus vindex est, nequaquam fari licet) iam propè sileant. Quod</l>
+						<l facs='#facs_12_tr_2_tl_29'>praecipue fit, quoniam multi fortassis illorum, qui debent alios doce-</l>
+						<l facs='#facs_12_tr_2_tl_30'>re, seipsos non docent, &amp; praedicare, non esse adulterandum, adulterium</l>
+						<l facs='#facs_12_tr_2_tl_31'>committunt. Atque sic per transgressionem legis, illi in primis deum (sicut</l>
+						<l facs='#facs_12_tr_2_tl_32'>perhibet Apostolus) dehonestant. Vnde soluta omni antiqua caste vi-</l>
+						<l facs='#facs_12_tr_2_tl_33'>uendi disciplina, nouum inferioribus est praeuaricandi datum exem-</l>
+						<l facs='#facs_12_tr_2_tl_34'>plum, qui ad id vrgente simul voluptatum titillatione, suorum superiorum</l>
+						<l facs='#facs_12_tr_2_tl_35'>vestigia nauiter sequi, non temere cogi quandoque possent. Quoniam (vt</l>
+						<l facs='#facs_12_tr_2_tl_36'>diuus dicit Hieronymus) impossibile est in sensum hominis non irruere</l>
+						<l facs='#facs_12_tr_2_tl_37'>motum medullarum calore. Sic illi accidit, qui de carnis petulantia con-</l>
+						<l facs='#facs_12_tr_2_tl_38'>querens, de seipso scribit, Ille igitur ego qui ob gehennae metum, tali me</l>
+						<l facs='#facs_12_tr_2_tl_39'>carcere damnaueram, scorpionum tantum socius, &amp; ferarum, saepe</l>
+						<l facs='#facs_12_tr_2_tl_40'>choris intereram puellarum. Pallebant ora ieiunijs, &amp; mens desiderijs</l>
+						<l facs='#facs_12_tr_2_tl_41'>aestuabat, in frigido corpore, &amp; ante hominem sicca iam carne prae-</l>
+						<l facs='#facs_12_tr_2_tl_42'>mortuum, sola libidinum incendia bulliebant. &amp; reliqua. Ille proinde</l>
+						<l facs='#facs_12_tr_2_tl_43'>laudatur merito, beatusve iudicatur, qui ab hac se voluptate absti-</l>
+					</lg>
+				</p>
+				<pb facs='#facs_13' xml:id='0013_p013.jpg' n='13'/>
+				<p facs='#facs_13_tr_1'>
+					<lg>
+						<l facs='#facs_13_tr_1_tl_1'>LIBER QVINTVS.</l>
+						<l facs='#facs_13_tr_1_tl_2'>nere potest. Contra qui minima tantum huiusce notae suspicione labo</l>
+						<l facs='#facs_13_tr_1_tl_3'>rat eaque iure vel iniuria respergitur, quanuis mille praeterea praedi-</l>
+						<l facs='#facs_13_tr_1_tl_4'>tus animi dotibus, ille nequam, ille impius, ille criminosior, ille deni-</l>
+						<l facs='#facs_13_tr_1_tl_5'>que illaudatus habetur sacerdos. Quo factum est, vt non aliud crimen</l>
+						<l facs='#facs_13_tr_1_tl_6'>quamuis loge detestabilius, maiora inusserit sacerdotio stigmata. Qua</l>
+						<l facs='#facs_13_tr_1_tl_7'>propter non abs re Pius secundus dictitare solebat, Sacerdotibus ma</l>
+						<l facs='#facs_13_tr_1_tl_8'>gna ratione ademptum connubium, sed maiore quadam restituen-</l>
+						<l facs='#facs_13_tr_1_tl_9'>dum. Hinc iam denique apparet, quàm conducibile fuerit, nostros quon</l>
+						<l facs='#facs_13_tr_1_tl_10'>dam maiores legem admisisse coelibatus, quamque deinceps bono fue-</l>
+						<l facs='#facs_13_tr_1_tl_11'>rit vel nos ipsos qui eisdem maioribus nostris mundo quasi senescen-</l>
+						<l facs='#facs_13_tr_1_tl_12'>te, multo indies sumus infirmiores, nouis quotidie obligare institutis,</l>
+						<l facs='#facs_13_tr_1_tl_13'>quae ceu parum vtiliter introducta nostri paulo mox posteri sint forte</l>
+						<l facs='#facs_13_tr_1_tl_14'>magis egregie professuri, quàm aliqua ex parte rite seruaturi, quemad</l>
+						<l facs='#facs_13_tr_1_tl_15'>modum nos hodie veterum patrum sanctiones identidem iactamus,</l>
+						<l facs='#facs_13_tr_1_tl_16'>&amp; illas quanuis sanctissimas abolescere facile sinimus. Sunt tamen in</l>
+						<l facs='#facs_13_tr_1_tl_17'>ecclesia sacerdotes, &amp; doctores, qui possunt filios gignere, sicut &amp; ille,</l>
+						<l facs='#facs_13_tr_1_tl_18'>qui dicebat, Filioli mei, quos iterum parturio, donec formetur CHRI-</l>
+						<l facs='#facs_13_tr_1_tl_19'>STVS in vobis. Et alibi, Tametsi multa milia paedagogorum habetis in</l>
+						<l facs='#facs_13_tr_1_tl_20'>CHRISTO, sed non multos patres. Nam in CHRISTO IESV, per</l>
+						<l facs='#facs_13_tr_1_tl_21'>Euangelium ego vos genui. Sic extra matrimonium, citra muliebrem</l>
+						<l facs='#facs_13_tr_1_tl_22'>complexum, fas est sacerdotibus operam dare liberis procreandis, quo-</l>
+						<l facs='#facs_13_tr_1_tl_23'>rum progenies sancta &amp; immaculata perpetuo durat.</l>
+						<l facs='#facs_13_tr_1_tl_24'>Qua ratione ab initio inter mortales matrimonium fuerit contractum,</l>
+						<l facs='#facs_13_tr_1_tl_25'>&amp; qui deinde cognationis gradus interdicti primitus fuerint</l>
+						<l facs='#facs_13_tr_1_tl_26'>apud Hebraeos ac Romanos, &amp; nouissime apud nostros, illius</l>
+						<l facs='#facs_13_tr_1_tl_27'>etiam cognationis, quam spiritualem vocant. Et inibi quòd nul-</l>
+						<l facs='#facs_13_tr_1_tl_28'>li fas vnquam fuit, nisi vnam habere vxorem. Atque vnde mo-</l>
+						<l facs='#facs_13_tr_1_tl_29'>ris sit, quòd puerperae post partum purificantur.</l>
+						<l facs='#facs_13_tr_1_tl_30'>Caput V.</l>
+						<l facs='#facs_13_tr_1_tl_31'>Ut supra de sacerdotali connubio est non incongrue explica-</l>
+						<l facs='#facs_13_tr_1_tl_32'>tum, sic hoc loco de reliquorum fidelium, déque contrahen-</l>
+						<l facs='#facs_13_tr_1_tl_33'>di modo apte disseretur, quo in ducendis vxoribus, pateat,</l>
+						<l facs='#facs_13_tr_1_tl_34'>ad quos vsque necessitudine coniunctos, ascendere liceat, quando-</l>
+						<l facs='#facs_13_tr_1_tl_35'>ve vxorum multitudo fuerit interdicta. Itaque iam inde à princi-</l>
+						<l facs='#facs_13_tr_1_tl_36'>pio orbis, coepere fratres &amp; sorores sese inuicem matrimonio iun-</l>
+						<l facs='#facs_13_tr_1_tl_37'>gere cum non haberent remotiorem propinquitatem, qua cum co-</l>
+						<l facs='#facs_13_tr_1_tl_38'>pularentur. Vnde contigit, vt Adam vnus homo (sicut sanctae nar-</l>
+						<l facs='#facs_13_tr_1_tl_39'>rant literae) simul pater, simul socer esset, &amp; Eua eius vxor versa vice</l>
+						<l facs='#facs_13_tr_1_tl_40'>vtrique liberorum sexui &amp; mater &amp; socrus. Tenuit aliquandiu haec</l>
+						<l facs='#facs_13_tr_1_tl_41'>apud Hebraeos coniugij ratio, donec paulatim charitas effecit, vt homi</l>
+						<l facs='#facs_13_tr_1_tl_42'>nes quibus esset vtilis atque honesta concordia, diuersarum necessitu-</l>
+						<l facs='#facs_13_tr_1_tl_43'>m.iij:</l>
+					</lg>
+				</p>
+				<p facs='#facs_13_tr_2'>
+					<lg>
+						<l facs='#facs_13_tr_2_tl_1'>Gal. 4.c</l>
+						<l facs='#facs_13_tr_2_tl_2'>I. Cor. 4. c</l>
+					</lg>
+				</p>
+				<pb facs='#facs_14' xml:id='0014_p014.jpg' n='14'/>
+				<p facs='#facs_14_tr_1'>
+					<lg>
+						<l facs='#facs_14_tr_1_tl_1'>Gen. II.d</l>
+						<l facs='#facs_14_tr_1_tl_2'>29.e.f.</l>
+						<l facs='#facs_14_tr_1_tl_3'>Nu. 36.c</l>
+						<l facs='#facs_14_tr_1_tl_4'>Gen. 2.d</l>
+					</lg>
+				</p>
+				<p facs='#facs_14_tr_2'>
+					<lg>
+						<l facs='#facs_14_tr_2_tl_1'>DE INVENT. RERVM</l>
+						<l facs='#facs_14_tr_2_tl_2'>dinum vinculis necterentur, ne vnus in vna multas haberet, sed sin-</l>
+						<l facs='#facs_14_tr_2_tl_3'>gulae diffunderentur in singulos, ac sic ad socialem vitam studiosius</l>
+						<l facs='#facs_14_tr_2_tl_4'>conciliandam, plurimae necessitudines plurimos complecterentur.</l>
+						<l facs='#facs_14_tr_2_tl_5'>Hinc denique ad consobrinas &amp; neptes, ad aliasve longe positas tans-</l>
+						<l facs='#facs_14_tr_2_tl_6'>itum est. Sic Abraham Saram ex Aram fratre neptem duxit vxorem:</l>
+						<l facs='#facs_14_tr_2_tl_7'>sic Iacob Liam &amp; Rachel filias Laban auunculi coniuges habuit : sic</l>
+						<l facs='#facs_14_tr_2_tl_8'>alij alias nullo sibi genere propinquas mox duxere vxores. Fuit tamen</l>
+						<l facs='#facs_14_tr_2_tl_9'>illis curae, teste Augustino de ciuitate dei libro XI, propinquitatem, ne</l>
+						<l facs='#facs_14_tr_2_tl_10'>propaginum ordinibus se sensim dirimens longius abiret, &amp; propin-</l>
+						<l facs='#facs_14_tr_2_tl_11'>quitas esse desineret: nondum procul locatam rursum matrimonij vin-</l>
+						<l facs='#facs_14_tr_2_tl_12'>culo colligare, &amp; quodammodo reuocare fugientem: quo per id in vna</l>
+						<l facs='#facs_14_tr_2_tl_13'>familia, vel tribu opes perpetuo remanerent. Ac ideo de suo genere</l>
+						<l facs='#facs_14_tr_2_tl_14'>virorum &amp; foeminarum paria iungere voluit Moses, dicens: Omnes</l>
+						<l facs='#facs_14_tr_2_tl_15'>viri ducant vxores de tribu &amp; cognatione sua: &amp; cunctae foemina de</l>
+						<l facs='#facs_14_tr_2_tl_16'>eadem tribu maritos accipiant, vt haereditas permaneat in familijs.</l>
+						<l facs='#facs_14_tr_2_tl_17'>Hoc scriptum leges in Numeris. At nunquam licuit plures simul ha-</l>
+						<l facs='#facs_14_tr_2_tl_18'>bere vxores, vetante domino ac dicente, ad Adam primum parentem</l>
+						<l facs='#facs_14_tr_2_tl_19'>cui Euam copulauit vxorem, Propterea deseret homo patrem &amp; ma-</l>
+						<l facs='#facs_14_tr_2_tl_20'>trem, &amp; adhaerebit vxori suae, &amp; erunt duo in carnem vnam. Sic deus</l>
+						<l facs='#facs_14_tr_2_tl_21'>per vnum par hominum, hoc est, masculi &amp; foeminae voluit coniu-</l>
+						<l facs='#facs_14_tr_2_tl_22'>gium confici. Verum vti mulierum inopia in causa fuit, quamobrem</l>
+						<l facs='#facs_14_tr_2_tl_23'>fratres in principio sibi sorores connubio adsociarent, sic raritate po-</l>
+						<l facs='#facs_14_tr_2_tl_24'>puli factum videtur, vt Hebraeorum quidam propagandae sobolis stu</l>
+						<l facs='#facs_14_tr_2_tl_25'>dio plures interdum vxores simul habuerint. Quod facinus diuus Am-</l>
+						<l facs='#facs_14_tr_2_tl_26'>brosius ita diluit, disserens: Obijciuntur Iacob quatuor vxores: quia</l>
+						<l facs='#facs_14_tr_2_tl_27'>mos erat, crimen non erat. Sicut patriarchae coniugibus accipientibus</l>
+						<l facs='#facs_14_tr_2_tl_28'>semen suum miscebantur, non concupiscentia perficiendae voluptatis,</l>
+						<l facs='#facs_14_tr_2_tl_29'>sed prouidentia propagandae successionis: sic Apostoli auditoribus ad-</l>
+						<l facs='#facs_14_tr_2_tl_30'>mirantibus doctrinam suam condelectabant: non auiditate consequen</l>
+						<l facs='#facs_14_tr_2_tl_31'>dae laudis, sed charitate seminandae veritatis. Hactenus Ambrosius.</l>
+						<l facs='#facs_14_tr_2_tl_32'>Inde par est credere, ad barbaros eum ritum transpositum esse, qui (ve</l>
+						<l facs='#facs_14_tr_2_tl_33'>lut suprà ostendimus) singuli binas pluresque pro opibus, vxores du-</l>
+						<l facs='#facs_14_tr_2_tl_34'>cebant. Id quod Saraceni ex Mahumeti instituto turpiter seruant.</l>
+						<l facs='#facs_14_tr_2_tl_35'>sed ad propositum redeamus. Postremo Moses moderaturus nuptijs,</l>
+						<l facs='#facs_14_tr_2_tl_36'>statuit, ne quisquam primo vel altero cognationis gradibus propin-</l>
+						<l facs='#facs_14_tr_2_tl_37'>quam duceret vxorem, quo ipsa necessitudo libidine concumbendi,</l>
+						<l facs='#facs_14_tr_2_tl_38'>non imputaretur: quam Ethnici eo modo maxime inquinabant. Nam</l>
+						<l facs='#facs_14_tr_2_tl_39'>Athenienses, Medi, Arabes, &amp; plerique alij (sicut in primo huius ope</l>
+						<l facs='#facs_14_tr_2_tl_40'>ris volumine, quum de matrimonij origine prodidimus, est demon-</l>
+						<l facs='#facs_14_tr_2_tl_41'>stratum) sorores cum matribus ductabant vxores. Romani verò ne-</l>
+						<l facs='#facs_14_tr_2_tl_42'>ptes ad vltimum sibi copulabant, eiusque rei initium Plutarchus in</l>
+						<l facs='#facs_14_tr_2_tl_43'>Problematis docet, ad hunc modum scribens: Superioribus enim</l>
+					</lg>
+				</p>
+				<pb facs='#facs_15' xml:id='0015_p015.jpg' n='15'/>
+				<p facs='#facs_15_tr_1'>
+					<lg>
+						<l facs='#facs_15_tr_1_tl_1'>LIBER QVINTVS</l>
+						<l facs='#facs_15_tr_1_tl_2'>88</l>
+						<l facs='#facs_15_tr_1_tl_3'>temporibus qui se aliqua necessitudine attigissent, vxores non duce-</l>
+						<l facs='#facs_15_tr_1_tl_4'>bant, quemadmodum nec nunc quidem sorores. Sed non ita pridem fa</l>
+						<l facs='#facs_15_tr_1_tl_5'>ctum, vt neptes vxores ducere permitterent. Vir quidam sanè pau-</l>
+						<l facs='#facs_15_tr_1_tl_6'>per, caeterum bonus &amp; cum primis popularibus acceptus, cum ne-</l>
+						<l facs='#facs_15_tr_1_tl_7'>ptem, cui dos ampla esset relicta, in matrimonium accepisset, locu-</l>
+						<l facs='#facs_15_tr_1_tl_8'>plex ex eo &amp; copiosus factus est, eius rei accusatus, iudicio multitudi-</l>
+						<l facs='#facs_15_tr_1_tl_9'>nis absolutus est. Plebiscitum deinde factum, vt in ducendis vxoribus</l>
+						<l facs='#facs_15_tr_1_tl_10'>ad neptes vsque ascendere liceret, superiore necessitudine prohibita.</l>
+						<l facs='#facs_15_tr_1_tl_11'>Haec ille. Atqui nostris quorum iustitia iuxta praeceptum CHRISTI,</l>
+						<l facs='#facs_15_tr_1_tl_12'>plus quàm pharisaeorum nedum gentilium, abundare semper debuit,</l>
+						<l facs='#facs_15_tr_1_tl_13'>modus contrahendi matrimonij, multo conducibilior honestiorque</l>
+						<l facs='#facs_15_tr_1_tl_14'>est datus quo per mulieres &amp; honore &amp; potestate augerentur, si mul-</l>
+						<l facs='#facs_15_tr_1_tl_15'>tos habere viderentur affines, quove ne barbarico more singuli plu-</l>
+						<l facs='#facs_15_tr_1_tl_16'>res ductarent vxores: aut nulla habita propinquitatis ratione, cum</l>
+						<l facs='#facs_15_tr_1_tl_17'>quibusvis mulieribus sese matrimonio iungerent, néve libidine for-</l>
+						<l facs='#facs_15_tr_1_tl_18'>te flagrantes puellas spe connubij, ad stuprum illectas violarent: ac</l>
+						<l facs='#facs_15_tr_1_tl_19'>mox voti compotes cum remotis arbitris fidem dedissent, eas voti im-</l>
+						<l facs='#facs_15_tr_1_tl_20'>potes reddere volentes pacto stare (quod saepe fit) negarent. Itaque</l>
+						<l facs='#facs_15_tr_1_tl_21'>primo Apostolus vxorum multitudine interdixit ad Corinthios scri-</l>
+						<l facs='#facs_15_tr_1_tl_22'>bens: Attamen propter fornicationem (subaudias vitandam) vnus-</l>
+						<l facs='#facs_15_tr_1_tl_23'>quisque suam habeat vxorem, &amp; vnaquaeque virum suum habeat.</l>
+						<l facs='#facs_15_tr_1_tl_24'>Secundo deinde loco Fabianus (teste Gratiano) praeter illos duos gra-</l>
+						<l facs='#facs_15_tr_1_tl_25'>dus, primum scilicet &amp; secundum per Mosen prohibitos, primiter</l>
+						<l facs='#facs_15_tr_1_tl_26'>tertio &amp; quarto nostris interdixit, quo deinceps nemini fas esset, mu-</l>
+						<l facs='#facs_15_tr_1_tl_27'>lierem affinitate coniunctam citra quintam sobolem vinculo sibi con</l>
+						<l facs='#facs_15_tr_1_tl_28'>iugali adsociare: propterea quòd est nescio quid naturalis verecundiae</l>
+						<l facs='#facs_15_tr_1_tl_29'>nobis innatum, quo facile abhorreamus, ab eiusmodi propinquorum</l>
+						<l facs='#facs_15_tr_1_tl_30'>commistione. At Iulius deinde vt populo Christiano arctiores paula-</l>
+						<l facs='#facs_15_tr_1_tl_31'>tim morum limites poneret, prohibuit, ne vsque ad septimum gradum</l>
+						<l facs='#facs_15_tr_1_tl_32'>matrimonia contraherent. Quod &amp; diuus Gregorius comprobauit,</l>
+						<l facs='#facs_15_tr_1_tl_33'>qui &amp;si Anglis, vtpote id temporis fidei candidatis, non negauit citra</l>
+						<l facs='#facs_15_tr_1_tl_34'>quintum vel sextum gradum, connubia, prout in canonicis decretis</l>
+						<l facs='#facs_15_tr_1_tl_35'>late patet. Ad postremum verò cum istiusmodi patrum seueritas effi</l>
+						<l facs='#facs_15_tr_1_tl_36'>ceret, vt in sua iam quisque ciuitate minus connubium sibi inueniret,</l>
+						<l facs='#facs_15_tr_1_tl_37'>cogereturque per hoc aut à finitimis petere, aut illis dare, vnde haere-</l>
+						<l facs='#facs_15_tr_1_tl_38'>ditas saepenumero distrahebatur, placuit Innocentio tertio Christiani</l>
+						<l facs='#facs_15_tr_1_tl_39'>populi commodo tempestiuiter prouidere. Is enim Fabiani decretum</l>
+						<l facs='#facs_15_tr_1_tl_40'>iampridem antiquatum reuocans statuit: vt cunctis dein perpetuo li-</l>
+						<l facs='#facs_15_tr_1_tl_41'>ceret, eas habere vxores, quae neque cognationis, neque affinitatis pri-</l>
+						<l facs='#facs_15_tr_1_tl_42'>mo, altero, tertio &amp; quarto gradibus essent coniunctae viris, id quod ho</l>
+						<l facs='#facs_15_tr_1_tl_43'>die rite seruatur. Extat placitum hoc in libro decretalium epistolarum</l>
+						<l facs='#facs_15_tr_1_tl_44'>quarto, eo capite, cuius principium est: Non debet. Est etiam modus</l>
+						<l facs='#facs_15_tr_1_tl_45'>m. iij.</l>
+					</lg>
+				</p>
+				<p facs='#facs_15_tr_2'>
+					<lg>
+						<l facs='#facs_15_tr_2_tl_1'>Matth. 5.c</l>
+						<l facs='#facs_15_tr_2_tl_2'>I. Cor. 7.2</l>
+					</lg>
+				</p>
+				<pb facs='#facs_16' xml:id='0016_p016.jpg' n='16'/>
+				<p facs='#facs_16_tr_1'>
+					<lg>
+						<l facs='#facs_16_tr_1_tl_1'>Leui.12.a</l>
+					</lg>
+				</p>
+				<p facs='#facs_16_tr_2'>
+					<lg>
+						<l facs='#facs_16_tr_2_tl_1'>DE INVENT.RERVM.</l>
+						<l facs='#facs_16_tr_2_tl_2'>inter cognatione quam dicunt spiritualem, copulatos positus a Theo-</l>
+						<l facs='#facs_16_tr_2_tl_3'>dato pontifice, qui primus sanxit, ne quis eam puellam duceret uxo-</l>
+						<l facs='#facs_16_tr_2_tl_4'>rem, qua ex baptismi fonte leuasset pater. Est &amp; ex quada honesta-</l>
+						<l facs='#facs_16_tr_2_tl_5'>te à Gregorio, &amp; post eum ab Alexandro tertio statutum, ne sponsam</l>
+						<l facs='#facs_16_tr_2_tl_6'>fratris relictam frater in matrimonio haberet, ne Hebraeorum videre-</l>
+						<l facs='#facs_16_tr_2_tl_7'>tur imitatio: apud quos, vt frater fratris vxorem duceret, soboli susci-</l>
+						<l facs='#facs_16_tr_2_tl_8'>piendae causa, fas erat. Item Euaristus primus decretum tulit, vt ince</l>
+						<l facs='#facs_16_tr_2_tl_9'>stum haberetur connubium, cui sacerdos non adesset, benediceretque il-</l>
+						<l facs='#facs_16_tr_2_tl_10'>li : ac nisi puella à parentibus solenni more viro desponderetur. Platina</l>
+						<l facs='#facs_16_tr_2_tl_11'>ad Sotetem id institutum refert, dicens: Instituit item ne legitima ha-</l>
+						<l facs='#facs_16_tr_2_tl_12'>beretur vxor, nisi cui sacerdos ex instituto benedixisset: &amp; quam paren-</l>
+						<l facs='#facs_16_tr_2_tl_13'>tes solenni pompa more Christiano marito collocassent, quam para-</l>
+						<l facs='#facs_16_tr_2_tl_14'>nymphi etiam de more custodiuissent. Hoc autem constituit multa pe-</l>
+						<l facs='#facs_16_tr_2_tl_15'>ricula reijciens, quae in nouas nuptas cadere solent, ex praestigis &amp; ma</l>
+						<l facs='#facs_16_tr_2_tl_16'>gicis artibus quorundam improborum. Hactenus Platina. Qui cum di-</l>
+						<l facs='#facs_16_tr_2_tl_17'>cat Soterem ex instituto mandasse, vt sacerdos benediceret nuptiis, vi-</l>
+						<l facs='#facs_16_tr_2_tl_18'>detur innuere illud iam antea fuisse institutum, ac per hoc planè Eua-</l>
+						<l facs='#facs_16_tr_2_tl_19'>risto assignare, qui ante Soterem sedit: quod &amp; Gratianus sentit. Talia</l>
+						<l facs='#facs_16_tr_2_tl_20'>Ethnici quoque seruabant, vel Apuleio teste, qui in sexto Asini libro</l>
+						<l facs='#facs_16_tr_2_tl_21'>inducit Venerem argumentantem, non videri legitimas inter Cupidi</l>
+						<l facs='#facs_16_tr_2_tl_22'>nem &amp; Psychen nuptias, ob disparilitatem, &amp; quòd res acta esset fur-</l>
+						<l facs='#facs_16_tr_2_tl_23'>tim, sine testibus, patre non cognoscente. Vnde merito iam pudeat</l>
+						<l facs='#facs_16_tr_2_tl_24'>Christiani nominis viros, qui posthabitis tam nostris quàm priscorum</l>
+						<l facs='#facs_16_tr_2_tl_25'>legibus, clandestina cottidie matrimonij foedera ineunt: quae propterea,</l>
+						<l facs='#facs_16_tr_2_tl_26'>nihil mirentur, si minus sibi prosperentur. Quod puerperae purifican-</l>
+						<l facs='#facs_16_tr_2_tl_28'>tur, hoc ab Hebraeis est mutuo acceptum. In Leuitico enim scriptum</l>
+						<l facs='#facs_16_tr_2_tl_29'>legimus: Si mulier suscepto semine pepererit masculum, immunda erit</l>
+						<l facs='#facs_16_tr_2_tl_30'>septem diebus: &amp; die octauo circuncidetur infantulus: ipsa verò trigin-</l>
+						<l facs='#facs_16_tr_2_tl_31'>tatribus diebus manebit in sanguine purificationis suae. Sin foeminam</l>
+						<l facs='#facs_16_tr_2_tl_32'>pepererit, immunda erit duabus hebdomadis, &amp; sexagintasex diebus</l>
+						<l facs='#facs_16_tr_2_tl_33'>manebit in sanguine purificationis suae. Cum expleti fuerint dies lu-</l>
+						<l facs='#facs_16_tr_2_tl_34'>strationis eius pro filio, siue pro filia, deferet agnum anniculum in ho</l>
+						<l facs='#facs_16_tr_2_tl_35'>locaustum, &amp; pullum columbae siue turturem pro peccato. &amp; reliqua.</l>
+						<l facs='#facs_16_tr_2_tl_36'>Caeterum apud nos non est eiusmodi lustrationi statutum tempus, ne</l>
+						<l facs='#facs_16_tr_2_tl_37'>mulieribus diutius expectando (vt Innocentius ait) poena qua parien-</l>
+						<l facs='#facs_16_tr_2_tl_38'>do afficiuntur, conuerti videatur in culpam. Solent tamen hodie ho-</l>
+						<l facs='#facs_16_tr_2_tl_39'>nestatis causa non ante mensem à partu exactum purificari, quae tunc</l>
+						<l facs='#facs_16_tr_2_tl_40'>matronis aliquot comitatae templum adeunt, &amp; loco agni, columbae,</l>
+						<l facs='#facs_16_tr_2_tl_41'>vel turturis, cereum offerunt.</l>
+					</lg>
+				</p>
+				<pb facs='#facs_17' xml:id='0017_p017.jpg' n='17'/>
+				<p facs='#facs_17_tr_1'>
+					<lg>
+						<l facs='#facs_17_tr_1_tl_1'>LIBER QVINTVS.</l>
+						<l facs='#facs_17_tr_1_tl_2'>89</l>
+						<l facs='#facs_17_tr_1_tl_3'>pe principio Christianae ecclesiae, &amp; quis primus vero deo templum</l>
+						<l facs='#facs_17_tr_1_tl_4'>erexerit, statueritque vt ipsa templa solenni ceremonia dedicarentur,</l>
+						<l facs='#facs_17_tr_1_tl_5'>ac vbi gentium prima aedes dicata fuerit CHRISTO saluatori no</l>
+						<l facs='#facs_17_tr_1_tl_6'>stro. Et quis Romae primùm coemeterium condiderit, &amp; quis pri-</l>
+						<l facs='#facs_17_tr_1_tl_7'>mitus dedicauerit altare deo, &amp; quando primùm crux coeperit ha-</l>
+						<l facs='#facs_17_tr_1_tl_8'>beri honori atque venerationi. Caput VI.</l>
+						<l facs='#facs_17_tr_1_tl_11'>Hactenus ecclesiae primordia, &amp; ea quidem carptim attigimus,</l>
+						<l facs='#facs_17_tr_1_tl_12'>nunc de eiusdem &amp; materialis templi simul initijs indiscrimi-</l>
+						<l facs='#facs_17_tr_1_tl_13'>natim dicendum. Ecclesiam quae &amp; synagoga dicitur, &amp; vtrum-</l>
+						<l facs='#facs_17_tr_1_tl_14'>que Graecum est vocabulum, significatque apud nos conuocationem, con</l>
+						<l facs='#facs_17_tr_1_tl_15'>cionem, conuentum, &amp; denique coetum fidelium nos effecimus: quo-</l>
+						<l facs='#facs_17_tr_1_tl_16'>ties simul conuenimus, simul inter nos congregamur, simul vnanimes</l>
+						<l facs='#facs_17_tr_1_tl_17'>sincera fide armati, spe certa ducti, charitate non ficta tacti inuocamus</l>
+						<l facs='#facs_17_tr_1_tl_18'>nomem domini. Hanc nimirum primus omnium condidit CHRISTVS prae</l>
+						<l facs='#facs_17_tr_1_tl_19'>ceptor noster, cuius &amp; caput est: qui Apostolos, qui discipulos non ex</l>
+						<l facs='#facs_17_tr_1_tl_20'>Sophistarum scholis (haud enim talium indiga est veritas) sed ex pro-</l>
+						<l facs='#facs_17_tr_1_tl_21'>bissimorum hominum genere in vnum coegit, docuitque coelestem do-</l>
+						<l facs='#facs_17_tr_1_tl_22'>ctrinam. Secundum eum, Apostoli ipsi fundarunt, qui post ascensio-</l>
+						<l facs='#facs_17_tr_1_tl_24'>nem ipsius saluatoris reuersi Hierosolymam â monte Oliueti, introie-</l>
+						<l facs='#facs_17_tr_1_tl_25'>runt domum, ascenderunt in coenaculum, &amp; ibi omnes vnâ cum dei-</l>
+						<l facs='#facs_17_tr_1_tl_26'>para virgine, aliisve mulieribus perseuerarunt vnanimiter in oratio-</l>
+						<l facs='#facs_17_tr_1_tl_27'>ne ac deprecatione. Eam Lucas vocat ecclesiam, dicens in Actis: Ec-</l>
+						<l facs='#facs_17_tr_1_tl_28'>clesiae quidem per totam Iudaeam &amp; Galilaeam &amp; Samariam habebant</l>
+						<l facs='#facs_17_tr_1_tl_29'>pacem, &amp; aedificabantur ambulantes in timore domini, &amp; consolatio-</l>
+						<l facs='#facs_17_tr_1_tl_30'>ne sancti spiritus multiplicabantur. Attende dixit, am bulantes, vt in-</l>
+						<l facs='#facs_17_tr_1_tl_31'>telligeres ecclesiam non manufactam quam vulgus appellat, sed spiri</l>
+						<l facs='#facs_17_tr_1_tl_32'>tualem: quia deus spiritu colitur à nobis: testante Apostolo atque di-</l>
+						<l facs='#facs_17_tr_1_tl_33'>cente: Orabo spiritu, orabo &amp; mente: psallam spiritu, psallam &amp; men-</l>
+						<l facs='#facs_17_tr_1_tl_34'>te. Et quoniam spiritus noster corpore continetur, hinc factum est, vt</l>
+						<l facs='#facs_17_tr_1_tl_35'>continens corpus dictum sit templum. Vtrunque affirmat idem Apo-</l>
+						<l facs='#facs_17_tr_1_tl_36'>stolus, suis ita loquens Corinthijs: An nescitis quòd templum dei estis,</l>
+						<l facs='#facs_17_tr_1_tl_37'>&amp; spiritus dei habitat in vobis? Templum tale carne &amp; ossibus con-</l>
+						<l facs='#facs_17_tr_1_tl_38'>stans rerum omnium opifex deus principio finxit. Is fuit Adam noster</l>
+						<l facs='#facs_17_tr_1_tl_39'>primus parens (vt supra diximus) ex materia, post haec Moses primo</l>
+						<l facs='#facs_17_tr_1_tl_40'>tabernaculum deo statuit, vbi preces &amp; pia vota illi exoluerentur: &amp;</l>
+						<l facs='#facs_17_tr_1_tl_41'>in eo fabricata est arca, in qua lapideas clauserunt tabulas, quibus in-</l>
+						<l facs='#facs_17_tr_1_tl_42'>cisae erant leges. Secundo deinde loco Salomon rex templum Hieroso</l>
+						<l facs='#facs_17_tr_1_tl_43'>lymis (vt alibi plenius dicemus) magnificentissimo apparatu aedifica-</l>
+						<l facs='#facs_17_tr_1_tl_44'>uit. Haec fuit synagoga materialis, vt vulgo nunc vocatur: spiritalem</l>
+						<l facs='#facs_17_tr_1_tl_45'>nominat dominus, ita loquens Mosi: Sume Aaron &amp; filios eius, &amp; om-</l>
+						<l facs='#facs_17_tr_1_tl_46'>nem synagogam conuoca, &amp;c. Post euangelicum dogma inter gentes</l>
+						<l facs='#facs_17_tr_1_tl_47'>publicatum, vbi loci prima aedes saluatori nostro dicata fuerit pro cer</l>
+					</lg>
+				</p>
+				<p facs='#facs_17_r'>
+					<lg>
+						<l facs='#facs_17_tr_1_tl_23'>Act.I.b</l>
+						<l facs='#facs_17_l'>Act.9.e</l>
+						<l facs='#facs_17_l_406'>I.Cor.14.c</l>
+						<l facs='#facs_17_l_413'>I.Cori.3.c</l>
+					</lg>
+				</p>
+				<pb facs='#facs_18' xml:id='0018_p018.jpg' n='18'/>
+				<p facs='#facs_18_tr_1'>
+					<lg>
+						<l facs='#facs_18_tr_1_tl_1'>Gene. 23.c</l>
+					</lg>
+				</p>
+				<p facs='#facs_18_tr_2'>
+					<lg>
+						<l facs='#facs_18_tr_2_tl_1'>DE INVENT. RERVM</l>
+						<l facs='#facs_18_tr_2_tl_2'>to ponere non ausim,ne diuinare potius quam veritati inhaerere dicar.</l>
+						<l facs='#facs_18_tr_2_tl_3'>Sed in re parum nota coniectare licet. Porrò à CHRISTI statim ascen</l>
+						<l facs='#facs_18_tr_2_tl_4'>sione prima in Christianum nomen insectatio à Iudaeis coepit, secun-</l>
+						<l facs='#facs_18_tr_2_tl_5'>dam Nero indixit, quam vix finitam tertia à Domitiano veluti dira</l>
+						<l facs='#facs_18_tr_2_tl_6'>lues immissa excepit. Sic aliae super alijs vsque ad tempora Diocletiani</l>
+						<l facs='#facs_18_tr_2_tl_7'>&amp; Maximiani imperatorum persecutiones immanissimae continuarunt.</l>
+						<l facs='#facs_18_tr_2_tl_8'>Quo ferè toto temporis interuallo tantum aberat, vt aliquod templum</l>
+						<l facs='#facs_18_tr_2_tl_9'>à fidelibus publicitus fabricaretur: vt etiam omnia (autore Platina) es-</l>
+						<l facs='#facs_18_tr_2_tl_10'>sent occulta, &amp; sacella potius atque eadem abdita, &amp; plerunque fub-</l>
+						<l facs='#facs_18_tr_2_tl_11'>terranea, quàm apertis in locis ac publicis fierent. Est tamen consenta</l>
+						<l facs='#facs_18_tr_2_tl_12'>neum credere, in remotis locis quo non facile peruaserat ille persecu-</l>
+						<l facs='#facs_18_tr_2_tl_13'>tionum furor, phana aliqua interim aut aedificata, aut quae primum dae-</l>
+						<l facs='#facs_18_tr_2_tl_14'>monum fuerant, Christo dicata ab Apostolis fuisse, qui vbique gentium</l>
+						<l facs='#facs_18_tr_2_tl_15'>vbique temporum propagandae fidei totis viribus incumbebant. Quod</l>
+						<l facs='#facs_18_tr_2_tl_16'>aut in Aethiopia à Matthaeo, aut in India citeriore à Bartholomao</l>
+						<l facs='#facs_18_tr_2_tl_17'>aut in Scythia ab Andrea: quorum praedicatione his gentibus Christia-</l>
+						<l facs='#facs_18_tr_2_tl_18'>nae pietatis lux ab initio affulsit, factum esse &amp; crediderim &amp; dixerim.</l>
+						<l facs='#facs_18_tr_2_tl_19'>Non abhorret praeterea à fide aliquam cellam fuisse primitus à Iaco-</l>
+						<l facs='#facs_18_tr_2_tl_20'>bo Hierosolymis deo dicatam, qui inibi cathedram primus locauit pri</l>
+						<l facs='#facs_18_tr_2_tl_21'>musque rem diuinam ritu apostolico facere coepit. Autor Eusebius.</l>
+						<l facs='#facs_18_tr_2_tl_22'>Nec mirum alicui esse debet, si talia ac huiusmodi bene multa alia mi</l>
+						<l facs='#facs_18_tr_2_tl_23'>nus literis prodita sint, quod scriptorum inopia factum est. Romae non</l>
+						<l facs='#facs_18_tr_2_tl_24'>reperio (quod sciam) aliud antiquius templum aedificatum, aut dica-</l>
+						<l facs='#facs_18_tr_2_tl_25'>tum, vel ad vsum sacrorum fuisse conuersum, quàm Thermas Nouati</l>
+						<l facs='#facs_18_tr_2_tl_26'>in vico Patritio, quas Pius pontifex Praxedis eximiae sanctitatis foemi</l>
+						<l facs='#facs_18_tr_2_tl_27'>nae rogatu diuae Pudentianae eius sorori dedicauit. Qui fuit annus cir-</l>
+						<l facs='#facs_18_tr_2_tl_28'>citer quinquagesimus supra centesimum ab eo qui humanae salutis fuit</l>
+						<l facs='#facs_18_tr_2_tl_29'>primus. Iginius tamen qui Pium praecesserat, autor fuit, vt templa so</l>
+						<l facs='#facs_18_tr_2_tl_31'>lennibus dedicarentur ceremonijs (vt alibi fusius dicetur, cum de festo-</l>
+						<l facs='#facs_18_tr_2_tl_32'>rum dierum celebratione agetur) quod fidem facit, iam antea loca ali-</l>
+						<l facs='#facs_18_tr_2_tl_33'>qua deo dicata fuisse, sed vbi loci id factum fuerit, parum liquido tra-</l>
+						<l facs='#facs_18_tr_2_tl_34'>ditur. Nec ita multo post Calistus iam sese tyrannorum odio sensim re-</l>
+						<l facs='#facs_18_tr_2_tl_35'>mittente, aedem in transtyberina regione in honorem beatae virgini</l>
+						<l facs='#facs_18_tr_2_tl_36'>struxit, coemeteriummque de suo nomine condidit, via Appia, vbi mul-</l>
+						<l facs='#facs_18_tr_2_tl_37'>torum martyrum repositi erant cineres. Visuntur hodie his locis &amp; sacella</l>
+						<l facs='#facs_18_tr_2_tl_38'>quaedam, quibus occulto rem diuinam prisci illi pietatis cultores fecisse</l>
+						<l facs='#facs_18_tr_2_tl_39'>creduntur: quoniam (vti ostendimus) publice non liceret. Coemiterij</l>
+						<l facs='#facs_18_tr_2_tl_40'>condendi institutum Abrahae assignant, qui (sicut refertur apud losephum)</l>
+						<l facs='#facs_18_tr_2_tl_41'>dicitur emisse ab Ephron Hethaeo filio Saor prope Hebron, quadringen</l>
+						<l facs='#facs_18_tr_2_tl_42'>tis siclis speluncam duplicem, &amp; agrum circa eam, sepelisseque in ea Sa</l>
+						<l facs='#facs_18_tr_2_tl_43'>ram vxorem suam, inibique ipse mox repositus fuisse. De vario apud</l>
+						<l facs='#facs_18_tr_2_tl_44'>alias gentes olim sepeliendi vsu, alibi suo dictum est loco. Altare (vt le-</l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
